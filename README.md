@@ -4,8 +4,6 @@ Tutto il materiale è rilasciato secondo la licenza:
 
 Creative Commons Attribuzione - Non commerciale 3.0 Italia (CC BY-NC 3.0 IT)
 
-# Quando il Significato dei Dati Risiede nelle CONNESSIONI
-
 ## Base Dati
 I dati utilizzati nel progetto sono scaricabili dalle fonti citate nel [Bando](https://www.che-fare.com/che-fare-media/2017/05/Bando-Open-Data-per-la-Cultura.pdf). Sono stati inoltre utilizzati ulteriori dati provenienti dal sito del [Ministero dell'Interno Italiano](http://www.interno.gov.it/it/sala-stampa/dati-e-statistiche), relativi ai centri di accoglienza dei migranti in Italia.
 
