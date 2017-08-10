@@ -89,3 +89,55 @@ MERGE (c)-[:PROPONE]->(p)
 MERGE (c)-[:RISIEDE_IN]->(l)
 MERGE (p)-[:APPARTIENE_A]->(b)
 MERGE (p)-[:TRATTA_DI]->(a)
+
+// Crea le connessioni [:FA_PARTE_DI] tra Comuni e Regioni di Provenienza
+
+// Piemonte
+MATCH (a1:Luogo {nome:'Altra provincia piemontese'}),
+(a2:Luogo {nome:'Torino'}),
+(a3:Luogo {nome:'Cuneo'}),
+(a4:Luogo {nome:'Asti'}),
+(a5:Luogo {nome:'Novara'}),
+(a6:Luogo {nome:'Alessandria'}),
+(P:Luogo {nome:'Piemonte'})
+
+CREATE (a1)–[:FA_PARTE_DI]->(P)
+CREATE (a2)–[:FA_PARTE_DI]->(P)
+CREATE (a3)–[:FA_PARTE_DI]->(P)
+CREATE (a4)–[:FA_PARTE_DI]->(P)
+CREATE (a5)–[:FA_PARTE_DI]->(P)
+CREATE (a6)–[:FA_PARTE_DI]->(P)
+
+// Liguria
+MATCH (a1:Luogo {nome:'Altra provincia ligure'}),
+(a2:Luogo {nome:'Genova'}),
+(P:Luogo {nome:'Liguria'})
+
+CREATE (a1)–[:FA_PARTE_DI]->(P)
+CREATE (a2)–[:FA_PARTE_DI]->(P)
+
+// Lombardia
+MATCH (a1:Luogo {nome:'Mantova'}),
+(a2:Luogo {nome:'Bergamo'}),
+(a3:Luogo {nome:'Varese'}),
+(a4:Luogo {nome:'Altra provincia Lombarda'}),
+(a5:Luogo {nome:'Pavia'}),
+(a6:Luogo {nome:'Lecco'}),
+(a7:Luogo {nome:'Monza e della Brianza'}),
+(a8:Luogo {nome:'Como'}),
+(a9:Luogo {nome:'Milano'}),
+(a10:Luogo {nome:'Brescia'}),
+(a11:Luogo {nome:'Cremona'}),
+(P:Luogo {nome:'Lombardia'})
+
+CREATE (a1)–[:FA_PARTE_DI]->(P)
+CREATE (a2)–[:FA_PARTE_DI]->(P)
+CREATE (a3)–[:FA_PARTE_DI]->(P)
+CREATE (a4)–[:FA_PARTE_DI]->(P)
+CREATE (a5)–[:FA_PARTE_DI]->(P)
+CREATE (a6)–[:FA_PARTE_DI]->(P)
+CREATE (a7)–[:FA_PARTE_DI]->(P)
+CREATE (a8)–[:FA_PARTE_DI]->(P)
+CREATE (a9)–[:FA_PARTE_DI]->(P)
+CREATE (a10)–[:FA_PARTE_DI]->(P)
+CREATE (a11)–[:FA_PARTE_DI]->(P)
