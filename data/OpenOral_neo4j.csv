@@ -1,0 +1,568 @@
+ID_UNI;PROV;BANDO;FORMA_GIU;Ambito;T
+1-Open 2015;Alessandria;Open 2015;Ente locale;INN_CULT, ARCH_BIB;
+2-Open 2015;Torino;Open 2015;Associazione;INN_CULT, APP_SOFT, ENOGASTR;
+3-Open 2015;Torino;Open 2015;Cooperativa;INN_CULT, ARTI_VIS, CONCORSO, EVENTI, INT_SOC;T_SETT, T_MIGRAN
+4-Open 2015;Torino;Open 2015;Associazione;INN_CULT, EDITORIA;
+5-Open 2015;Torino;Open 2015;Associazione;INN_CULT, FESTIVAL, SPETTAC;
+6-Open 2015;Cuneo;Open 2015;Ente locale;INN_CULT, APP_SOFT, ARCH_BIB, TURISMO;
+7-Open 2015;Cuneo;Open 2015;Cooperativa;INN_CULT, ENOGASTR, EVENTI, INT_SOC;T_MIGRAN
+8-Open 2015;Cuneo;Open 2015;Fondazione;INN_CULT, COMMUNIT, EVENTI;
+9-Open 2015;Asti;Open 2015;Ente locale;INN_CULT, SPETTAC;
+10-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ARTI_VIS, DID_FORM;T_GIOVAN
+11-Open 2015;Genova;Open 2015;Associazione;INN_CULT, ARTI_VIS, FESTIVAL;
+12-Open 2015;Torino;Open 2015;Associazione;INN_CULT, EVENTI, SPAZI;
+13-Open 2015;Cuneo;Open 2015;Associazione;INN_CULT, AUDIOVIS, SPETTAC;T_GIOVAN
+14-Open 2015;Torino;Open 2015;Associazione;INN_CULT, POL_SOC, DID_FORM, SPETTAC;T_GIOVAN
+15-Open 2015;Altra provincia piemontese;Open 2015;Altro;INN_CULT, CONCORSO, DID_FORM, FESTIVAL;T_SETT
+16-Open 2015;Torino;Open 2015;Cooperativa;INN_CULT, ARTI_VIS, DID_FORM, SPETTAC;
+17-Open 2015;Novara;Open 2015;Associazione;INN_CULT, ENOGASTR, FESTIVAL, SPETTAC;
+18-Open 2015;Asti;Open 2015;Ente locale;INN_CULT, EDITORIA, SPETTAC;
+19-Open 2015;Asti;Open 2015;Associazione;INN_CULT, PATRIMON;
+20-Open 2015;Torino;Open 2015;Associazione;INN_CULT, FESTIVAL, SPETTAC;
+21-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ARTI_VIS, DID_FORM, SPETTAC;
+22-Open 2015;Torino;Open 2015;Associazione;INN_CULT, POL_SOC, EVENTI, INT_SOC;T_DV_AB
+23-Open 2015;Genova;Open 2015;Istruzione, università e ricerca;INN_CULT, ARCH_BIB, WEB;T_SETT
+24-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ARTI_VIS, FESTIVAL, SPETTAC;
+25-Open 2015;Alessandria;Open 2015;Ente locale;INN_CULT, DID_FORM, SPETTAC;T_GIOVAN
+26-Open 2015;Torino;Open 2015;Associazione;INN_CULT, DID_FORM, EDITORIA, INT_SOC;T_MIGRAN
+27-Open 2015;Torino;Open 2015;Associazione;INN_CULT, DID_FORM, WEB;T_DONNE
+28-Open 2015;Cuneo;Open 2015;Associazione;INN_CULT, DID_FORM, PATRIMON, TURISMO, WEB;T_GIOVAN
+29-Open 2015;Torino;Open 2015;Associazione;INN_CULT, DID_FORM, SPETTAC;
+30-Open 2015;Altra provincia piemontese;Open 2015;Ente locale;INN_CULT, PATRIMON, SPETTAC, TURISMO;
+31-Open 2015;Torino;Open 2015;Associazione;INN_CULT, CONCORSO, EDITORIA, WEB;
+32-Open 2015;Torino;Open 2015;Altro;INN_CULT, ARCHITET, EDITORIA, EVENTI, SPETTAC;
+33-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ALTRO;T_SETT
+34-Open 2015;Asti;Open 2015;Associazione;INN_CULT, EDITORIA, FESTIVAL, SPETTAC;
+35-Open 2015;Alessandria;Open 2015;Altro;INN_CULT, PATRIMON, TURISMO, WEB;
+36-Open 2015;Genova;Open 2015;Associazione;INN_CULT, SPETTAC;
+37-Open 2015;Torino;Open 2015;Altro;INN_CULT, POL_SOC, AUDIOVIS, INT_SOC;T_DONNE
+38-Open 2015;Torino;Open 2015;Fondazione;INN_CULT, CONCORSO, DID_FORM, PATRIMON;
+39-Open 2015;Torino;Open 2015;Associazione;INN_CULT, FESTIVAL, SPETTAC;
+40-Open 2015;Torino;Open 2015;Altro;INN_CULT, SPETTAC;
+41-Open 2015;Altra provincia piemontese;Open 2015;Associazione;INN_CULT, SPETTAC;
+42-Open 2015;Cuneo;Open 2015;Associazione;INN_CULT, ARTI_VIS, AUDIOVIS, EDITORIA, FESTIVAL, SPETTAC;
+43-Open 2015;Altra provincia ligure;Open 2015;Ente locale;INN_CULT, CONCORSO, SPETTAC;
+44-Open 2015;Torino;Open 2015;Associazione;POL_SOC, SPETTAC;T_GIOVAN
+45-Open 2015;Torino;Open 2015;Associazione;INN_CULT, POL_SOC, EVENTI, SPETTAC;T_SETT
+46-Open 2015;Genova;Open 2015;Associazione;INN_CULT, DID_FORM;T_GIOVAN
+47-Open 2015;Torino;Open 2015;Altro;INN_CULT, POL_SOC, AUDIOVIS, CONCORSO, ENOGASTR, SPETTAC, SPORT;
+48-Open 2015;Torino;Open 2015;Associazione;INN_CULT, AUDIOVIS, CONCORSO, FESTIVAL;T_SETT
+49-Open 2015;Genova;Open 2015;Ente locale;INN_CULT, EVENTI;
+50-Open 2015;Torino;Open 2015;Associazione;INN_CULT, FESTIVAL, SPETTAC;T_GIOVAN
+51-Open 2015;Torino;Open 2015;Cooperativa;INN_CULT, DID_FORM;T_GIOVAN
+52-Open 2015;Torino;Open 2015;Associazione;INN_CULT, POL_SOC, DID_FORM;T_GIOVAN
+53-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ENOGASTR, SPORT;
+54-Open 2015;Alessandria;Open 2015;Altro;INN_CULT, ARTI_VIS, AUDIOVIS, CONCORSO, DID_FORM, ENOGASTR, INT_SOC, SPETTAC;
+55-Open 2015;Torino;Open 2015;Associazione;INN_CULT, POL_SOC, DID_FORM, INT_SOC, PATRIMON;
+56-Open 2015;Genova;Open 2015;Cooperativa;INN_CULT, APP_SOFT, DID_FORM, TURISMO;
+57-Open 2015;Altra provincia italiana;Open 2015;Altro;INN_CULT, POL_SOC, INT_SOC;T_GIOVAN
+58-Open 2015;Asti;Open 2015;Istruzione, università e ricerca;INN_CULT, ENOGASTR, PATRIMON, TURISMO;
+59-Open 2015;Altra provincia piemontese;Open 2015;Associazione;INN_CULT, DID_FORM, SPETTAC;T_SETT
+60-Open 2015;Cuneo;Open 2015;Ente locale;INN_CULT, ARTI_VIS, AUDIOVIS, TURISMO, WEB;
+61-Open 2015;Alessandria;Open 2015;Ente locale;INN_CULT, APP_SOFT, CONCORSO;T_GIOVAN
+62-Open 2015;Torino;Open 2015;Altro;INN_CULT, ARTI_VIS, ENOGASTR, EVENTI, SPETTAC;T_MIGRAN
+63-Open 2015;Torino;Open 2015;Associazione;INN_CULT, POL_SOC, ARTI_VIS, PATRIMON;
+64-Open 2015;Alessandria;Open 2015;Ente locale;INN_CULT, AUDIOVIS, FESTIVAL;
+65-Open 2015;Cuneo;Open 2015;Associazione;INN_CULT, APP_SOFT, ARTI_VIS, PATRIMON, TURISMO;
+66-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ARTI_VIS, DID_FORM, ENOGASTR;
+67-Open 2015;Torino;Open 2015;Associazione;INN_CULT, DID_FORM, SPETTAC;
+68-Open 2015;Alessandria;Open 2015;Associazione;INN_CULT;
+69-Open 2015;Torino;Open 2015;Associazione;INN_CULT, AUDIOVIS, DID_FORM;
+70-Open 2015;Alessandria;Open 2015;Ente locale;INN_CULT, ARTI_VIS, DID_FORM;T_GIOVAN
+71-Open 2015;Torino;Open 2015;Associazione;INN_CULT, DID_FORM, INT_SOC, SPETTAC;T_ANZIAN
+72-Open 2015;Altra provincia ligure;Open 2015;Altro;INN_CULT, AUDIOVIS, COMMUNIT, SOC_NET, SPETTAC, WEB;T_GIOVAN
+73-Open 2015;Torino;Open 2015;Altro;INN_CULT, DID_FORM, SPETTAC;
+74-Open 2015;Torino;Open 2015;Associazione;INN_CULT, PATRIMON, TURISMO;T_DV_AB
+75-Open 2015;Torino;Open 2015;Associazione;INN_CULT, AUDIOVIS, EDITORIA;T_DV_AB
+76-Open 2015;Novara;Open 2015;Fondazione;INN_CULT, AUDIOVIS, SPAZI, SPETTAC;
+77-Open 2015;Torino;Open 2015;Associazione;INN_CULT, POL_SOC, CONCORSO, DID_FORM, INT_SOC, PATRIMON;T_GIOVAN
+78-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ARCH_BIB;
+79-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ARCH_BIB, AUDIOVIS, DID_FORM, WEB;
+80-Open 2015;Altra provincia ligure;Open 2015;Associazione;INN_CULT, POL_SOC, CONCORSO, PATRIMON;T_ADULTI, T_ANZIAN
+81-Open 2015;Torino;Open 2015;Associazione;INN_CULT, APP_SOFT, PATRIMON;
+82-Open 2015;Torino;Open 2015;Cooperativa;INN_CULT, APP_SOFT, ARCH_BIB, DID_FORM, WEB;T_GIOVAN
+83-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ARTI_VIS;
+84-Open 2015;Torino;Open 2015;Associazione;INN_CULT, POL_SOC, SPAZI, SPETTAC, WEB;
+85-Open 2015;Torino;Open 2015;Associazione;INN_CULT, AUDIOVIS, FESTIVAL;
+86-Open 2015;Torino;Open 2015;Cooperativa;INN_CULT, CONCORSO, INT_SOC;T_GIOVAN
+87-Open 2015;Torino;Open 2015;Cooperativa;INN_CULT, APP_SOFT, PATRIMON, WEB;T_GIOVAN
+88-Open 2015;Torino;Open 2015;Altro;INN_CULT, DID_FORM, SPETTAC;T_GIOVAN
+89-Open 2015;Alessandria;Open 2015;Ente locale;INN_CULT, AUDIOVIS, DID_FORM, EDITORIA;T_DONNE
+90-Open 2015;Cuneo;Open 2015;Altro;INN_CULT, PATRIMON;
+91-Open 2015;Novara;Open 2015;Associazione;INN_CULT, ALTRO;T_GIOVAN
+92-Open 2015;Altra provincia italiana;Open 2015;Associazione;INN_CULT, WEB, ALTRO;T_SETT
+93-Open 2015;Cuneo;Open 2015;Associazione;INN_CULT, ARTI_VIS, CONCORSO, EDITORIA, ENOGASTR;
+94-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ARTI_VIS, EVENTI;
+95-Open 2015;Altra provincia italiana;Open 2015;Associazione;INN_CULT, APP_SOFT, SOC_NET;T_SETT
+96-Open 2015;Genova;Open 2015;Cooperativa;INN_CULT, COMMUNIT, PATRIMON;
+97-Open 2015;Novara;Open 2015;Ente locale;INN_CULT, APP_SOFT, DID_FORM, PATRIMON, TURISMO, WEB;
+98-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ARTI_VIS, COMMUNIT, EVENTI, SPETTAC, WEB;
+99-Open 2015;Torino;Open 2015;Associazione;INN_CULT, POL_SOC, FESTIVAL, SPETTAC;
+100-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ARCH_BIB;
+101-Open 2015;Altra provincia italiana;Open 2015;Associazione;INN_CULT, SPETTAC;
+102-Open 2015;Torino;Open 2015;Associazione;INN_CULT, POL_SOC, DID_FORM;
+103-Open 2015;Novara;Open 2015;Altro;INN_CULT, EDITORIA, FESTIVAL, SPETTAC;
+104-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ARCH_BIB, WEB;
+105-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ALTRO;T_SETT
+106-Open 2015;Torino;Open 2015;Associazione;INN_CULT, PATRIMON;T_GIOVAN
+107-Open 2015;Torino;Open 2015;Associazione;INN_CULT, SOC_NET, SPETTAC, WEB;
+108-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ALTRO;T_MIGRAN
+109-Open 2015;Genova;Open 2015;Associazione;INN_CULT, DID_FORM, SPETTAC;T_SETT
+110-Open 2015;Asti;Open 2015;Cooperativa;INN_CULT, EVENTI, PATRIMON, SPETTAC;T_GIOVAN
+111-Open 2015;Torino;Open 2015;Associazione;INN_CULT, AUDIOVIS, INT_SOC, WEB;
+112-Open 2015;Torino;Open 2015;Associazione;INN_CULT, ARCH_BIB, AUDIOVIS, SPAZI;T_SETT
+113-Open 2015;Altra provincia italiana;Open 2015;Associazione;INN_CULT, ARTI_VIS, EDITORIA, SPETTAC;T_GIOVAN
+114-Open 2015;Genova;Open 2015;Altro;INN_CULT, SPETTAC;
+115-Open 2015;Torino;Open 2015;Cooperativa;INN_CULT, ARTIGIAN, CONCORSO, DID_FORM, ALTRO;T_SETT
+116-Open 2015;Cuneo;Open 2015;Associazione;INN_CULT, POL_SOC, AUDIOVIS;T_GIOVAN
+117-Open 2015;Altra provincia italiana;Open 2015;Istruzione, università e ricerca;INN_CULT, POL_SOC, DID_FORM;T_GIOVAN
+118-Open 2015;Cuneo;Open 2015;Altro;INN_CULT, ENOGASTR, PATRIMON, TURISMO;
+119-Open 2015;Torino;Open 2015;Associazione;INN_CULT, EDITORIA, TURISMO;
+120-Open 2015;Torino;Open 2015;Fondazione;INN_CULT, POL_SOC;
+121-Open 2015;Altra provincia italiana;Open 2015;Associazione;INN_CULT, EDITORIA, EVENTI;
+122-Open 2015;Torino;Open 2015;Altro;INN_CULT, ARTI_VIS, AUDIOVIS, SPAZI;
+123-Open 2015;Altra provincia italiana;Open 2015;Cooperativa;INN_CULT, APP_SOFT, AUDIOVIS;
+124-Open 2015;Torino;Open 2015;Associazione;INN_CULT, AUDIOVIS, INT_SOC, WEB;
+125-Open 2015;Torino;Open 2015;Fondazione;INN_CULT, DID_FORM, ALTRO;T_SETT
+126-Open 2015;Altra provincia ligure;Open 2015;Associazione;INN_CULT, ENOGASTR, FESTIVAL, SPETTAC;
+127-Open 2015;Novara;Open 2015;Associazione;INN_CULT, ARCHITET, ARTI_VIS, DESIGN, DID_FORM, EVENTI, SPAZI;
+128-Open 2015;Torino;Open 2015;Associazione;INN_CULT, AUDIOVIS, COMMUNIT, DID_FORM, WEB;T_GIOVAN
+129-Open 2015;Cuneo;Open 2015;Ente locale;INN_CULT, DID_FORM, ALTRO;T_SETT
+130-Open 2015;Altra provincia italiana;Open 2015;Impresa sociale;INN_CULT, ARTIGIAN, DESIGN;
+131-Open 2015;Torino;Open 2015;Ente locale;INN_CULT, APP_SOFT, TURISMO, WEB;
+132-Open 2015;Altra provincia italiana;Open 2015;Associazione;INN_CULT, DESIGN, SPETTAC, WEB;
+133-Open 2015;Torino;Open 2015;Associazione;INN_CULT, AUDIOVIS, INT_SOC, SPETTAC;T_DONNE
+134-Open 2015;Altra provincia piemontese;Open 2015;Impresa sociale;INN_CULT, COMMUNIT, SPETTAC, WEB;T_SETT
+135-Open 2015;Genova;Open 2015;Cooperativa;INN_CULT, ENOGASTR, INT_SOC;T_MIGRAN
+136-Open 2015;Torino;Open 2015;Impresa sociale;INN_CULT, EVENTI, SPETTAC;
+137-Open 2015;Cuneo;Open 2015;Associazione;INN_CULT, PATRIMON;
+138-Open 2015;Altra provincia piemontese;Open 2015;Ente locale;INN_CULT, ARTI_VIS, EVENTI, SPETTAC, TURISMO;
+139-Open 2015;Torino;Open 2015;Associazione;DID_FORM, SPETTAC;T_GIOVAN
+140-Open 2015;Torino;Open 2015;Associazione;INN_CULT, DID_FORM, INT_SOC, SPETTAC;T_GIOVAN, T_DV_AB
+141-Open 2015;Torino;Open 2015;Associazione;INN_CULT, POL_SOC, DID_FORM, ENOGASTR, INT_SOC, SPORT;T_GIOVAN, T_ADULTI, T_DONNE
+142-Open 2015;Alessandria;Open 2015;Associazione;INN_CULT, POL_SOC, ARCH_BIB, CONCORSO, PATRIMON, TURISMO, WEB;
+143-Open 2015;Torino;Open 2015;Ente locale;INN_CULT, DID_FORM, PATRIMON, ALTRO;T_GIOVAN
+1-Open 2016;Asti;Open 2016;Ente locale;INN_CULT, APP_SOFT, ARCH_BIB;T_MIGRAN
+2-Open 2016;Torino;Open 2016;Associazione;INN_CULT, AUDIOVIS, PATRIMON;
+3-Open 2016;Torino;Open 2016;Associazione;INN_CULT, ARTI_VIS, INT_SOC;
+4-Open 2016;Cuneo;Open 2016;Altro;INN_CULT, AUDIOVIS, WEB;
+5-Open 2016;Genova;Open 2016;Cooperativa;INN_CULT, AUDIOVIS;T_GIOVAN
+6-Open 2016;Genova;Open 2016;Cooperativa;INN_CULT, ARTI_VIS, EVENTI, PATRIMON;
+7-Open 2016;Genova;Open 2016;Istruzione, università e ricerca;INN_CULT, RIC_ISTR, AUDIOVIS, DID_FORM, WEB;T_GIOVAN, T_SETT
+8-Open 2016;Torino;Open 2016;Altro;INN_CULT, SPETTAC;T_GIOVAN
+9-Open 2016;Torino;Open 2016;Associazione;INN_CULT, CONCORSO, ENOGASTR, FESTIVAL;
+10-Open 2016;Cuneo;Open 2016;Associazione;INN_CULT, SPETTAC;
+11-Open 2016;Torino;Open 2016;Associazione;INN_CULT, ARCH_BIB, DID_FORM;T_SETT
+12-Open 2016;Torino;Open 2016;Altro;PATRIMON;T_SETT
+13-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, AUDIOVIS, DID_FORM, SPETTAC, WEB;T_GIOVAN
+14-Open 2016;Torino;Open 2016;Cooperativa;INN_CULT, APP_SOFT, AUDIOVIS, ENOGASTR, SOC_NET, WEB;T_MIGRAN
+15-Open 2016;Altra provincia italiana;Open 2016;Impresa sociale;INN_CULT, ARTI_VIS, AUDIOVIS, CONCORSO, SPETTAC;T_GIOVAN
+16-Open 2016;Genova;Open 2016;Associazione;INN_CULT, ALTRO;T_ANZIAN
+17-Open 2016;Torino;Open 2016;Associazione;INN_CULT, FESTIVAL, SPETTAC;T_GIOVAN, T_ALTRO
+18-Open 2016;Genova;Open 2016;Istruzione, università e ricerca;INN_CULT, ARCH_BIB, WEB;T_SETT
+19-Open 2016;Torino;Open 2016;Associazione;INN_CULT, SPETTAC;T_ALTRO
+20-Open 2016;Altra provincia piemontese;Open 2016;Fondazione;INN_CULT, PATRIMON, TURISMO, WEB;
+21-Open 2016;Torino;Open 2016;Associazione;INN_CULT, ARTI_VIS, DID_FORM;
+22-Open 2016;Torino;Open 2016;Altro;INN_CULT, FESTIVAL;
+23-Open 2016;Torino;Open 2016;Associazione;INN_CULT, SPETTAC, WEB;T_GIOVAN
+24-Open 2016;Torino;Open 2016;Altro;INN_CULT, DID_FORM, WEB;
+25-Open 2016;Altra provincia italiana;Open 2016;Impresa sociale;INN_CULT, AUDIOVIS, PATRIMON;T_GIOVAN
+26-Open 2016;Torino;Open 2016;Associazione;INN_CULT, ARTI_VIS, DESIGN, EVENTI, SPETTAC, SPORT;
+27-Open 2016;Torino;Open 2016;Fondazione;INN_CULT, PATRIMON;T_DV_AB
+28-Open 2016;Genova;Open 2016;Cooperativa;INN_CULT, ARTIGIAN, DID_FORM, PATRIMON;T_GIOVAN
+29-Open 2016;Torino;Open 2016;Cooperativa;INN_CULT, APP_SOFT, EDITORIA, WEB;T_SETT
+30-Open 2016;Torino;Open 2016;Associazione;INN_CULT, EDITORIA, WEB;
+31-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, ARTI_VIS, CONCORSO, EDITORIA, SPETTAC, WEB;T_SETT
+32-Open 2016;Torino;Open 2016;Associazione;INN_CULT, AUDIOVIS, SPAZI;T_ANZIAN
+33-Open 2016;Torino;Open 2016;Associazione;INN_CULT, AUDIOVIS, EDITORIA, PATRIMON, SPETTAC;
+34-Open 2016;Torino;Open 2016;Associazione;INN_CULT, RIC_ISTR, DID_FORM, PATRIMON;T_DV_AB
+35-Open 2016;Torino;Open 2016;Associazione;INN_CULT, APP_SOFT, SPETTAC;
+36-Open 2016;Genova;Open 2016;Altro;INN_CULT, CONCORSO, SPETTAC, WEB;
+37-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, ALTRO;T_SETT
+38-Open 2016;Genova;Open 2016;Fondazione;INN_CULT, RIC_ISTR, APP_SOFT, AUDIOVIS, DID_FORM, PATRIMON, WEB;T_GIOVAN
+39-Open 2016;Torino;Open 2016;Associazione;INN_CULT, ARTI_VIS, AUDIOVIS, CONCORSO, FESTIVAL;
+40-Open 2016;Genova;Open 2016;Cooperativa;INN_CULT, ARTI_VIS, AUDIOVIS, EVENTI, WEB;
+41-Open 2016;Torino;Open 2016;Altro;INN_CULT, ARTI_VIS, CONCORSO;T_SETT
+42-Open 2016;Genova;Open 2016;Associazione;INN_CULT, EVENTI, WEB;
+43-Open 2016;Genova;Open 2016;Fondazione;INN_CULT, ARTI_VIS, ARTIGIAN, DID_FORM;T_DV_AB
+44-Open 2016;Torino;Open 2016;Associazione;INN_CULT, DID_FORM;T_GIOVAN
+45-Open 2016;Torino;Open 2016;Associazione;INN_CULT, DID_FORM, EDITORIA, SPETTAC;T_GIOVAN
+46-Open 2016;Torino;Open 2016;Associazione;INN_CULT, ARTI_VIS, CONCORSO, PATRIMON;
+47-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, DID_FORM, SPETTAC;T_SETT
+48-Open 2016;Torino;Open 2016;Associazione;INN_CULT, FESTIVAL, WEB;
+49-Open 2016;Torino;Open 2016;Istruzione, università e ricerca;INN_CULT, EDITORIA;T_GIOVAN
+50-Open 2016;Torino;Open 2016;Cooperativa;INN_CULT, CONCORSO, EDITORIA;T_SETT
+51-Open 2016;Torino;Open 2016;Istruzione, università e ricerca;INN_CULT, ARCH_BIB, DID_FORM, PATRIMON;T_GIOVAN
+52-Open 2016;Altra provincia ligure;Open 2016;Altro;INN_CULT, APP_SOFT, PATRIMON, WEB;
+53-Open 2016;Cuneo;Open 2016;Ente locale;INN_CULT, PATRIMON;
+54-Open 2016;Cuneo;Open 2016;Associazione;INN_CULT, DID_FORM;
+55-Open 2016;Torino;Open 2016;Cooperativa;INN_CULT, INT_SOC, SPETTAC, WEB;T_ALTRO
+56-Open 2016;Torino;Open 2016;Altro;INN_CULT, ENOGASTR, SPETTAC;
+57-Open 2016;Novara;Open 2016;Fondazione;INN_CULT, INT_SOC, PATRIMON;T_MIGRAN
+58-Open 2016;Novara;Open 2016;Fondazione;INN_CULT, SPETTAC;T_GIOVAN, T_DV_AB
+59-Open 2016;Genova;Open 2016;Associazione;INN_CULT, APP_SOFT, PATRIMON;T_GIOVAN
+60-Open 2016;Torino;Open 2016;Associazione;INN_CULT, DID_FORM, ALTRO;T_GIOVAN
+61-Open 2016;Torino;Open 2016;Associazione;INN_CULT, DID_FORM;
+62-Open 2016;Torino;Open 2016;Associazione;INN_CULT, APP_SOFT, COMMUNIT, SPETTAC;
+63-Open 2016;Genova;Open 2016;Altro;INN_CULT, PATRIMON, SPETTAC;
+64-Open 2016;Genova;Open 2016;Associazione;INN_CULT, APP_SOFT, SPETTAC;
+65-Open 2016;Torino;Open 2016;Associazione;INN_CULT, CONCORSO;T_SETT
+66-Open 2016;Altra provincia ligure;Open 2016;Ente locale;POL_SOC, INT_SOC;T_GIOVAN
+67-Open 2016;Torino;Open 2016;Associazione;INN_CULT, SPETTAC;
+68-Open 2016;Torino;Open 2016;Associazione;INN_CULT, ARTI_VIS, COMMUNIT, EDITORIA, WEB;T_SETT
+69-Open 2016;Torino;Open 2016;Istruzione, università e ricerca;INN_CULT, AUDIOVIS, INT_SOC, SOC_NET, WEB;T_GIOVAN, T_DV_AB
+70-Open 2016;Novara;Open 2016;Ente locale;INN_CULT, ARTI_VIS, AUDIOVIS, SPETTAC;
+71-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, PATRIMON;
+72-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, SPETTAC;
+73-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, DID_FORM;T_GIOVAN
+74-Open 2016;Asti;Open 2016;Ente locale;INN_CULT, TURISMO;
+75-Open 2016;Genova;Open 2016;Ente locale;INN_CULT, PATRIMON;
+76-Open 2016;Torino;Open 2016;Associazione;INN_CULT, SPETTAC, WEB;T_SETT
+77-Open 2016;Torino;Open 2016;Ente locale;INN_CULT, FESTIVAL;
+78-Open 2016;Alessandria;Open 2016;Altro;INN_CULT, CONCORSO, SPETTAC;T_GIOVAN
+79-Open 2016;Genova;Open 2016;Fondazione;SPETTAC;
+80-Open 2016;Torino;Open 2016;Altro;INN_CULT, ENOGASTR, SPETTAC;
+81-Open 2016;Altra provincia italiana;Open 2016;Ente locale;INN_CULT, ARTI_VIS, SPAZI, SPETTAC;
+82-Open 2016;Genova;Open 2016;Altro;INN_CULT, COMMUNIT, SPETTAC, WEB;
+83-Open 2016;Torino;Open 2016;Altro;INN_CULT, DID_FORM, INT_SOC, PATRIMON;T_MIGRAN
+84-Open 2016;Torino;Open 2016;Fondazione;INN_CULT, PATRIMON, WEB;
+85-Open 2016;Novara;Open 2016;Associazione;INN_CULT, CONCORSO, SPETTAC;
+86-Open 2016;Genova;Open 2016;Associazione;INN_CULT, ENOGASTR, SPETTAC;
+87-Open 2016;Genova;Open 2016;Associazione;INN_CULT, INT_SOC, WEB;T_MIGRAN
+88-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, ARTI_VIS, EVENTI;
+89-Open 2016;Torino;Open 2016;Associazione;INN_CULT, ARTI_VIS;T_GIOVAN
+90-Open 2016;Altra provincia italiana;Open 2016;Impresa sociale;INN_CULT, COMMUNIT, EDITORIA, WEB;
+91-Open 2016;Cuneo;Open 2016;Impresa sociale;INN_CULT, SPETTAC;
+92-Open 2016;Cuneo;Open 2016;Fondazione;INN_CULT, DID_FORM, PATRIMON;T_GIOVAN
+93-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, ALTRO;T_ALTRO
+94-Open 2016;Torino;Open 2016;Cooperativa;INN_CULT, AUDIOVIS, WEB;
+95-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, SPETTAC;
+96-Open 2016;Torino;Open 2016;Associazione;INN_CULT, DID_FORM;
+97-Open 2016;Torino;Open 2016;Associazione;INN_CULT, PATRIMON;T_GIOVAN
+98-Open 2016;Torino;Open 2016;Altro;INN_CULT, ENOGASTR, SPETTAC;T_GIOVAN
+99-Open 2016;Torino;Open 2016;Associazione;INN_CULT, ARTI_VIS, AUDIOVIS, EDITORIA, SPETTAC;
+100-Open 2016;Torino;Open 2016;Associazione;INN_CULT, DID_FORM, SPETTAC;
+101-Open 2016;Torino;Open 2016;Cooperativa;INN_CULT, ARCH_BIB;T_GIOVAN, T_DV_AB
+102-Open 2016;Torino;Open 2016;Altro;INN_CULT, AUDIOVIS, SPETTAC;
+103-Open 2016;Genova;Open 2016;Altro;INN_CULT, PATRIMON;
+104-Open 2016;Genova;Open 2016;Istruzione, università e ricerca;INN_CULT, SPETTAC;T_SETT
+105-Open 2016;Genova;Open 2016;Altro;INN_CULT, INT_SOC;T_SETT
+106-Open 2016;Alessandria;Open 2016;Associazione;INN_CULT, APP_SOFT, WEB;
+107-Open 2016;Genova;Open 2016;Istruzione, università e ricerca;INN_CULT, POL_SOC, RIC_ISTR, ALTRO;T_GIOVAN
+108-Open 2016;Torino;Open 2016;Associazione;INN_CULT, SPETTAC;
+109-Open 2016;Torino;Open 2016;Ente locale;INN_CULT, ARTI_VIS, FESTIVAL, SPETTAC;
+110-Open 2016;Torino;Open 2016;Ente locale;INN_CULT, ARTI_VIS, AUDIOVIS, DID_FORM, SPETTAC, WEB;
+111-Open 2016;Torino;Open 2016;Ente locale;INN_CULT, AUDIOVIS, WEB;
+112-Open 2016;Torino;Open 2016;Associazione;INN_CULT, DID_FORM, TURISMO, WEB;
+113-Open 2016;Torino;Open 2016;Altro;INN_CULT, DID_FORM, SPETTAC;T_GIOVAN
+114-Open 2016;Torino;Open 2016;Associazione;INN_CULT, PATRIMON, TURISMO;T_ALTRO
+115-Open 2016;Torino;Open 2016;Fondazione;INN_CULT, APP_SOFT, AUDIOVIS, WEB;
+116-Open 2016;Torino;Open 2016;Associazione;INN_CULT, POL_SOC, INT_SOC;T_GIOVAN, T_ANZIAN
+117-Open 2016;Cuneo;Open 2016;Altro;INN_CULT, INT_SOC, PATRIMON, SPETTAC;T_ALTRO
+118-Open 2016;Torino;Open 2016;Associazione;INN_CULT, APP_SOFT, ARTI_VIS, CONCORSO;T_GIOVAN
+119-Open 2016;Torino;Open 2016;Associazione;INN_CULT, AUDIOVIS, EDITORIA, FESTIVAL, SPETTAC, ALTRO;T_MIGRAN
+120-Open 2016;Torino;Open 2016;Associazione;INN_CULT, AUDIOVIS, INT_SOC;T_DV_AB
+121-Open 2016;Cuneo;Open 2016;Ente locale;INN_CULT, DID_FORM, ALTRO;T_GIOVAN
+122-Open 2016;Asti;Open 2016;Associazione;INN_CULT, ALTRO;T_SETT
+123-Open 2016;Torino;Open 2016;Associazione;INN_CULT, AUDIOVIS, PATRIMON, WEB;
+124-Open 2016;Cuneo;Open 2016;Associazione;INN_CULT, ARTI_VIS, AUDIOVIS, EDITORIA, EVENTI, SPETTAC;
+125-Open 2016;Torino;Open 2016;Associazione;INN_CULT, SPETTAC, WEB;
+126-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, PATRIMON, SPETTAC;
+127-Open 2016;Torino;Open 2016;Associazione;INN_CULT, PATRIMON, SOC_NET;
+128-Open 2016;Genova;Open 2016;Associazione;INN_CULT, APP_SOFT, PATRIMON, TURISMO;
+129-Open 2016;Cuneo;Open 2016;Ente locale;INN_CULT, ARCH_BIB, AUDIOVIS, WEB;
+130-Open 2016;Alessandria;Open 2016;Associazione;INN_CULT, PATRIMON, SOC_NET, WEB;T_GIOVAN
+131-Open 2016;Torino;Open 2016;Associazione;INN_CULT, ARTI_VIS, EDITORIA, FESTIVAL, SPETTAC, WEB;T_MIGRAN
+132-Open 2016;Torino;Open 2016;Associazione;INN_CULT, APP_SOFT;
+133-Open 2016;Torino;Open 2016;Associazione;INN_CULT, FESTIVAL, SPETTAC;
+134-Open 2016;Torino;Open 2016;Associazione;INN_CULT, EDITORIA, INT_SOC;
+135-Open 2016;Altra provincia italiana;Open 2016;Cooperativa;INN_CULT, SPETTAC;
+136-Open 2016;Torino;Open 2016;Ente locale;INN_CULT, ARCH_BIB, ARTI_VIS, INT_SOC;
+137-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, SPETTAC;
+138-Open 2016;Torino;Open 2016;Associazione;INN_CULT, COMMUNIT, EVENTI;
+139-Open 2016;Genova;Open 2016;Istruzione, università e ricerca;INN_CULT, DID_FORM;T_GIOVAN
+140-Open 2016;Torino;Open 2016;Altro;INN_CULT, ARCHITET, ARTIGIAN, CONCORSO, DESIGN;
+141-Open 2016;Torino;Open 2016;Associazione;INN_CULT, DESIGN, SOC_NET;T_GIOVAN
+142-Open 2016;Torino;Open 2016;Associazione;INN_CULT, APP_SOFT, AUDIOVIS, EDITORIA;T_GIOVAN
+143-Open 2016;Torino;Open 2016;Altro;INN_CULT, SPETTAC;
+144-Open 2016;Torino;Open 2016;Associazione;INN_CULT, ARTI_VIS, AUDIOVIS, EDITORIA, FESTIVAL, SPETTAC;T_GIOVAN
+145-Open 2016;Asti;Open 2016;Associazione;INN_CULT, SPETTAC, WEB;T_GIOVAN, T_ADULTI
+146-Open 2016;Genova;Open 2016;Associazione;INN_CULT, ARTI_VIS, FESTIVAL, SPETTAC;
+147-Open 2016;Torino;Open 2016;Fondazione;INN_CULT, PATRIMON, WEB;
+148-Open 2016;Torino;Open 2016;Associazione;INN_CULT, DID_FORM, SPETTAC;
+149-Open 2016;Torino;Open 2016;Impresa sociale;INN_CULT, PATRIMON;T_ALTRO
+150-Open 2016;Alessandria;Open 2016;Associazione;INN_CULT, CONCORSO, SPETTAC, WEB;T_SETT
+151-Open 2016;Torino;Open 2016;Associazione;INN_CULT, POL_SOC, AUDIOVIS;T_GIOVAN
+152-Open 2016;Torino;Open 2016;Associazione;INN_CULT, CONCORSO, EDITORIA;T_SETT
+153-Open 2016;Torino;Open 2016;Cooperativa;INN_CULT, SPETTAC;T_GIOVAN
+154-Open 2016;Torino;Open 2016;Cooperativa;INN_CULT, ARTI_VIS, DID_FORM, SPETTAC;T_GIOVAN
+155-Open 2016;Torino;Open 2016;Impresa sociale;INN_CULT, ARTI_VIS, ARTIGIAN, AUDIOVIS, DESIGN, SPETTAC;T_GIOVAN
+156-Open 2016;Novara;Open 2016;Associazione;INN_CULT, COMMUNIT, WEB;T_GIOVAN
+157-Open 2016;Altra provincia piemontese;Open 2016;Fondazione;INN_CULT, DID_FORM, PATRIMON, SPETTAC;T_GIOVAN
+158-Open 2016;Torino;Open 2016;Altro;INN_CULT, SPETTAC;
+159-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, ARTI_VIS, SPETTAC;
+160-Open 2016;Asti;Open 2016;Associazione;INN_CULT, AUDIOVIS, SPETTAC;T_GIOVAN
+161-Open 2016;Asti;Open 2016;Istruzione, università e ricerca;INN_CULT, ENOGASTR, PATRIMON;
+162-Open 2016;Altra provincia italiana;Open 2016;Ente locale;INN_CULT, SPETTAC;
+163-Open 2016;Altra provincia italiana;Open 2016;Associazione;INN_CULT, APP_SOFT, ARTI_VIS, SPETTAC;
+164-Open 2016;Torino;Open 2016;Ente locale;INN_CULT, ARTIGIAN, ALTRO;T_GIOVAN, T_ANZIAN
+165-Open 2016;Altra provincia italiana;Open 2016;Impresa sociale;INN_CULT, PATRIMON, TURISMO, WEB;
+166-Open 2016;Torino;Open 2016;Associazione;INN_CULT, COMMUNIT, DID_FORM;T_GIOVAN
+167-Open 2016;Genova;Open 2016;Associazione;INN_CULT, CONCORSO, SPETTAC;
+168-Open 2016;Torino;Open 2016;Associazione;INN_CULT, INT_SOC, SPETTAC;
+169-Open 2016;Alessandria;Open 2016;Associazione;INN_CULT, SPETTAC;T_GIOVAN
+170-Open 2016;Asti;Open 2016;Associazione;INN_CULT, CONCORSO, SPETTAC;T_GIOVAN
+171-Open 2016;Alessandria;Open 2016;Istruzione, università e ricerca;INN_CULT, ENOGASTR, FESTIVAL, SPETTAC, TURISMO;
+172-Open 2016;Asti;Open 2016;Altro;INN_CULT, AUDIOVIS, DID_FORM, SOC_NET, WEB;T_GIOVAN
+173-Open 2016;Altra provincia ligure;Open 2016;Associazione;INN_CULT, EDITORIA, WEB;
+174-Open 2016;Torino;Open 2016;Associazione;INN_CULT, SPETTAC, WEB;T_SETT
+175-Open 2016;Torino;Open 2016;Associazione;INN_CULT, AUDIOVIS, ALTRO;T_ALTRO
+1-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;APP_SOFT, ARTI_VIS, AUDIOVIS, CONCORSO, SPETTAC, WEB;T_GIOVAN
+2-Ora! 2016;Torino;Ora! 2016;Associazione;SPETTAC;
+3-Ora! 2016;Altra provincia italiana;Ora! 2016;Cooperativa;AUDIOVIS, SPETTAC, WEB;T_GIOVAN
+4-Ora! 2016;Alessandria;Ora! 2016;Altro;ARTI_VIS, AUDIOVIS, EVENTI;
+5-Ora! 2016;Altra provincia italiana;Ora! 2016;Impresa sociale;EDITORIA, WEB;
+6-Ora! 2016;Alessandria;Ora! 2016;Associazione;AUDIOVIS, SPETTAC;
+7-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, EDITORIA, SPETTAC;
+8-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, EDITORIA, WEB;
+9-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;EDITORIA, EVENTI;
+10-Ora! 2016;Genova;Ora! 2016;Associazione;AUDIOVIS, EDITORIA, SPETTAC;
+11-Ora! 2016;Torino;Ora! 2016;Fondazione;ARTI_VIS, DID_FORM, ENOGASTR, EVENTI;
+12-Ora! 2016;Altra provincia italiana;Ora! 2016;Altro;ARCHITET, ARTI_VIS, DID_FORM, SPETTAC;
+13-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;AUDIOVIS, SPETTAC;
+14-Ora! 2016;Altra provincia italiana;Ora! 2016;Impresa sociale;ARTI_VIS, AUDIOVIS, CONCORSO, DID_FORM, SPETTAC;
+15-Ora! 2016;Altra provincia italiana;Ora! 2016;Altro;AUDIOVIS, SPETTAC;T_GIOVAN
+16-Ora! 2016;Cuneo;Ora! 2016;Associazione;AUDIOVIS, EDITORIA, SPETTAC;
+17-Ora! 2016;Genova;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS;
+18-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;AUDIOVIS, SPETTAC;
+19-Ora! 2016;Torino;Ora! 2016;Impresa sociale;ARTI_VIS, INT_SOC;
+20-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, SPETTAC;
+21-Ora! 2016;Novara;Ora! 2016;Associazione;APP_SOFT, ARTI_VIS, AUDIOVIS, SPETTAC, TURISMO;T_ADULTI
+22-Ora! 2016;Torino;Ora! 2016;Associazione;CONCORSO, DID_FORM;T_SETT
+23-Ora! 2016;Torino;Ora! 2016;Cooperativa;ARTI_VIS, SPETTAC;
+24-Ora! 2016;Torino;Ora! 2016;Cooperativa;APP_SOFT, ARTI_VIS, TURISMO;
+25-Ora! 2016;Torino;Ora! 2016;Altro;SPETTAC;
+26-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;AUDIOVIS;T_SETT
+27-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS;T_SETT
+28-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;APP_SOFT, ARTI_VIS, AUDIOVIS;T_SETT
+29-Ora! 2016;Altra provincia ligure;Ora! 2016;Ente locale;AUDIOVIS, DID_FORM, SPETTAC;T_SETT
+30-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARCHITET, ARTI_VIS, ARTIGIAN, AUDIOVIS, CONCORSO, EDITORIA;
+31-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, EDITORIA, EVENTI, SPETTAC, WEB;T_GIOVAN, T_SETT
+32-Ora! 2016;Torino;Ora! 2016;Fondazione;INT_SOC, SPETTAC;T_ALTRO
+33-Ora! 2016;Genova;Ora! 2016;Associazione;DID_FORM, EVENTI, SPAZI;T_GIOVAN
+34-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS;
+35-Ora! 2016;Torino;Ora! 2016;Altro;AUDIOVIS, SPETTAC, TURISMO;
+36-Ora! 2016;Novara;Ora! 2016;Cooperativa;SPETTAC;T_GIOVAN
+37-Ora! 2016;Torino;Ora! 2016;Fondazione;ARCHITET, DESIGN;T_SETT
+38-Ora! 2016;Altra provincia italiana;Ora! 2016;Fondazione;APP_SOFT, PATRIMON, WEB;
+39-Ora! 2016;Torino;Ora! 2016;Impresa sociale;ARTI_VIS, ARTIGIAN, AUDIOVIS, SPETTAC;
+40-Ora! 2016;Genova;Ora! 2016;Associazione;APP_SOFT, ARTI_VIS, AUDIOVIS, FESTIVAL, SPETTAC;
+41-Ora! 2016;Genova;Ora! 2016;Associazione;ARTI_VIS, EDITORIA, FESTIVAL, SPETTAC;
+42-Ora! 2016;Altra provincia ligure;Ora! 2016;Associazione;ARTI_VIS, CONCORSO, ALTRO;T_SETT
+43-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;;
+44-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;AUDIOVIS, CONCORSO, SPETTAC;
+45-Ora! 2016;Alessandria;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, DID_FORM;T_SETT
+46-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, ARTIGIAN, CONCORSO, EDITORIA;T_SETT
+47-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;SPETTAC, WEB;
+48-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, ARTIGIAN;T_DV_AB
+49-Ora! 2016;Alessandria;Ora! 2016;Associazione;ARTI_VIS, SPETTAC;
+50-Ora! 2016;Torino;Ora! 2016;Associazione;EVENTI, SPETTAC;
+51-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;AUDIOVIS, EDITORIA, SPETTAC;T_SETT
+52-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;DID_FORM, SPETTAC;T_SETT
+53-Ora! 2016;Torino;Ora! 2016;Associazione;EDITORIA;
+54-Ora! 2016;Torino;Ora! 2016;Altro;AUDIOVIS, SPETTAC;T_GIOVAN
+55-Ora! 2016;Cuneo;Ora! 2016;Associazione;ARTI_VIS, DID_FORM, PATRIMON, TURISMO;T_GIOVAN
+56-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;APP_SOFT, ARTI_VIS, AUDIOVIS, EDITORIA, EVENTI, SPETTAC;
+57-Ora! 2016;Torino;Ora! 2016;Associazione;SPETTAC;
+58-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, DESIGN, WEB;
+59-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARCHITET, AUDIOVIS;
+60-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;EVENTI, ALTRO;T_SETT
+61-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, SPETTAC;T_GIOVAN
+62-Ora! 2016;Altra provincia ligure;Ora! 2016;Ente locale;ARTI_VIS, AUDIOVIS, PATRIMON, SPETTAC, WEB;
+63-Ora! 2016;Torino;Ora! 2016;Associazione;APP_SOFT, ARTI_VIS, SPAZI;T_GIOVAN
+64-Ora! 2016;Torino;Ora! 2016;Associazione;EDITORIA, SPETTAC;
+65-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, CONCORSO, SPETTAC, WEB;
+66-Ora! 2016;Altra provincia piemontese;Ora! 2016;Associazione;AUDIOVIS, SPETTAC;
+67-Ora! 2016;Altra provincia italiana;Ora! 2016;Altro;SPETTAC;
+68-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;AUDIOVIS, SPETTAC;
+69-Ora! 2016;Torino;Ora! 2016;Associazione;SPETTAC;
+70-Ora! 2016;Cuneo;Ora! 2016;Ente locale;AUDIOVIS, INT_SOC;
+71-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, WEB;T_SETT
+72-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, FESTIVAL, PATRIMON, SPETTAC;
+73-Ora! 2016;Torino;Ora! 2016;Ente locale;ARTI_VIS, TURISMO;
+74-Ora! 2016;Altra provincia italiana;Ora! 2016;Impresa sociale;APP_SOFT, ARTI_VIS, AUDIOVIS, TURISMO;
+75-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;AUDIOVIS;
+76-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, COMMUNIT, DESIGN, DID_FORM, SPETTAC;T_SETT
+77-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, DESIGN, EVENTI, SPETTAC;T_SETT
+78-Ora! 2016;Torino;Ora! 2016;Altro;AUDIOVIS, SPETTAC;T_GIOVAN
+79-Ora! 2016;Torino;Ora! 2016;Associazione;ARTIGIAN, DESIGN;T_SETT
+80-Ora! 2016;Genova;Ora! 2016;Altro;EDITORIA, SPETTAC;
+81-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, EVENTI, SPETTAC, WEB;
+82-Ora! 2016;Altra provincia ligure;Ora! 2016;Associazione;APP_SOFT, ARTI_VIS, AUDIOVIS, DESIGN, PATRIMON, WEB;
+83-Ora! 2016;Torino;Ora! 2016;Altro;AUDIOVIS, WEB;T_GIOVAN
+84-Ora! 2016;Torino;Ora! 2016;Associazione;SPETTAC;T_ALTRO
+85-Ora! 2016;Cuneo;Ora! 2016;Cooperativa;AUDIOVIS, SOC_NET, SPETTAC, WEB;T_GIOVAN
+86-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;AUDIOVIS, CONCORSO, SPETTAC, WEB;T_SETT
+87-Ora! 2016;Altra provincia italiana;Ora! 2016;Cooperativa;AUDIOVIS, PATRIMON;T_GIOVAN
+88-Ora! 2016;Genova;Ora! 2016;Cooperativa;ARTI_VIS, ARTIGIAN;
+89-Ora! 2016;Novara;Ora! 2016;Associazione;AUDIOVIS, FESTIVAL, SPETTAC;T_GIOVAN, T_ADULTI, T_SETT
+90-Ora! 2016;Torino;Ora! 2016;Associazione;INT_SOC, SPETTAC;
+91-Ora! 2016;Novara;Ora! 2016;Altro;AUDIOVIS, SPETTAC, WEB;
+92-Ora! 2016;Altra provincia italiana;Ora! 2016;Fondazione;AUDIOVIS, PATRIMON, SPETTAC, WEB;T_GIOVAN, T_SETT
+93-Ora! 2016;Torino;Ora! 2016;Altro;SPETTAC;
+94-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;APP_SOFT, SOC_NET, SPETTAC;T_SETT
+95-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;SPETTAC, SPORT;
+96-Ora! 2016;Torino;Ora! 2016;Altro;AUDIOVIS, SPETTAC;
+97-Ora! 2016;Torino;Ora! 2016;Fondazione;ARCH_BIB, ARCHITET, ARTI_VIS, AUDIOVIS, DESIGN;T_SETT
+98-Ora! 2016;Torino;Ora! 2016;Associazione;EVENTI, SPETTAC;
+99-Ora! 2016;Cuneo;Ora! 2016;Associazione;AUDIOVIS, EVENTI, SPETTAC;T_GIOVAN
+100-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS;T_GIOVAN
+101-Ora! 2016;Altra provincia italiana;Ora! 2016;Altro;ARTI_VIS, AUDIOVIS, CONCORSO, EDITORIA, FESTIVAL, SPETTAC, WEB;T_SETT
+102-Ora! 2016;Torino;Ora! 2016;Associazione;APP_SOFT, ARTI_VIS, CONCORSO, DID_FORM, SPORT, ALTRO;T_SETT
+103-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, FESTIVAL;T_GIOVAN
+104-Ora! 2016;Alessandria;Ora! 2016;Associazione;DID_FORM, SPETTAC;
+105-Ora! 2016;Altra provincia ligure;Ora! 2016;Ente locale;EDITORIA, FESTIVAL, SPETTAC;T_SETT
+106-Ora! 2016;Genova;Ora! 2016;Altro;APP_SOFT, ARTI_VIS, AUDIOVIS, EDITORIA, SPETTAC;
+107-Ora! 2016;Cuneo;Ora! 2016;Associazione;APP_SOFT, AUDIOVIS, SPETTAC, TURISMO, WEB;
+108-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, EDITORIA, SPETTAC, WEB;T_SETT, T_DV_AB
+109-Ora! 2016;Novara;Ora! 2016;Associazione;EDITORIA, SPETTAC;
+110-Ora! 2016;Torino;Ora! 2016;Associazione;ARCH_BIB, ARTI_VIS, AUDIOVIS, SPETTAC;
+111-Ora! 2016;Genova;Ora! 2016;Cooperativa;ARTI_VIS, AUDIOVIS, EDITORIA, SPETTAC;T_ALTRO
+112-Ora! 2016;Torino;Ora! 2016;Associazione;ARCH_BIB, ARCHITET, AUDIOVIS, SPETTAC;T_SETT
+113-Ora! 2016;Torino;Ora! 2016;Associazione;APP_SOFT, ARCHITET, ARTI_VIS, SPETTAC;
+114-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, CONCORSO, EDITORIA, SPETTAC;T_SETT
+115-Ora! 2016;Altra provincia italiana;Ora! 2016;Altro;ARTI_VIS, DID_FORM, EDITORIA, EVENTI;
+116-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, DID_FORM, SPETTAC;
+117-Ora! 2016;Torino;Ora! 2016;Associazione;SPETTAC;
+118-Ora! 2016;Torino;Ora! 2016;Ente locale;EVENTI, TURISMO;
+119-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, EVENTI, SPETTAC;
+120-Ora! 2016;Altra provincia italiana;Ora! 2016;Impresa sociale;APP_SOFT, ARTI_VIS, AUDIOVIS, FESTIVAL, SPETTAC;
+121-Ora! 2016;Altra provincia piemontese;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, FESTIVAL, SPETTAC;
+122-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARCHITET, AUDIOVIS, SPETTAC, WEB;
+123-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, WEB;
+124-Ora! 2016;Cuneo;Ora! 2016;Ente locale;ARTI_VIS, AUDIOVIS;T_GIOVAN, T_ANZIAN
+125-Ora! 2016;Altra provincia italiana;Ora! 2016;Istruzione, università e ricerca;;
+126-Ora! 2016;Genova;Ora! 2016;Ente locale;CONCORSO, DID_FORM, SPETTAC;T_SETT
+127-Ora! 2016;Genova;Ora! 2016;Associazione;AUDIOVIS, CONCORSO, SPETTAC;T_GIOVAN, T_SETT
+128-Ora! 2016;Torino;Ora! 2016;Fondazione;ARTI_VIS, CONCORSO, DID_FORM, SPETTAC;T_GIOVAN
+129-Ora! 2016;Torino;Ora! 2016;Ente locale;AUDIOVIS, CONCORSO, FESTIVAL;T_SETT
+130-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, INT_SOC, SOC_NET, SPETTAC;T_GIOVAN, T_SETT
+131-Ora! 2016;Altra provincia piemontese;Ora! 2016;Associazione;ARTI_VIS, ARTIGIAN, AUDIOVIS, DESIGN, PATRIMON, WEB;
+132-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, SPETTAC;
+133-Ora! 2016;Torino;Ora! 2016;Altro;DID_FORM, EVENTI, SPAZI, SPETTAC;
+134-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;DID_FORM, SPETTAC;
+135-Ora! 2016;Alessandria;Ora! 2016;Associazione;ARTI_VIS, DID_FORM, EDITORIA, SPETTAC;T_SETT
+136-Ora! 2016;Torino;Ora! 2016;Associazione;SPETTAC;
+137-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, EDITORIA, EVENTI, SPETTAC;
+138-Ora! 2016;Altra provincia italiana;Ora! 2016;Cooperativa;AUDIOVIS, SPETTAC;
+139-Ora! 2016;Altra provincia italiana;Ora! 2016;Fondazione;ARTI_VIS, AUDIOVIS, SPETTAC, WEB;
+140-Ora! 2016;Altra provincia italiana;Ora! 2016;Cooperativa;ARTI_VIS, AUDIOVIS, DESIGN, SPETTAC, WEB;
+141-Ora! 2016;Altra provincia italiana;Ora! 2016;Cooperativa;AUDIOVIS, SPETTAC;
+142-Ora! 2016;Torino;Ora! 2016;Associazione;APP_SOFT, ARTI_VIS, AUDIOVIS, CONCORSO, SOC_NET, WEB;
+143-Ora! 2016;Novara;Ora! 2016;Associazione;ARCHITET, ARTI_VIS, AUDIOVIS, DESIGN;T_SETT
+144-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;SPETTAC;
+145-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, SPETTAC;
+146-Ora! 2016;Genova;Ora! 2016;Associazione;AUDIOVIS, SPETTAC;T_GIOVAN, T_SETT
+147-Ora! 2016;Torino;Ora! 2016;Altro;ARTI_VIS, AUDIOVIS, SPETTAC;T_GIOVAN
+148-Ora! 2016;Genova;Ora! 2016;Associazione;ARTI_VIS, EDITORIA, EVENTI, SPETTAC;T_SETT
+149-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, EDITORIA, EVENTI, WEB;T_SETT
+150-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, CONCORSO, DID_FORM, EVENTI;T_SETT
+151-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, SPETTAC;
+152-Ora! 2016;Torino;Ora! 2016;Associazione;APP_SOFT, ARTI_VIS, AUDIOVIS, EDITORIA, SPETTAC;T_GIOVAN
+153-Ora! 2016;Torino;Ora! 2016;Altro;AUDIOVIS, SPETTAC;
+154-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, EVENTI;T_GIOVAN, T_SETT
+155-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;SPETTAC;
+156-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, EDITORIA, SPETTAC;
+157-Ora! 2016;Genova;Ora! 2016;Associazione;SPETTAC;T_DV_AB
+158-Ora! 2016;Genova;Ora! 2016;Associazione;ARTI_VIS, DID_FORM;T_SETT
+159-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;APP_SOFT, DID_FORM, PATRIMON;
+160-Ora! 2016;Genova;Ora! 2016;Associazione;AUDIOVIS, EVENTI;
+161-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;AUDIOVIS, SPETTAC;
+162-Ora! 2016;Torino;Ora! 2016;Associazione;APP_SOFT, AUDIOVIS;
+163-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, SPETTAC;
+164-Ora! 2016;Cuneo;Ora! 2016;Cooperativa;AUDIOVIS;T_GIOVAN
+165-Ora! 2016;Torino;Ora! 2016;Associazione;APP_SOFT, AUDIOVIS, SPETTAC, WEB;
+166-Ora! 2016;Altra provincia italiana;Ora! 2016;Cooperativa;ARTI_VIS, AUDIOVIS, SPETTAC;
+167-Ora! 2016;Altra provincia piemontese;Ora! 2016;Associazione;DESIGN, SPETTAC, WEB;
+168-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, FESTIVAL;
+169-Ora! 2016;Altra provincia italiana;Ora! 2016;Fondazione;SPETTAC;
+170-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, SPAZI;
+171-Ora! 2016;Altra provincia ligure;Ora! 2016;Associazione;APP_SOFT, EDITORIA;
+172-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, SPETTAC, ALTRO;T_SETT
+173-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, ARTIGIAN, AUDIOVIS;
+174-Ora! 2016;Altra provincia italiana;Ora! 2016;Cooperativa;AUDIOVIS, SPETTAC;
+175-Ora! 2016;Cuneo;Ora! 2016;Associazione;SPETTAC;T_SETT
+176-Ora! 2016;Torino;Ora! 2016;Associazione;APP_SOFT, AUDIOVIS, PATRIMON;
+177-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS;T_GIOVAN
+178-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;APP_SOFT, DID_FORM;
+179-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;SPETTAC;T_GIOVAN
+180-Ora! 2016;Torino;Ora! 2016;Altro;AUDIOVIS, CONCORSO, SPETTAC;T_GIOVAN, T_ADULTI
+181-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, EDITORIA, PATRIMON, SPETTAC;
+182-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, CONCORSO, EDITORIA, SPETTAC;T_GIOVAN, T_SETT
+183-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;AUDIOVIS, EVENTI, SPETTAC, WEB;T_GIOVAN, T_ADULTI
+184-Ora! 2016;Genova;Ora! 2016;Associazione;ARCHITET, ARTI_VIS, AUDIOVIS, DESIGN, FESTIVAL;
+185-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;APP_SOFT, AUDIOVIS, COMMUNIT, SOC_NET;
+186-Ora! 2016;Torino;Ora! 2016;Associazione;APP_SOFT, AUDIOVIS, EVENTI, SPETTAC;T_GIOVAN
+187-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARCHITET, ARTI_VIS, AUDIOVIS, EVENTI;
+188-Ora! 2016;Genova;Ora! 2016;Associazione;APP_SOFT, SPETTAC;
+189-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, SPETTAC;T_GIOVAN
+190-Ora! 2016;Genova;Ora! 2016;Istruzione, università e ricerca;ARCHITET, ARTI_VIS;
+191-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, WEB;
+192-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, SPETTAC;T_SETT
+193-Ora! 2016;Genova;Ora! 2016;Istruzione, università e ricerca;ARTI_VIS, ARTIGIAN, ENOGASTR, SPETTAC;
+194-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, SPETTAC, WEB;
+195-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, ARTIGIAN, CONCORSO, DID_FORM, EVENTI;T_GIOVAN, T_SETT
+196-Ora! 2016;Altra provincia piemontese;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, DID_FORM, SPETTAC;
+197-Ora! 2016;Torino;Ora! 2016;Associazione;ARCH_BIB, AUDIOVIS, SPETTAC;
+198-Ora! 2016;Torino;Ora! 2016;Associazione;DID_FORM, SPETTAC;T_GIOVAN
+199-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, DID_FORM, SPAZI, SPETTAC;
+200-Ora! 2016;Altra provincia italiana;Ora! 2016;Altro;AUDIOVIS, SPETTAC;
+201-Ora! 2016;Torino;Ora! 2016;Altro;ARTI_VIS, SPETTAC;T_SETT
+202-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, SPAZI, SPETTAC;
+203-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS;
+204-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, SPETTAC, WEB;
+205-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, EVENTI;
+206-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, DID_FORM, FESTIVAL, SPETTAC;T_SETT
+207-Ora! 2016;Torino;Ora! 2016;Associazione;APP_SOFT, AUDIOVIS, SPETTAC;T_GIOVAN, T_SETT
+208-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;SPETTAC, SPORT;T_SETT
+209-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, DESIGN, EDITORIA, SPETTAC;
+210-Ora! 2016;Torino;Ora! 2016;Fondazione;ARTI_VIS, AUDIOVIS, DID_FORM, SPETTAC;T_SETT
+211-Ora! 2016;Torino;Ora! 2016;Associazione;APP_SOFT, PATRIMON, SOC_NET, SPAZI, SPETTAC, WEB;
+212-Ora! 2016;Altra provincia ligure;Ora! 2016;Cooperativa;AUDIOVIS, SPETTAC;
+213-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, SPETTAC;T_GIOVAN
+214-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ALTRO;T_SETT
+215-Ora! 2016;Genova;Ora! 2016;Associazione;AUDIOVIS, SPETTAC;T_GIOVAN
+216-Ora! 2016;Torino;Ora! 2016;Altro;ARTI_VIS, AUDIOVIS, SPETTAC;
+217-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, SPETTAC;T_SETT
+218-Ora! 2016;Torino;Ora! 2016;Altro;AUDIOVIS, DID_FORM, SPETTAC;T_SETT
+219-Ora! 2016;Genova;Ora! 2016;Istruzione, università e ricerca;ARCH_BIB, ARCHITET, WEB;
+220-Ora! 2016;Torino;Ora! 2016;Associazione;APP_SOFT, AUDIOVIS, EDITORIA, SOC_NET;T_GIOVAN
+221-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;WEB, ALTRO;T_SETT
+222-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, SPETTAC;
+223-Ora! 2016;Genova;Ora! 2016;Associazione;AUDIOVIS, INT_SOC, SPETTAC;T_GIOVAN, T_SETT
+224-Ora! 2016;Cuneo;Ora! 2016;Associazione;SPETTAC;T_GIOVAN
+225-Ora! 2016;Altra provincia piemontese;Ora! 2016;Associazione;ARTI_VIS, ARTIGIAN, AUDIOVIS, SPETTAC;
+226-Ora! 2016;Torino;Ora! 2016;Cooperativa;DID_FORM, EVENTI, SOC_NET;
+227-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, SPETTAC;
+228-Ora! 2016;Genova;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, SPETTAC;
+229-Ora! 2016;Torino;Ora! 2016;Associazione;EDITORIA;T_GIOVAN
+230-Ora! 2016;Torino;Ora! 2016;Associazione;APP_SOFT, AUDIOVIS, EDITORIA, EVENTI, SPETTAC;
+231-Ora! 2016;Genova;Ora! 2016;Associazione;ARTI_VIS, FESTIVAL, SPETTAC, ALTRO;T_SETT
+232-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, DID_FORM;T_GIOVAN
+233-Ora! 2016;Alessandria;Ora! 2016;Ente locale;ARTI_VIS, AUDIOVIS, SPETTAC;
+234-Ora! 2016;Torino;Ora! 2016;Associazione;AUDIOVIS, DID_FORM;T_GIOVAN, T_SETT
+235-Ora! 2016;Torino;Ora! 2016;Associazione;ARCHITET, ARTI_VIS, AUDIOVIS, PATRIMON, WEB;
+236-Ora! 2016;Novara;Ora! 2016;Fondazione;APP_SOFT, ARTI_VIS, PATRIMON, WEB;
+237-Ora! 2016;Cuneo;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, SPETTAC, WEB;T_SETT
+238-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, CONCORSO, EVENTI;T_GIOVAN
+239-Ora! 2016;Altra provincia ligure;Ora! 2016;Associazione;CONCORSO, EVENTI, FESTIVAL, SPETTAC;
+240-Ora! 2016;Cuneo;Ora! 2016;Associazione;ARTI_VIS, CONCORSO, DESIGN, SPAZI;T_SETT
+241-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;AUDIOVIS, EDITORIA, SPETTAC;
+242-Ora! 2016;Torino;Ora! 2016;Cooperativa;AUDIOVIS, TURISMO;
+243-Ora! 2016;Torino;Ora! 2016;Associazione;SPETTAC, ALTRO;T_SETT
+244-Ora! 2016;Torino;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS, SOC_NET;
+245-Ora! 2016;Altra provincia piemontese;Ora! 2016;Ente locale;ARTI_VIS, AUDIOVIS, CONCORSO, DID_FORM, EDITORIA, EVENTI, FESTIVAL, SPETTAC;T_GIOVAN, T_SETT
+246-Ora! 2016;Torino;Ora! 2016;Ente locale;AUDIOVIS, ENOGASTR, SPETTAC;
+247-Ora! 2016;Torino;Ora! 2016;Associazione;SPETTAC;
+248-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS;
+249-Ora! 2016;Altra provincia italiana;Ora! 2016;Associazione;ARTI_VIS, AUDIOVIS;

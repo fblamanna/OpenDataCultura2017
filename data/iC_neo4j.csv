@@ -1,0 +1,2464 @@
+ID;ID_PROG;PROV;TEAM;EDIZIONE;Ambito;AGIURID
+1-1;1;Milano;1;iC1;;For Profit
+1-2;1;Non rilevabile; ;iC1;; 
+2-1;2;Milano;4;iC1;;Non rilevabile
+2-2;2;Non rilevabile; ;iC1;; 
+2-3;2;Non rilevabile; ;iC1;; 
+2-4;2;Non rilevabile; ;iC1;; 
+2-5;2;Non rilevabile; ;iC1;; 
+3-1;3;Milano;Non applicabile;iC1;;Non rilevabile
+4-1;4;Milano;4;iC1;;Non rilevabile
+4-2;4;Non rilevabile; ;iC1;; 
+4-3;4;Non rilevabile; ;iC1;; 
+4-4;4;Non rilevabile; ;iC1;; 
+4-5;4;Non rilevabile; ;iC1;; 
+5-1;5;Varese;Non applicabile;iC1;;No Profit
+6-1;6;Monza e della Brianza;Non applicabile;iC1;;No Profit
+7-1;7;Pavia;2;iC1;;No Profit
+7-2;7;Non rilevabile; ;iC1;; 
+7-3;7;Non rilevabile; ;iC1;; 
+8-1;8;Milano;12;iC1;;No Profit
+8-2;8;Non rilevabile; ;iC1;; 
+8-3;8;Non rilevabile; ;iC1;; 
+8-4;8;Non rilevabile; ;iC1;; 
+8-5;8;Non rilevabile; ;iC1;; 
+8-6;8;Non rilevabile; ;iC1;; 
+8-7;8;Non rilevabile; ;iC1;; 
+8-8;8;Non rilevabile; ;iC1;; 
+8-9;8;Non rilevabile; ;iC1;; 
+8-10;8;Non rilevabile; ;iC1;; 
+8-11;8;Non rilevabile; ;iC1;; 
+8-12;8;Non rilevabile; ;iC1;; 
+8-13;8;Non rilevabile; ;iC1;; 
+9-1;9;Milano;Non applicabile;iC1;;For Profit
+10-1;10;Milano;8;iC1;;No Profit
+10-2;10;Non rilevabile; ;iC1;; 
+10-3;10;Non rilevabile; ;iC1;; 
+10-4;10;Non rilevabile; ;iC1;; 
+10-5;10;Non rilevabile; ;iC1;; 
+10-6;10;Non rilevabile; ;iC1;; 
+10-7;10;Non rilevabile; ;iC1;; 
+10-8;10;Non rilevabile; ;iC1;; 
+10-9;10;Non rilevabile; ;iC1;; 
+11-1;11;Milano;1;iC1;;For Profit
+11-2;11;Non rilevabile; ;iC1;; 
+12-1;12;Bergamo;Non applicabile;iC1;;No Profit
+13-1;13;Brescia;2;iC1;;Non rilevabile
+13-2;13;Non rilevabile; ;iC1;; 
+13-3;13;Non rilevabile; ;iC1;; 
+14-1;14;Monza e della Brianza;Non applicabile;iC1;;Non rilevabile
+15-1;15;Varese;Non applicabile;iC1;;Non rilevabile
+16-1;16;Pavia;3;iC1;;Non rilevabile
+16-2;16;Non rilevabile; ;iC1;; 
+16-3;16;Non rilevabile; ;iC1;; 
+16-4;16;Non rilevabile; ;iC1;; 
+17-1;17;Brescia;Non applicabile;iC1;;No Profit
+18-1;18;Milano;3;iC1;;No Profit
+18-2;18;Non rilevabile; ;iC1;; 
+18-3;18;Non rilevabile; ;iC1;; 
+18-4;18;Non rilevabile; ;iC1;; 
+19-1;19;Altra provincia italiana;4;iC1;;No Profit
+19-2;19;Non rilevabile; ;iC1;; 
+19-3;19;Non rilevabile; ;iC1;; 
+19-4;19;Non rilevabile; ;iC1;; 
+19-5;19;Non rilevabile; ;iC1;; 
+20-1;20;Como;1;iC1;;Non rilevabile
+20-2;20;Non rilevabile; ;iC1;; 
+21-1;21;Milano;Non applicabile;iC1;;No Profit
+22-1;22;Mantova;Non applicabile;iC1;;No Profit
+23-1;23;Brescia;Non applicabile;iC1;;Non rilevabile
+24-1;24;Milano;Non applicabile;iC1;;No Profit
+25-1;25;Milano;Non applicabile;iC1;;Non rilevabile
+26-1;26;Milano;Non applicabile;iC1;;Non rilevabile
+27-1;27;Milano;Non applicabile;iC1;;No Profit
+28-1;28;Milano;Non applicabile;iC1;;Non rilevabile
+29-1;29;Brescia;3;iC1;;No Profit
+29-2;29;Non rilevabile; ;iC1;; 
+29-3;29;Non rilevabile; ;iC1;; 
+29-4;29;Non rilevabile; ;iC1;; 
+30-1;30;Altra provincia italiana;2;iC1;;Non rilevabile
+30-2;30;Non rilevabile; ;iC1;; 
+30-3;30;Non rilevabile; ;iC1;; 
+31-1;31;Varese;Non applicabile;iC1;;No Profit
+32-1;32;Milano;1;iC1;;Non rilevabile
+32-2;32;Non rilevabile; ;iC1;; 
+33-1;33;Milano;3;iC1;;No Profit
+33-2;33;Non rilevabile; ;iC1;; 
+33-3;33;Non rilevabile; ;iC1;; 
+33-4;33;Non rilevabile; ;iC1;; 
+34-1;34;Altra provincia italiana;Non applicabile;iC1;;No Profit
+35-1;35;Bergamo;3;iC1;;Non rilevabile
+35-2;35;Non rilevabile; ;iC1;; 
+35-3;35;Non rilevabile; ;iC1;; 
+35-4;35;Non rilevabile; ;iC1;; 
+36-1;36;Bergamo;Non applicabile;iC1;;No Profit
+37-1;37;Monza e della Brianza;1;iC1;;Non rilevabile
+37-2;37;Non rilevabile; ;iC1;; 
+38-1;38;Altra provincia italiana;Non applicabile;iC1;;Non rilevabile
+39-1;39;Milano;1;iC1;;For Profit
+39-2;39;Non rilevabile; ;iC1;; 
+40-1;40;Como;Non applicabile;iC1;;No Profit
+41-1;41;Como;Non applicabile;iC1;;For Profit
+42-1;42;Milano;8;iC1;;No Profit
+42-2;42;Non rilevabile; ;iC1;; 
+42-3;42;Non rilevabile; ;iC1;; 
+42-4;42;Non rilevabile; ;iC1;; 
+42-5;42;Non rilevabile; ;iC1;; 
+42-6;42;Non rilevabile; ;iC1;; 
+42-7;42;Non rilevabile; ;iC1;; 
+42-8;42;Non rilevabile; ;iC1;; 
+42-9;42;Non rilevabile; ;iC1;; 
+43-1;43;Milano;2;iC1;;For Profit
+43-2;43;Non rilevabile; ;iC1;; 
+43-3;43;Non rilevabile; ;iC1;; 
+44-1;44;Milano;4;iC1;;For Profit
+44-2;44;Non rilevabile; ;iC1;; 
+44-3;44;Non rilevabile; ;iC1;; 
+44-4;44;Non rilevabile; ;iC1;; 
+44-5;44;Non rilevabile; ;iC1;; 
+45-1;45;Milano;Non applicabile;iC1;;Non rilevabile
+46-1;46;Milano;4;iC1;;No Profit
+46-2;46;Non rilevabile; ;iC1;; 
+46-3;46;Non rilevabile; ;iC1;; 
+46-4;46;Non rilevabile; ;iC1;; 
+46-5;46;Non rilevabile; ;iC1;; 
+47-1;47;Milano;Non applicabile;iC1;;No Profit
+48-1;48;Lecco;2;iC1;;No Profit
+48-2;48;Non rilevabile; ;iC1;; 
+48-3;48;Non rilevabile; ;iC1;; 
+49-1;49;Bergamo;3;iC1;;No Profit
+49-2;49;Non rilevabile; ;iC1;; 
+49-3;49;Non rilevabile; ;iC1;; 
+49-4;49;Non rilevabile; ;iC1;; 
+50-1;50;Milano;2;iC1;;No Profit
+50-2;50;Non rilevabile; ;iC1;; 
+50-3;50;Non rilevabile; ;iC1;; 
+51-1;51;Milano;Non applicabile;iC1;;No Profit
+52-1;52;Como;Non applicabile;iC1;;No Profit
+53-1;53;Milano;2;iC1;;No Profit
+53-2;53;Non rilevabile; ;iC1;; 
+53-3;53;Non rilevabile; ;iC1;; 
+54-1;54;Milano;Non applicabile;iC1;;No Profit
+55-1;55;Milano;1;iC1;;No Profit
+55-2;55;Non rilevabile; ;iC1;; 
+56-1;56;Altra provincia italiana;Non applicabile;iC1;;Non rilevabile
+57-1;57;Milano;Non applicabile;iC1;;No Profit
+58-1;58;Milano;Non applicabile;iC1;;No Profit
+59-1;59;Bergamo;Non applicabile;iC1;;Non rilevabile
+60-1;60;Altra provincia italiana;1;iC1;;No Profit
+60-2;60;Non rilevabile; ;iC1;; 
+61-1;61;Cremona;Non applicabile;iC1;;No Profit
+62-1;62;Milano;Non applicabile;iC1;;No Profit
+63-1;63;Milano;Non applicabile;iC1;;Non rilevabile
+64-1;64;Milano;2;iC1;;No Profit
+64-2;64;Non rilevabile; ;iC1;; 
+64-3;64;Non rilevabile; ;iC1;; 
+65-1;65;Milano;4;iC1;;No Profit
+65-2;65;Non rilevabile; ;iC1;; 
+65-3;65;Non rilevabile; ;iC1;; 
+65-4;65;Non rilevabile; ;iC1;; 
+65-5;65;Non rilevabile; ;iC1;; 
+66-1;66;Milano;Non applicabile;iC1;;No Profit
+67-1;67;Milano;5;iC1;;For Profit
+67-2;67;Non rilevabile; ;iC1;; 
+67-3;67;Non rilevabile; ;iC1;; 
+67-4;67;Non rilevabile; ;iC1;; 
+67-5;67;Non rilevabile; ;iC1;; 
+67-6;67;Non rilevabile; ;iC1;; 
+68-1;68;Milano;1;iC1;;Non rilevabile
+68-2;68;Non rilevabile; ;iC1;; 
+69-1;69;Milano;Non applicabile;iC1;;No Profit
+70-1;70;Milano;3;iC1;;For Profit
+70-2;70;Non rilevabile; ;iC1;; 
+70-3;70;Non rilevabile; ;iC1;; 
+70-4;70;Non rilevabile; ;iC1;; 
+71-1;71;Bergamo;1;iC1;;Non rilevabile
+71-2;71;Non rilevabile; ;iC1;; 
+72-1;72;Mantova;1;iC1;;No Profit
+72-2;72;Non rilevabile; ;iC1;; 
+73-1;73;Altra provincia italiana;Non applicabile;iC1;;Non rilevabile
+74-1;74;Bergamo;Non applicabile;iC1;;No Profit
+75-1;75;Brescia;1;iC1;;No Profit
+75-2;75;Non rilevabile; ;iC1;; 
+76-1;76;Mantova;Non applicabile;iC1;;Non rilevabile
+77-1;77;Milano;Non applicabile;iC1;;Non rilevabile
+78-1;78;Milano;Non applicabile;iC1;;No Profit
+79-1;79;Monza e della Brianza;4;iC1;;Non rilevabile
+79-2;79;Non rilevabile; ;iC1;; 
+79-3;79;Non rilevabile; ;iC1;; 
+79-4;79;Non rilevabile; ;iC1;; 
+79-5;79;Non rilevabile; ;iC1;; 
+80-1;80;Milano;3;iC1;;For Profit
+80-2;80;Non rilevabile; ;iC1;; 
+80-3;80;Non rilevabile; ;iC1;; 
+80-4;80;Non rilevabile; ;iC1;; 
+81-1;81;Milano;4;iC1;;Non rilevabile
+81-2;81;Non rilevabile; ;iC1;; 
+81-3;81;Non rilevabile; ;iC1;; 
+81-4;81;Non rilevabile; ;iC1;; 
+81-5;81;Non rilevabile; ;iC1;; 
+82-1;82;Milano;5;iC1;;No Profit
+82-2;82;Non rilevabile; ;iC1;; 
+82-3;82;Non rilevabile; ;iC1;; 
+82-4;82;Non rilevabile; ;iC1;; 
+82-5;82;Non rilevabile; ;iC1;; 
+82-6;82;Non rilevabile; ;iC1;; 
+83-1;83;Mantova;2;iC1;;Non rilevabile
+83-2;83;Non rilevabile; ;iC1;; 
+83-3;83;Non rilevabile; ;iC1;; 
+84-1;84;Milano;3;iC1;;No Profit
+84-2;84;Non rilevabile; ;iC1;; 
+84-3;84;Non rilevabile; ;iC1;; 
+84-4;84;Non rilevabile; ;iC1;; 
+85-1;85;Milano;3;iC1;;No Profit
+85-2;85;Non rilevabile; ;iC1;; 
+85-3;85;Non rilevabile; ;iC1;; 
+85-4;85;Non rilevabile; ;iC1;; 
+86-1;86;Mantova;3;iC1;;No Profit
+86-2;86;Non rilevabile; ;iC1;; 
+86-3;86;Non rilevabile; ;iC1;; 
+86-4;86;Non rilevabile; ;iC1;; 
+87-1;87;Milano;Non applicabile;iC1;;No Profit
+88-1;88;Altra provincia italiana;Non applicabile;iC1;;Non rilevabile
+89-1;89;Milano;2;iC1;;Non rilevabile
+89-2;89;Non rilevabile; ;iC1;; 
+89-3;89;Non rilevabile; ;iC1;; 
+90-1;90;Altra provincia italiana;Non applicabile;iC1;;Non rilevabile
+91-1;91;Milano;3;iC1;;No Profit
+91-2;91;Non rilevabile; ;iC1;; 
+91-3;91;Non rilevabile; ;iC1;; 
+91-4;91;Non rilevabile; ;iC1;; 
+92-1;92;Milano;Non applicabile;iC1;;No Profit
+93-1;93;Bergamo;2;iC1;;No Profit
+93-2;93;Non rilevabile; ;iC1;; 
+93-3;93;Non rilevabile; ;iC1;; 
+94-1;94;Monza e della Brianza;1;iC1;;No Profit
+94-2;94;Non rilevabile; ;iC1;; 
+95-1;95;Milano;4;iC1;;No Profit
+95-2;95;Non rilevabile; ;iC1;; 
+95-3;95;Non rilevabile; ;iC1;; 
+95-4;95;Non rilevabile; ;iC1;; 
+95-5;95;Non rilevabile; ;iC1;; 
+96-1;96;Como;2;iC1;;Non rilevabile
+96-2;96;Non rilevabile; ;iC1;; 
+96-3;96;Non rilevabile; ;iC1;; 
+97-1;97;Milano;6;iC1;;No Profit
+97-2;97;Non rilevabile; ;iC1;; 
+97-3;97;Non rilevabile; ;iC1;; 
+97-4;97;Non rilevabile; ;iC1;; 
+97-5;97;Non rilevabile; ;iC1;; 
+97-6;97;Non rilevabile; ;iC1;; 
+97-7;97;Non rilevabile; ;iC1;; 
+98-1;98;Milano;4;iC1;;Non rilevabile
+98-2;98;Non rilevabile; ;iC1;; 
+98-3;98;Non rilevabile; ;iC1;; 
+98-4;98;Non rilevabile; ;iC1;; 
+98-5;98;Non rilevabile; ;iC1;; 
+99-1;99;Altra provincia italiana;Non applicabile;iC1;;No Profit
+100-1;100;Milano;2;iC1;;Non rilevabile
+100-2;100;Non rilevabile; ;iC1;; 
+100-3;100;Non rilevabile; ;iC1;; 
+101-1;101;Milano;8;iC1;;Non rilevabile
+101-2;101;Non rilevabile; ;iC1;; 
+101-3;101;Non rilevabile; ;iC1;; 
+101-4;101;Non rilevabile; ;iC1;; 
+101-5;101;Non rilevabile; ;iC1;; 
+101-6;101;Non rilevabile; ;iC1;; 
+101-7;101;Non rilevabile; ;iC1;; 
+101-8;101;Non rilevabile; ;iC1;; 
+101-9;101;Non rilevabile; ;iC1;; 
+102-1;102;Brescia;1;iC1;;No Profit
+102-2;102;Non rilevabile; ;iC1;; 
+103-1;103;Milano;Non applicabile;iC1;;No Profit
+104-1;104;Milano;Non applicabile;iC1;;No Profit
+105-1;105;Brescia;Non applicabile;iC1;;No Profit
+106-1;106;Monza e della Brianza;1;iC1;;Non rilevabile
+106-2;106;Non rilevabile; ;iC1;; 
+107-1;107;Milano;Non applicabile;iC1;;For Profit
+108-1;108;Cremona;1;iC1;;Non rilevabile
+108-2;108;Non rilevabile; ;iC1;; 
+109-1;109;Milano;Non applicabile;iC1;;Non rilevabile
+110-1;110;Milano;Non applicabile;iC1;;Non rilevabile
+111-1;111;Monza e della Brianza;Non applicabile;iC1;;No Profit
+112-1;112;Milano;2;iC1;;No Profit
+112-2;112;Non rilevabile; ;iC1;; 
+112-3;112;Non rilevabile; ;iC1;; 
+113-1;113;Monza e della Brianza;1;iC1;;Non rilevabile
+113-2;113;Non rilevabile; ;iC1;; 
+114-1;114;Milano;2;iC1;;No Profit
+114-2;114;Non rilevabile; ;iC1;; 
+114-3;114;Non rilevabile; ;iC1;; 
+115-1;115;Lecco;1;iC1;;Non rilevabile
+115-2;115;Non rilevabile; ;iC1;; 
+116-1;116;Lecco;Non applicabile;iC1;;Non rilevabile
+117-1;117;Milano;2;iC1;;No Profit
+117-2;117;Non rilevabile; ;iC1;; 
+117-3;117;Non rilevabile; ;iC1;; 
+118-1;118;Mantova;2;iC1;;No Profit
+118-2;118;Non rilevabile; ;iC1;; 
+118-3;118;Non rilevabile; ;iC1;; 
+119-1;119;Bergamo;Non applicabile;iC1;;No Profit
+120-1;120;Altra provincia lombarda;Non applicabile;iC1;;No Profit
+121-1;121;Varese;2;iC1;;No Profit
+121-2;121;Non rilevabile; ;iC1;; 
+121-3;121;Non rilevabile; ;iC1;; 
+122-1;122;Milano;3;iC1;;No Profit
+122-2;122;Non rilevabile; ;iC1;; 
+122-3;122;Non rilevabile; ;iC1;; 
+122-4;122;Non rilevabile; ;iC1;; 
+123-1;123;Mantova;Non applicabile;iC1;;Non rilevabile
+124-1;124;Milano;Non applicabile;iC1;;No Profit
+125-1;125;Brescia;1;iC1;;Non rilevabile
+125-2;125;Non rilevabile; ;iC1;; 
+126-1;126;Milano;3;iC1;;Non rilevabile
+126-2;126;Non rilevabile; ;iC1;; 
+126-3;126;Non rilevabile; ;iC1;; 
+126-4;126;Non rilevabile; ;iC1;; 
+127-1;127;Milano;Non applicabile;iC1;;Non rilevabile
+128-1;128;Como;10;iC1;;For Profit
+128-2;128;Non rilevabile; ;iC1;; 
+128-3;128;Non rilevabile; ;iC1;; 
+128-4;128;Non rilevabile; ;iC1;; 
+128-5;128;Non rilevabile; ;iC1;; 
+128-6;128;Non rilevabile; ;iC1;; 
+128-7;128;Non rilevabile; ;iC1;; 
+128-8;128;Non rilevabile; ;iC1;; 
+128-9;128;Non rilevabile; ;iC1;; 
+128-10;128;Non rilevabile; ;iC1;; 
+128-11;128;Non rilevabile; ;iC1;; 
+129-1;129;Varese;Non applicabile;iC1;;No Profit
+130-1;130;Milano;Non applicabile;iC1;;For Profit
+131-1;131;Como;1;iC1;;Non rilevabile
+131-2;131;Non rilevabile; ;iC1;; 
+132-1;132;Brescia;1;iC1;;Non rilevabile
+132-2;132;Non rilevabile; ;iC1;; 
+133-1;133;Bergamo;Non applicabile;iC1;;Non rilevabile
+134-1;134;Bergamo;Non applicabile;iC1;;Non rilevabile
+135-1;135;Milano;1;iC1;;Non rilevabile
+135-2;135;Non rilevabile; ;iC1;; 
+136-1;136;Milano;3;iC1;;Non rilevabile
+136-2;136;Non rilevabile; ;iC1;; 
+136-3;136;Non rilevabile; ;iC1;; 
+136-4;136;Non rilevabile; ;iC1;; 
+137-1;137;Como;Non applicabile;iC1;;For Profit
+138-1;138;Brescia;Non applicabile;iC1;;No Profit
+139-1;139;Pavia;Non applicabile;iC1;;No Profit
+140-1;140;Milano;4;iC1;;No Profit
+140-2;140;Non rilevabile; ;iC1;; 
+140-3;140;Non rilevabile; ;iC1;; 
+140-4;140;Non rilevabile; ;iC1;; 
+140-5;140;Non rilevabile; ;iC1;; 
+141-1;141;Milano;Non applicabile;iC1;;Non rilevabile
+142-1;142;Milano;Non applicabile;iC1;;For Profit
+143-1;143;Brescia;Non rilevabile;iC1;;Non rilevabile
+144-1;144;Milano;Non applicabile;iC1;;Non rilevabile
+145-1;145;Lecco;5;iC1;;No Profit
+145-2;145;Non rilevabile; ;iC1;; 
+145-3;145;Non rilevabile; ;iC1;; 
+145-4;145;Non rilevabile; ;iC1;; 
+145-5;145;Non rilevabile; ;iC1;; 
+145-6;145;Non rilevabile; ;iC1;; 
+146-1;146;Brescia;Non applicabile;iC1;;No Profit
+147-1;147;Milano;Non applicabile;iC1;;For Profit
+148-1;148;Milano;3;iC1;;Non rilevabile
+148-2;148;Non rilevabile; ;iC1;; 
+148-3;148;Non rilevabile; ;iC1;; 
+148-4;148;Non rilevabile; ;iC1;; 
+149-1;149;Brescia;Non applicabile;iC1;;No Profit
+150-1;150;Milano;Non applicabile;iC1;;Non rilevabile
+151-1;151;Milano;3;iC1;;No Profit
+151-2;151;Non rilevabile; ;iC1;; 
+151-3;151;Non rilevabile; ;iC1;; 
+151-4;151;Non rilevabile; ;iC1;; 
+152-1;152;Milano;Non applicabile;iC1;;Non rilevabile
+153-1;153;Varese;Non applicabile;iC1;;No Profit
+154-1;154;Milano;Non applicabile;iC1;;No Profit
+155-1;155;Bergamo;Non applicabile;iC1;;For Profit
+156-1;156;Milano;Non applicabile;iC1;;Non rilevabile
+157-1;157;Brescia;1;iC1;;No Profit
+157-2;157;Non rilevabile; ;iC1;; 
+158-1;158;Milano;Non applicabile;iC1;;No Profit
+159-1;159;Milano;Non applicabile;iC1;;Non rilevabile
+160-1;160;Milano;3;iC1;;No Profit
+160-2;160;Non rilevabile; ;iC1;; 
+160-3;160;Non rilevabile; ;iC1;; 
+160-4;160;Non rilevabile; ;iC1;; 
+161-1;161;Milano;7;iC1;;No Profit
+161-2;161;Non rilevabile; ;iC1;; 
+161-3;161;Non rilevabile; ;iC1;; 
+161-4;161;Non rilevabile; ;iC1;; 
+161-5;161;Non rilevabile; ;iC1;; 
+161-6;161;Non rilevabile; ;iC1;; 
+161-7;161;Non rilevabile; ;iC1;; 
+161-8;161;Non rilevabile; ;iC1;; 
+162-1;162;Milano;Non applicabile;iC1;;Non rilevabile
+163-1;163;Bergamo;1;iC1;;No Profit
+163-2;163;Non rilevabile; ;iC1;; 
+164-1;164;Brescia;Non applicabile;iC1;;No Profit
+165-1;165;Brescia;Non applicabile;iC1;;No Profit
+166-1;166;Milano;2;iC1;;Non rilevabile
+166-2;166;Non rilevabile; ;iC1;; 
+166-3;166;Non rilevabile; ;iC1;; 
+167-1;167;Milano;1;iC1;;Non rilevabile
+167-2;167;Non rilevabile; ;iC1;; 
+168-1;168;Milano;5;iC1;;No Profit
+168-2;168;Non rilevabile; ;iC1;; 
+168-3;168;Non rilevabile; ;iC1;; 
+168-4;168;Non rilevabile; ;iC1;; 
+168-5;168;Non rilevabile; ;iC1;; 
+168-6;168;Non rilevabile; ;iC1;; 
+169-1;169;Milano;3;iC1;;Non rilevabile
+169-2;169;Non rilevabile; ;iC1;; 
+169-3;169;Non rilevabile; ;iC1;; 
+169-4;169;Non rilevabile; ;iC1;; 
+170-1;170;Varese;1;iC1;;No Profit
+170-2;170;Non rilevabile; ;iC1;; 
+171-1;171;Mantova;3;iC1;;Non rilevabile
+171-2;171;Non rilevabile; ;iC1;; 
+171-3;171;Non rilevabile; ;iC1;; 
+171-4;171;Non rilevabile; ;iC1;; 
+172-1;172;Milano;Non applicabile;iC1;;Non rilevabile
+173-1;173;Varese;Non applicabile;iC1;;No Profit
+174-1;174;Milano;2;iC1;;Non rilevabile
+174-2;174;Non rilevabile; ;iC1;; 
+174-3;174;Non rilevabile; ;iC1;; 
+175-1;175;Milano;Non applicabile;iC1;;No Profit
+176-1;176;Milano;1;iC1;;No Profit
+176-2;176;Non rilevabile; ;iC1;; 
+177-1;177;Milano;2;iC1;;No Profit
+177-2;177;Non rilevabile; ;iC1;; 
+177-3;177;Non rilevabile; ;iC1;; 
+178-1;178;Altra provincia italiana;10;iC1;;For Profit
+178-2;178;Non rilevabile; ;iC1;; 
+178-3;178;Non rilevabile; ;iC1;; 
+178-4;178;Non rilevabile; ;iC1;; 
+178-5;178;Non rilevabile; ;iC1;; 
+178-6;178;Non rilevabile; ;iC1;; 
+178-7;178;Non rilevabile; ;iC1;; 
+178-8;178;Non rilevabile; ;iC1;; 
+178-9;178;Non rilevabile; ;iC1;; 
+178-10;178;Non rilevabile; ;iC1;; 
+178-11;178;Non rilevabile; ;iC1;; 
+179-1;179;Lecco;Non applicabile;iC1;;No Profit
+180-1;180;Milano;1;iC1;;For Profit
+180-2;180;Non rilevabile; ;iC1;; 
+181-1;181;Cremona;Non applicabile;iC1;;Non rilevabile
+182-1;182;Bergamo;1;iC1;;Non rilevabile
+182-2;182;Non rilevabile; ;iC1;; 
+183-1;183;Altra provincia italiana;4;iC1;;Non rilevabile
+183-2;183;Non rilevabile; ;iC1;; 
+183-3;183;Non rilevabile; ;iC1;; 
+183-4;183;Non rilevabile; ;iC1;; 
+183-5;183;Non rilevabile; ;iC1;; 
+184-1;184;Cremona;4;iC1;;Non rilevabile
+184-2;184;Non rilevabile; ;iC1;; 
+184-3;184;Non rilevabile; ;iC1;; 
+184-4;184;Non rilevabile; ;iC1;; 
+184-5;184;Non rilevabile; ;iC1;; 
+185-1;185;Milano;Non applicabile;iC1;;For Profit
+186-1;186;Milano;Non applicabile;iC1;;No Profit
+187-1;187;Milano;4;iC1;;No Profit
+187-2;187;Non rilevabile; ;iC1;; 
+187-3;187;Non rilevabile; ;iC1;; 
+187-4;187;Non rilevabile; ;iC1;; 
+187-5;187;Non rilevabile; ;iC1;; 
+188-1;188;Milano;Non applicabile;iC1;;Non rilevabile
+189-1;189;Milano;Non applicabile;iC1;;No Profit
+190-1;190;Milano;Non applicabile;iC1;;No Profit
+191-1;191;Milano;2;iC1;;No Profit
+191-2;191;Non rilevabile; ;iC1;; 
+191-3;191;Non rilevabile; ;iC1;; 
+192-1;192;Milano;1;iC1;;No Profit
+192-2;192;Non rilevabile; ;iC1;; 
+193-1;193;Milano;2;iC1;;No Profit
+193-2;193;Non rilevabile; ;iC1;; 
+193-3;193;Non rilevabile; ;iC1;; 
+194-1;194;Milano;4;iC1;;Non rilevabile
+194-2;194;Non rilevabile; ;iC1;; 
+194-3;194;Non rilevabile; ;iC1;; 
+194-4;194;Non rilevabile; ;iC1;; 
+194-5;194;Non rilevabile; ;iC1;; 
+195-1;195;Altra provincia italiana;1;iC1;;No Profit
+195-2;195;Non rilevabile; ;iC1;; 
+196-1;196;Milano;2;iC1;;No Profit
+196-2;196;Non rilevabile; ;iC1;; 
+196-3;196;Non rilevabile; ;iC1;; 
+197-1;197;Milano;5;iC1;;No Profit
+197-2;197;Non rilevabile; ;iC1;; 
+197-3;197;Non rilevabile; ;iC1;; 
+197-4;197;Non rilevabile; ;iC1;; 
+197-5;197;Non rilevabile; ;iC1;; 
+197-6;197;Non rilevabile; ;iC1;; 
+198-1;198;Milano;Non rilevabile;iC1;;No Profit
+199-1;199;Varese;Non applicabile;iC1;;No Profit
+200-1;200;Milano;1;iC1;;No Profit
+200-2;200;Non rilevabile; ;iC1;; 
+201-1;201;Milano;Non applicabile;iC1;;No Profit
+202-1;202;Milano;Non applicabile;iC1;;For Profit
+203-1;203;Milano;Non applicabile;iC1;;For Profit
+204-1;204;Milano;3;iC1;;Non rilevabile
+204-2;204;Non rilevabile; ;iC1;; 
+204-3;204;Non rilevabile; ;iC1;; 
+204-4;204;Non rilevabile; ;iC1;; 
+205-1;205;Milano;1;iC1;;No Profit
+205-2;205;Non rilevabile; ;iC1;; 
+206-1;206;Bergamo;Non applicabile;iC1;;No Profit
+207-1;207;Milano;Non applicabile;iC1;;No Profit
+208-1;208;Como;4;iC1;;No Profit
+208-2;208;Non rilevabile; ;iC1;; 
+208-3;208;Non rilevabile; ;iC1;; 
+208-4;208;Non rilevabile; ;iC1;; 
+208-5;208;Non rilevabile; ;iC1;; 
+209-1;209;Milano;1;iC1;;No Profit
+209-2;209;Non rilevabile; ;iC1;; 
+210-1;210;Monza e della Brianza;3;iC1;;No Profit
+210-2;210;Non rilevabile; ;iC1;; 
+210-3;210;Non rilevabile; ;iC1;; 
+210-4;210;Non rilevabile; ;iC1;; 
+211-1;211;Monza e della Brianza;1;iC1;;For Profit
+211-2;211;Non rilevabile; ;iC1;; 
+212-1;212;Milano;4;iC1;;No Profit
+212-2;212;Non rilevabile; ;iC1;; 
+212-3;212;Non rilevabile; ;iC1;; 
+212-4;212;Non rilevabile; ;iC1;; 
+212-5;212;Non rilevabile; ;iC1;; 
+213-1;213;Milano;1;iC1;;No Profit
+213-2;213;Non rilevabile; ;iC1;; 
+214-1;214;Milano;2;iC1;;For Profit
+214-2;214;Non rilevabile; ;iC1;; 
+214-3;214;Non rilevabile; ;iC1;; 
+215-1;215;Milano;2;iC1;;No Profit
+215-2;215;Non rilevabile; ;iC1;; 
+215-3;215;Non rilevabile; ;iC1;; 
+216-1;216;Bergamo;Non applicabile;iC1;;No Profit
+217-1;217;Varese;Non applicabile;iC1;;No Profit
+218-1;218;Bergamo;4;iC1;;For Profit
+218-2;218;Non rilevabile; ;iC1;; 
+218-3;218;Non rilevabile; ;iC1;; 
+218-4;218;Non rilevabile; ;iC1;; 
+218-5;218;Non rilevabile; ;iC1;; 
+219-1;219;Milano;Non applicabile;iC1;;No Profit
+220-1;220;Milano;Non applicabile;iC1;;No Profit
+221-1;221;Milano;Non applicabile;iC1;;No Profit
+222-1;222;Milano;2;iC1;;No Profit
+222-2;222;Non rilevabile; ;iC1;; 
+222-3;222;Non rilevabile; ;iC1;; 
+223-1;223;Milano;2;iC1;;No Profit
+223-2;223;Non rilevabile; ;iC1;; 
+223-3;223;Non rilevabile; ;iC1;; 
+224-1;224;Brescia;1;iC1;;No Profit
+224-2;224;Non rilevabile; ;iC1;; 
+225-1;225;Altra provincia italiana;Non rilevabile;iC1;;Non rilevabile
+226-1;226;Milano;4;iC1;;No Profit
+226-2;226;Non rilevabile; ;iC1;; 
+226-3;226;Non rilevabile; ;iC1;; 
+226-4;226;Non rilevabile; ;iC1;; 
+226-5;226;Non rilevabile; ;iC1;; 
+227-1;227;Milano;1;iC1;;Non rilevabile
+227-2;227;Non rilevabile; ;iC1;; 
+228-1;228;Milano;2;iC1;;No Profit
+228-2;228;Non rilevabile; ;iC1;; 
+228-3;228;Non rilevabile; ;iC1;; 
+229-1;229;Milano;2;iC1;;No Profit
+229-2;229;Non rilevabile; ;iC1;; 
+229-3;229;Non rilevabile; ;iC1;; 
+230-1;230;Milano;Non applicabile;iC1;;Non rilevabile
+231-1;231;Milano;Non applicabile;iC1;;Non rilevabile
+232-1;232;Non rilevabile;Non applicabile;iC1;;Non rilevabile
+233-1;233;Bergamo;1;iC1;;Non rilevabile
+233-2;233;Non rilevabile; ;iC1;; 
+234-1;234;Milano;Non applicabile;iC1;;No Profit
+235-1;235;Altra provincia lombarda;4;iC1;;No Profit
+235-2;235;Non rilevabile; ;iC1;; 
+235-3;235;Non rilevabile; ;iC1;; 
+235-4;235;Non rilevabile; ;iC1;; 
+235-5;235;Non rilevabile; ;iC1;; 
+236-1;236;Milano;2;iC1;;For Profit
+236-2;236;Non rilevabile; ;iC1;; 
+236-3;236;Non rilevabile; ;iC1;; 
+237-1;237;Altra provincia lombarda;4;iC1;;Non rilevabile
+237-2;237;Non rilevabile; ;iC1;; 
+237-3;237;Non rilevabile; ;iC1;; 
+237-4;237;Non rilevabile; ;iC1;; 
+237-5;237;Non rilevabile; ;iC1;; 
+238-1;238;Lecco;Non applicabile;iC1;;No Profit
+239-1;239;Milano;Non applicabile;iC1;;No Profit
+240-1;240;Bergamo;Non rilevabile;iC1;;No Profit
+241-1;241;Milano;1;iC1;;Non rilevabile
+241-2;241;Non rilevabile; ;iC1;; 
+242-1;242;Brescia;Non applicabile;iC1;;No Profit
+243-1;243;Pavia;Non applicabile;iC1;;For Profit
+244-1;244;Milano;3;iC1;;No Profit
+244-2;244;Non rilevabile; ;iC1;; 
+244-3;244;Non rilevabile; ;iC1;; 
+244-4;244;Non rilevabile; ;iC1;; 
+245-1;245;Milano;Non applicabile;iC1;;For Profit
+246-1;246;Pavia;Non applicabile;iC1;;No Profit
+247-1;247;Milano;1;iC1;;Non rilevabile
+247-2;247;Non rilevabile; ;iC1;; 
+248-1;248;Brescia;3;iC1;;No Profit
+248-2;248;Non rilevabile; ;iC1;; 
+248-3;248;Non rilevabile; ;iC1;; 
+248-4;248;Non rilevabile; ;iC1;; 
+249-1;249;Varese;Non applicabile;iC1;;No Profit
+250-1;250;Bergamo;Non applicabile;iC1;;For Profit
+251-1;251;Mantova;Non applicabile;iC1;;Non rilevabile
+252-1;252;Milano;Non applicabile;iC1;;No Profit
+253-1;253;Bergamo;Non applicabile;iC1;;For Profit
+254-1;254;Monza e della Brianza;1;iC1;;No Profit
+254-2;254;Non rilevabile; ;iC1;; 
+255-1;255;Milano;Non applicabile;iC1;;No Profit
+256-1;256;Lecco;Non applicabile;iC1;;No Profit
+257-1;257;Cremona;10;iC1;;Non rilevabile
+257-2;257;Non rilevabile; ;iC1;; 
+257-3;257;Non rilevabile; ;iC1;; 
+257-4;257;Non rilevabile; ;iC1;; 
+257-5;257;Non rilevabile; ;iC1;; 
+257-6;257;Non rilevabile; ;iC1;; 
+257-7;257;Non rilevabile; ;iC1;; 
+257-8;257;Non rilevabile; ;iC1;; 
+257-9;257;Non rilevabile; ;iC1;; 
+257-10;257;Non rilevabile; ;iC1;; 
+257-11;257;Non rilevabile; ;iC1;; 
+258-1;258;Altra provincia italiana;2;iC1;;Non rilevabile
+258-2;258;Non rilevabile; ;iC1;; 
+258-3;258;Non rilevabile; ;iC1;; 
+259-1;259;Milano;1;iC1;;Non rilevabile
+259-2;259;Non rilevabile; ;iC1;; 
+260-1;260;Monza e della Brianza;Non rilevabile;iC1;;No Profit
+261-1;261;Milano;Non applicabile;iC1;;No Profit
+262-1;262;Milano;Non rilevabile;iC1;;For Profit
+263-1;263;Milano;Non applicabile;iC1;;Non rilevabile
+264-1;264;Altra provincia italiana;1;iC1;;No Profit
+264-2;264;Non rilevabile; ;iC1;; 
+265-1;265;Brescia;Non applicabile;iC1;;No Profit
+266-1;266;Brescia;Non applicabile;iC1;;No Profit
+267-1;267;Monza e della Brianza;Non applicabile;iC1;;No Profit
+268-1;268;Milano;2;iC1;;Non rilevabile
+268-2;268;Non rilevabile; ;iC1;; 
+268-3;268;Non rilevabile; ;iC1;; 
+269-1;269;Como;3;iC1;;No Profit
+269-2;269;Non rilevabile; ;iC1;; 
+269-3;269;Non rilevabile; ;iC1;; 
+269-4;269;Non rilevabile; ;iC1;; 
+270-1;270;Brescia;2;iC1;;For Profit
+270-2;270;Non rilevabile; ;iC1;; 
+270-3;270;Non rilevabile; ;iC1;; 
+271-1;271;Brescia;2;iC1;;Non rilevabile
+271-2;271;Non rilevabile; ;iC1;; 
+271-3;271;Non rilevabile; ;iC1;; 
+272-1;272;Milano;Non applicabile;iC1;;For Profit
+273-1;273;Monza e della Brianza;3;iC1;;No Profit
+273-2;273;Non rilevabile; ;iC1;; 
+273-3;273;Non rilevabile; ;iC1;; 
+273-4;273;Non rilevabile; ;iC1;; 
+274-1;274;Milano;1;iC1;;For Profit
+274-2;274;Non rilevabile; ;iC1;; 
+275-1;275;Pavia;Non applicabile;iC1;;No Profit
+276-1;276;Pavia;2;iC1;;No Profit
+276-2;276;Non rilevabile; ;iC1;; 
+276-3;276;Non rilevabile; ;iC1;; 
+277-1;277;Brescia;1;iC1;;Non rilevabile
+277-2;277;Non rilevabile; ;iC1;; 
+278-1;278;Mantova;3;iC1;;No Profit
+278-2;278;Non rilevabile; ;iC1;; 
+278-3;278;Non rilevabile; ;iC1;; 
+278-4;278;Non rilevabile; ;iC1;; 
+279-1;279;Milano;1;iC1;;For Profit
+279-2;279;Non rilevabile; ;iC1;; 
+280-1;280;Altra provincia lombarda;Non applicabile;iC1;;No Profit
+281-1;281;Milano;1;iC1;;Non rilevabile
+281-2;281;Non rilevabile; ;iC1;; 
+282-1;282;Brescia;6;iC1;;No Profit
+282-2;282;Non rilevabile; ;iC1;; 
+282-3;282;Non rilevabile; ;iC1;; 
+282-4;282;Non rilevabile; ;iC1;; 
+282-5;282;Non rilevabile; ;iC1;; 
+282-6;282;Non rilevabile; ;iC1;; 
+282-7;282;Non rilevabile; ;iC1;; 
+283-1;283;Pavia;Non applicabile;iC1;;Non rilevabile
+284-1;284;Milano;Non applicabile;iC1;;For Profit
+285-1;285;Brescia;Non applicabile;iC1;;Non rilevabile
+286-1;286;Milano;Non applicabile;iC1;;No Profit
+287-1;287;Milano;Non applicabile;iC1;;No Profit
+288-1;288;Milano;2;iC1;;No Profit
+288-2;288;Non rilevabile; ;iC1;; 
+288-3;288;Non rilevabile; ;iC1;; 
+289-1;289;Milano;Non applicabile;iC1;;No Profit
+290-1;290;Bergamo;1;iC1;;No Profit
+290-2;290;Non rilevabile; ;iC1;; 
+291-1;291;Altra provincia lombarda;Non applicabile;iC1;;Non rilevabile
+292-1;292;Milano;Non applicabile;iC1;;Non rilevabile
+293-1;293;Monza e della Brianza;Non applicabile;iC1;;No Profit
+294-1;294;Brescia;1;iC1;;Non rilevabile
+294-2;294;Non rilevabile; ;iC1;; 
+295-1;295;Mantova;1;iC1;;No Profit
+295-2;295;Non rilevabile; ;iC1;; 
+296-1;296;Milano;Non applicabile;iC1;;No Profit
+297-1;297;Mantova;5;iC1;;No Profit
+297-2;297;Non rilevabile; ;iC1;; 
+297-3;297;Non rilevabile; ;iC1;; 
+297-4;297;Non rilevabile; ;iC1;; 
+297-5;297;Non rilevabile; ;iC1;; 
+297-6;297;Non rilevabile; ;iC1;; 
+298-1;298;Monza e della Brianza;Non applicabile;iC1;;Non rilevabile
+299-1;299;Non rilevabile;Non applicabile;iC1;;No Profit
+300-1;300;Monza e della Brianza;1;iC1;;No Profit
+300-2;300;Non rilevabile; ;iC1;; 
+301-1;301;Monza e della Brianza;Non applicabile;iC1;;No Profit
+302-1;302;Altra provincia italiana;5;iC1;;No Profit
+302-2;302;Non rilevabile; ;iC1;; 
+302-3;302;Non rilevabile; ;iC1;; 
+302-4;302;Non rilevabile; ;iC1;; 
+302-5;302;Non rilevabile; ;iC1;; 
+302-6;302;Non rilevabile; ;iC1;; 
+303-1;303;Milano;Non applicabile;iC1;;No Profit
+304-1;304;Como;Non applicabile;iC1;;No Profit
+305-1;305;Como;7;iC1;;For Profit
+305-2;305;Non rilevabile; ;iC1;; 
+305-3;305;Non rilevabile; ;iC1;; 
+305-4;305;Non rilevabile; ;iC1;; 
+305-5;305;Non rilevabile; ;iC1;; 
+305-6;305;Non rilevabile; ;iC1;; 
+305-7;305;Non rilevabile; ;iC1;; 
+305-8;305;Non rilevabile; ;iC1;; 
+306-1;306;Pavia;Non rilevabile;iC1;;No Profit
+307-1;307;Altra provincia lombarda;Non applicabile;iC1;;Non rilevabile
+308-1;308;Milano;3;iC1;;No Profit
+308-2;308;Non rilevabile; ;iC1;; 
+308-3;308;Non rilevabile; ;iC1;; 
+308-4;308;Non rilevabile; ;iC1;; 
+309-1;309;Mantova;2;iC1;;No Profit
+309-2;309;Non rilevabile; ;iC1;; 
+309-3;309;Non rilevabile; ;iC1;; 
+310-1;310;Milano;2;iC1;;No Profit
+310-2;310;Non rilevabile; ;iC1;; 
+310-3;310;Non rilevabile; ;iC1;; 
+311-1;311;Pavia;Non applicabile;iC1;;No Profit
+312-1;312;Altra provincia italiana;Non applicabile;iC1;;Non rilevabile
+313-1;313;Milano;Non applicabile;iC1;;For Profit
+314-1;314;Milano;Non rilevabile;iC1;;No Profit
+315-1;315;Mantova;Non applicabile;iC1;;No Profit
+316-1;316;Milano;Non applicabile;iC1;;No Profit
+317-1;317;Milano;3;iC1;;Non rilevabile
+317-2;317;Non rilevabile; ;iC1;; 
+317-3;317;Non rilevabile; ;iC1;; 
+317-4;317;Non rilevabile; ;iC1;; 
+318-1;318;Milano;Non applicabile;iC1;;No Profit
+319-1;319;Milano;Non applicabile;iC1;;No Profit
+320-1;320;Milano;1;iC1;;No Profit
+320-2;320;Non rilevabile; ;iC1;; 
+321-1;321;Mantova;1;iC1;;Non rilevabile
+321-2;321;Non rilevabile; ;iC1;; 
+322-1;322;Milano;3;iC1;;No Profit
+322-2;322;Non rilevabile; ;iC1;; 
+322-3;322;Non rilevabile; ;iC1;; 
+322-4;322;Non rilevabile; ;iC1;; 
+323-1;323;Milano;3;iC1;;For Profit
+323-2;323;Non rilevabile; ;iC1;; 
+323-3;323;Non rilevabile; ;iC1;; 
+323-4;323;Non rilevabile; ;iC1;; 
+324-1;324;Milano;Non applicabile;iC1;;No Profit
+325-1;325;Bergamo;Non rilevabile;iC1;;No Profit
+326-1;326;Mantova;2;iC1;;Non rilevabile
+326-2;326;Non rilevabile; ;iC1;; 
+326-3;326;Non rilevabile; ;iC1;; 
+327-1;327;Milano;Non applicabile;iC1;;Non rilevabile
+328-1;328;Monza e della Brianza;Non applicabile;iC1;;No Profit
+329-1;329;Monza e della Brianza;Non applicabile;iC1;;No Profit
+330-1;330;Monza e della Brianza;1;iC1;;Non rilevabile
+330-2;330;Non rilevabile; ;iC1;; 
+331-1;331;Milano;1;iC1;;No Profit
+331-2;331;Non rilevabile; ;iC1;; 
+332-1;332;Milano;Non applicabile;iC1;;No Profit
+333-1;333;Milano;4;iC1;;Non rilevabile
+333-2;333;Non rilevabile; ;iC1;; 
+333-3;333;Non rilevabile; ;iC1;; 
+333-4;333;Non rilevabile; ;iC1;; 
+333-5;333;Non rilevabile; ;iC1;; 
+334-1;334;Milano;2;iC1;;Non rilevabile
+334-2;334;Non rilevabile; ;iC1;; 
+334-3;334;Non rilevabile; ;iC1;; 
+335-1;335;Milano;1;iC1;;Non rilevabile
+335-2;335;Non rilevabile; ;iC1;; 
+336-1;336;Bergamo;Non applicabile;iC1;;No Profit
+337-1;337;Varese;Non rilevabile;iC1;;No Profit
+338-1;338;Milano;Non applicabile;iC1;;No Profit
+339-1;339;Milano;Non applicabile;iC1;;No Profit
+340-1;340;Milano;Non applicabile;iC1;;Non rilevabile
+341-1;341;Milano;Non applicabile;iC1;;Non rilevabile
+342-1;342;Milano;4;iC1;;No Profit
+342-2;342;Non rilevabile; ;iC1;; 
+342-3;342;Non rilevabile; ;iC1;; 
+342-4;342;Non rilevabile; ;iC1;; 
+342-5;342;Non rilevabile; ;iC1;; 
+343-1;343;Milano;Non applicabile;iC1;;Non rilevabile
+344-1;344;Brescia;3;iC1;;Non rilevabile
+344-2;344;Non rilevabile; ;iC1;; 
+344-3;344;Non rilevabile; ;iC1;; 
+344-4;344;Non rilevabile; ;iC1;; 
+345-1;345;Milano;1;iC1;;Non rilevabile
+345-2;345;Non rilevabile; ;iC1;; 
+346-1;346;Lecco;1;iC1;;No Profit
+346-2;346;Non rilevabile; ;iC1;; 
+347-1;347;Milano;5;iC1;;No Profit
+347-2;347;Non rilevabile; ;iC1;; 
+347-3;347;Non rilevabile; ;iC1;; 
+347-4;347;Non rilevabile; ;iC1;; 
+347-5;347;Non rilevabile; ;iC1;; 
+347-6;347;Non rilevabile; ;iC1;; 
+348-1;348;Milano;3;iC1;;No Profit
+348-2;348;Non rilevabile; ;iC1;; 
+348-3;348;Non rilevabile; ;iC1;; 
+348-4;348;Non rilevabile; ;iC1;; 
+349-1;349;Milano;4;iC1;;No Profit
+349-2;349;Non rilevabile; ;iC1;; 
+349-3;349;Non rilevabile; ;iC1;; 
+349-4;349;Non rilevabile; ;iC1;; 
+349-5;349;Non rilevabile; ;iC1;; 
+350-1;350;Altra provincia italiana;Non applicabile;iC1;;No Profit
+351-1;351;Monza e della Brianza;Non applicabile;iC1;;Non rilevabile
+352-1;352;Milano;5;iC1;;No Profit
+352-2;352;Non rilevabile; ;iC1;; 
+352-3;352;Non rilevabile; ;iC1;; 
+352-4;352;Non rilevabile; ;iC1;; 
+352-5;352;Non rilevabile; ;iC1;; 
+352-6;352;Non rilevabile; ;iC1;; 
+353-1;353;Cremona;Non applicabile;iC1;;No Profit
+354-1;354;Brescia;Non applicabile;iC1;;Non rilevabile
+355-1;355;Milano;Non applicabile;iC1;;No Profit
+356-1;356;Altra provincia italiana;1;iC1;;No Profit
+356-2;356;Non rilevabile; ;iC1;; 
+357-1;357;Altra provincia lombarda;Non applicabile;iC1;;Non rilevabile
+358-1;358;Milano;Non applicabile;iC1;;No Profit
+359-1;359;Pavia;Non rilevabile;iC1;;No Profit
+360-1;360;Milano;1;iC1;;No Profit
+360-2;360;Non rilevabile; ;iC1;; 
+361-1;361;Milano;Non applicabile;iC1;;No Profit
+362-1;362;Varese;3;iC1;;No Profit
+362-2;362;Non rilevabile; ;iC1;; 
+362-3;362;Non rilevabile; ;iC1;; 
+362-4;362;Non rilevabile; ;iC1;; 
+363-1;363;Milano;1;iC1;;No Profit
+363-2;363;Non rilevabile; ;iC1;; 
+364-1;364;Como;2;iC1;;Non rilevabile
+364-2;364;Non rilevabile; ;iC1;; 
+364-3;364;Non rilevabile; ;iC1;; 
+365-1;365;Mantova;3;iC1;;No Profit
+365-2;365;Non rilevabile; ;iC1;; 
+365-3;365;Non rilevabile; ;iC1;; 
+365-4;365;Non rilevabile; ;iC1;; 
+366-1;366;Pavia;1;iC1;;Non rilevabile
+366-2;366;Non rilevabile; ;iC1;; 
+367-1;367;Milano;Non applicabile;iC1;;No Profit
+368-1;368;Lecco;Non rilevabile;iC1;;No Profit
+369-1;369;Altra provincia lombarda;Non applicabile;iC1;;Non rilevabile
+370-1;370;Brescia;Non rilevabile;iC1;;Non rilevabile
+371-1;371;Milano;2;iC1;;Non rilevabile
+371-2;371;Non rilevabile; ;iC1;; 
+371-3;371;Non rilevabile; ;iC1;; 
+372-1;372;Mantova;4;iC1;;For Profit
+372-2;372;Non rilevabile; ;iC1;; 
+372-3;372;Non rilevabile; ;iC1;; 
+372-4;372;Non rilevabile; ;iC1;; 
+372-5;372;Non rilevabile; ;iC1;; 
+373-1;373;Bergamo;Non rilevabile;iC1;;Non rilevabile
+374-1;374;Bergamo;Non applicabile;iC1;;Non rilevabile
+375-1;375;Milano;1;iC1;;Non rilevabile
+375-2;375;Non rilevabile; ;iC1;; 
+376-1;376;Milano;Non applicabile;iC1;;No Profit
+377-1;377;Milano;Non applicabile;iC1;;For Profit
+378-1;378;Milano;3;iC1;;No Profit
+378-2;378;Non rilevabile; ;iC1;; 
+378-3;378;Non rilevabile; ;iC1;; 
+378-4;378;Non rilevabile; ;iC1;; 
+379-1;379;Milano;1;iC1;;No Profit
+379-2;379;Non rilevabile; ;iC1;; 
+380-1;380;Bergamo;Non rilevabile;iC1;;No Profit
+381-1;381;Bergamo;Non applicabile;iC1;;Non rilevabile
+382-1;382;Milano;Non applicabile;iC1;;No Profit
+383-1;383;Mantova;2;iC1;;No Profit
+383-2;383;Non rilevabile; ;iC1;; 
+383-3;383;Non rilevabile; ;iC1;; 
+384-1;384;Milano;3;iC1;;For Profit
+384-2;384;Non rilevabile; ;iC1;; 
+384-3;384;Non rilevabile; ;iC1;; 
+384-4;384;Non rilevabile; ;iC1;; 
+385-1;385;Monza e della Brianza;Non applicabile;iC1;;No Profit
+386-1;386;Milano;Non applicabile;iC1;;Non rilevabile
+387-1;387;Milano;4;iC1;;Non rilevabile
+387-2;387;Non rilevabile; ;iC1;; 
+387-3;387;Non rilevabile; ;iC1;; 
+387-4;387;Non rilevabile; ;iC1;; 
+387-5;387;Non rilevabile; ;iC1;; 
+388-1;388;Milano;Non applicabile;iC1;;No Profit
+389-1;389;Mantova;Non rilevabile;iC1;;Non rilevabile
+390-1;390;Milano;Non applicabile;iC1;;No Profit
+391-1;391;Altra provincia lombarda;3;iC1;;No Profit
+391-2;391;Non rilevabile; ;iC1;; 
+391-3;391;Non rilevabile; ;iC1;; 
+391-4;391;Non rilevabile; ;iC1;; 
+392-1;392;Milano;3;iC1;;Non rilevabile
+392-2;392;Non rilevabile; ;iC1;; 
+392-3;392;Non rilevabile; ;iC1;; 
+392-4;392;Non rilevabile; ;iC1;; 
+393-1;393;Cremona;Non applicabile;iC1;;Non rilevabile
+394-1;394;Milano;Non applicabile;iC1;;Non rilevabile
+395-1;395;Como;Non applicabile;iC1;;No Profit
+396-1;396;Milano;Non rilevabile;iC1;;For Profit
+397-1;397;Milano;3;iC1;;No Profit
+397-2;397;Non rilevabile; ;iC1;; 
+397-3;397;Non rilevabile; ;iC1;; 
+397-4;397;Non rilevabile; ;iC1;; 
+398-1;398;Altra provincia italiana;5;iC1;;No Profit
+398-2;398;Non rilevabile; ;iC1;; 
+398-3;398;Non rilevabile; ;iC1;; 
+398-4;398;Non rilevabile; ;iC1;; 
+398-5;398;Non rilevabile; ;iC1;; 
+398-6;398;Non rilevabile; ;iC1;; 
+399-1;399;Milano;2;iC1;;For Profit
+399-2;399;Non rilevabile; ;iC1;; 
+399-3;399;Non rilevabile; ;iC1;; 
+400-1;400;Milano;2;iC1;;No Profit
+400-2;400;Non rilevabile; ;iC1;; 
+400-3;400;Non rilevabile; ;iC1;; 
+401-1;401;Milano;Non applicabile;iC1;;Non rilevabile
+402-1;402;Milano;1;iC1;;No Profit
+402-2;402;Non rilevabile; ;iC1;; 
+403-1;403;Milano;Non applicabile;iC1;;No Profit
+404-1;404;Bergamo;1;iC1;;No Profit
+404-2;404;Non rilevabile; ;iC1;; 
+405-1;405;Cremona;Non applicabile;iC1;;No Profit
+406-1;406;Cremona;3;iC1;;Non rilevabile
+406-2;406;Non rilevabile; ;iC1;; 
+406-3;406;Non rilevabile; ;iC1;; 
+406-4;406;Non rilevabile; ;iC1;; 
+407-1;407;Pavia;Non rilevabile;iC1;;For Profit
+408-1;408;Milano;Non applicabile;iC1;;No Profit
+409-1;409;Mantova;Non applicabile;iC1;;No Profit
+410-1;410;Milano;Non rilevabile;iC1;;For Profit
+411-1;411;Milano;Non applicabile;iC1;;No Profit
+412-1;412;Milano;1;iC1;;No Profit
+412-2;412;Non rilevabile; ;iC1;; 
+413-1;413;Monza e della Brianza;Non applicabile;iC1;;No Profit
+414-1;414;Como;2;iC1;;No Profit
+414-2;414;Non rilevabile; ;iC1;; 
+414-3;414;Non rilevabile; ;iC1;; 
+415-1;415;Brescia;Non applicabile;iC1;;No Profit
+416-1;416;Milano;2;iC1;;For Profit
+416-2;416;Non rilevabile; ;iC1;; 
+416-3;416;Non rilevabile; ;iC1;; 
+417-1;417;Milano;Non applicabile;iC1;;Non rilevabile
+418-1;418;Altra provincia italiana;2;iC1;;Non rilevabile
+418-2;418;Non rilevabile; ;iC1;; 
+418-3;418;Non rilevabile; ;iC1;; 
+419-1;419;Brescia;1;iC1;;Non rilevabile
+419-2;419;Non rilevabile; ;iC1;; 
+420-1;420;Brescia;Non applicabile;iC1;;Non rilevabile
+421-1;421;Milano;Non applicabile;iC1;;Non rilevabile
+422-1;422;Milano;Non applicabile;iC1;;No Profit
+423-1;423;Lecco;2;iC1;;Non rilevabile
+423-2;423;Non rilevabile; ;iC1;; 
+423-3;423;Non rilevabile; ;iC1;; 
+424-1;424;Brescia;Non applicabile;iC1;;Non rilevabile
+425-1;425;Milano;Non applicabile;iC1;;No Profit
+426-1;426;Varese;Non applicabile;iC1;;No Profit
+427-1;427;Monza e della Brianza;Non applicabile;iC1;;Non rilevabile
+428-1;428;Milano;3;iC1;;Non rilevabile
+428-2;428;Non rilevabile; ;iC1;; 
+428-3;428;Non rilevabile; ;iC1;; 
+428-4;428;Non rilevabile; ;iC1;; 
+429-1;429;Milano;1;iC1;;Non rilevabile
+429-2;429;Non rilevabile; ;iC1;; 
+430-1;430;Bergamo;Non rilevabile;iC1;;No Profit
+431-1;431;Varese;3;iC1;;No Profit
+431-2;431;Non rilevabile; ;iC1;; 
+431-3;431;Non rilevabile; ;iC1;; 
+431-4;431;Non rilevabile; ;iC1;; 
+432-1;432;Milano;Non rilevabile;iC1;;Non rilevabile
+433-1;433;Pavia;2;iC1;;No Profit
+433-2;433;Non rilevabile; ;iC1;; 
+433-3;433;Non rilevabile; ;iC1;; 
+434-1;434;Pavia;Non applicabile;iC1;;For Profit
+435-1;435;Altra provincia italiana;Non applicabile;iC1;;Non rilevabile
+436-1;436;Como;1;iC1;;For Profit
+436-2;436;Non rilevabile; ;iC1;; 
+437-1;437;Milano;Non rilevabile;iC1;;Non rilevabile
+438-1;438;Milano;Non applicabile;iC1;;Non rilevabile
+439-1;439;Milano;2;iC1;;Non rilevabile
+439-2;439;Non rilevabile; ;iC1;; 
+439-3;439;Non rilevabile; ;iC1;; 
+440-1;440;Monza e della Brianza;2;iC1;;No Profit
+440-2;440;Non rilevabile; ;iC1;; 
+440-3;440;Non rilevabile; ;iC1;; 
+441-1;441;Cremona;4;iC1;;No Profit
+441-2;441;Non rilevabile; ;iC1;; 
+441-3;441;Non rilevabile; ;iC1;; 
+441-4;441;Non rilevabile; ;iC1;; 
+441-5;441;Non rilevabile; ;iC1;; 
+442-1;442;Como;3;iC1;;No Profit
+442-2;442;Non rilevabile; ;iC1;; 
+442-3;442;Non rilevabile; ;iC1;; 
+442-4;442;Non rilevabile; ;iC1;; 
+443-1;443;Pavia;Non rilevabile;iC1;;No Profit
+444-1;444;Pavia;Non rilevabile;iC1;;No Profit
+445-1;445;Milano;3;iC1;;Non rilevabile
+445-2;445;Non rilevabile; ;iC1;; 
+445-3;445;Non rilevabile; ;iC1;; 
+445-4;445;Non rilevabile; ;iC1;; 
+446-1;446;Milano;Non applicabile;iC1;;No Profit
+447-1;447;Brescia;2;iC1;;Non rilevabile
+447-2;447;Non rilevabile; ;iC1;; 
+447-3;447;Non rilevabile; ;iC1;; 
+1-1;1;Varese;Non applicabile;iC2;ARTI_VIS, EDITORIA, CONSERV, EDUCAZ; 
+2-1;2;Altra provincia italiana;Non applicabile;iC2;ARTI_VIS, PATRIMON, EDUCAZ, PRODUZ; 
+3-1;3;Pavia;1;iC2;SPETTAC, PRODUZ; 
+3-2;3;Non rilevabile; ;iC2;; 
+4-1;4;Milano;5;iC2;ARTI_VIS, PATRIMON, PROMOZ; 
+4-2;4;Non rilevabile; ;iC2;; 
+4-3;4;Non rilevabile; ;iC2;; 
+4-4;4;Non rilevabile; ;iC2;; 
+4-5;4;Non rilevabile; ;iC2;; 
+4-6;4;Non rilevabile; ;iC2;; 
+5-1;5;Milano;Non applicabile;iC2;ARTI_VIS, PATRIMON, FRUIZ;No Profit
+6-1;6;Monza e della Brianza;2;iC2;EDITORIA, AM_ALTRO, EDUCAZ, RIC_FORM; 
+6-2;6;Non rilevabile; ;iC2;; 
+6-3;6;Non rilevabile; ;iC2;; 
+7-1;7;Milano;1;iC2;PATRIMON, AM_ALTRO, FRUIZ, PROMOZ; 
+7-2;7;Non rilevabile; ;iC2;; 
+8-1;8;Pavia;2;iC2;AM_ALTRO, PARTECIP, PROMOZ; 
+8-2;8;Non rilevabile; ;iC2;; 
+8-3;8;Non rilevabile; ;iC2;; 
+9-1;9;Milano;Non applicabile;iC2;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ;For Profit
+10-1;10;Milano;3;iC2;PATRIMON, SPETTAC, FUNDRAIS, PARTECIP; 
+10-2;10;Non rilevabile; ;iC2;; 
+10-3;10;Non rilevabile; ;iC2;; 
+10-4;10;Non rilevabile; ;iC2;; 
+11-1;11;Brescia;Non applicabile;iC2;ARTIGIAN, DESIGN, DIST_COM, PRODUZ;Non rilevabile
+12-1;12;Brescia;1;iC2;SPETTAC, FRUIZ, PROMOZ; 
+12-2;12;Non rilevabile; ;iC2;; 
+13-1;13;Milano;Non applicabile;iC2;AM_ALTRO, PARTECIP, PROMOZ; 
+14-1;14;Milano;2;iC2;PATRIMON, FRUIZ, PARTECIP; 
+14-2;14;Non rilevabile; ;iC2;; 
+14-3;14;Non rilevabile; ;iC2;; 
+15-1;15;Milano;Non applicabile;iC2;AM_ALTRO, EDUCAZ, RIC_FORM;No Profit
+16-1;16;Milano;3;iC2;ARTI_VIS, SPETTAC, FRUIZ, PROMOZ; 
+16-2;16;Non rilevabile; ;iC2;; 
+16-3;16;Non rilevabile; ;iC2;; 
+16-4;16;Non rilevabile; ;iC2;; 
+17-1;17;Mantova;Non applicabile;iC2;ARTIGIAN, EDUCAZ, RIC_FORM;Non rilevabile
+18-1;18;Altra provincia italiana;Non applicabile;iC2;EDITORIA, AM_ALTRO, DIST_COM;No Profit
+19-1;19;Milano;2;iC2;PATRIMON, SPETTAC, PARTECIP, PROMOZ; 
+19-2;19;Non rilevabile; ;iC2;; 
+19-3;19;Non rilevabile; ;iC2;; 
+20-1;20;Milano;1;iC2;ARTIGIAN, AUDIOVIS, DIST_COM, EDUCAZ; 
+20-2;20;Non rilevabile; ;iC2;; 
+21-1;21;Mantova;Non applicabile;iC2;ARTIGIAN, PATRIMON, DIST_COM, EDUCAZ; 
+22-1;22;Brescia;3;iC2;ARTI_VIS, SPETTAC, EDUCAZ, PROMOZ; 
+22-2;22;Non rilevabile; ;iC2;; 
+22-3;22;Non rilevabile; ;iC2;; 
+22-4;22;Non rilevabile; ;iC2;; 
+23-1;23;Brescia;1;iC2;ARTIGIAN, PATRIMON, EDUCAZ, PRODUZ; 
+23-2;23;Non rilevabile; ;iC2;; 
+24-1;24;Brescia;Non applicabile;iC2;ARTI_VIS, DESIGN, PRODUZ, RIC_FORM; 
+25-1;25;Monza e della Brianza;5;iC2;ARTI_VIS, DIST_COM, PROMOZ; 
+25-2;25;Non rilevabile; ;iC2;; 
+25-3;25;Non rilevabile; ;iC2;; 
+25-4;25;Non rilevabile; ;iC2;; 
+25-5;25;Non rilevabile; ;iC2;; 
+25-6;25;Non rilevabile; ;iC2;; 
+26-1;26;Altra provincia italiana;2;iC2;AUDIOVIS, SPETTAC, DIST_COM, PRODUZ; 
+26-2;26;Non rilevabile; ;iC2;; 
+26-3;26;Non rilevabile; ;iC2;; 
+27-1;27;Lecco;1;iC2;ARCH_BIB, PATRIMON, EDUCAZ, FRUIZ; 
+27-2;27;Non rilevabile; ;iC2;; 
+28-1;28;Milano;Non applicabile;iC2;PATRIMON, SPETTAC, DIST_COM, PROMOZ;For Profit
+29-1;29;Milano;Non applicabile;iC2;PATRIMON, SPETTAC, FRUIZ, PROMOZ;No Profit
+30-1;30;Milano;3;iC2;PATRIMON, DIST_COM, PROMOZ; 
+30-2;30;Non rilevabile; ;iC2;; 
+30-3;30;Non rilevabile; ;iC2;; 
+30-4;30;Non rilevabile; ;iC2;; 
+31-1;31;Milano;1;iC2;PATRIMON, SPETTAC, PRODUZ, PROMOZ; 
+31-2;31;Non rilevabile; ;iC2;; 
+32-1;32;Milano;1;iC2;ARTI_VIS, SPETTAC, FRUIZ, PARTECIP; 
+32-2;32;Non rilevabile; ;iC2;; 
+33-1;33;Monza e della Brianza;Non applicabile;iC2;AM_ALTRO, PRODUZ, PROMOZ; 
+34-1;34;Milano;3;iC2;ARCHITET, PATRIMON, EDUCAZ, PARTECIP; 
+34-2;34;Non rilevabile; ;iC2;; 
+34-3;34;Non rilevabile; ;iC2;; 
+34-4;34;Non rilevabile; ;iC2;; 
+35-1;35;Milano;1;iC2;ARCH_BIB, PATRIMON, FRUIZ, PARTECIP; 
+35-2;35;Non rilevabile; ;iC2;; 
+36-1;36;Milano;Non applicabile;iC2;PATRIMON, AM_ALTRO, FRUIZ, PRODUZ;For Profit
+37-1;37;Milano;4;iC2;ARTI_VIS, AUDIOVIS, EDUCAZ; 
+37-2;37;Non rilevabile; ;iC2;; 
+37-3;37;Non rilevabile; ;iC2;; 
+37-4;37;Non rilevabile; ;iC2;; 
+37-5;37;Non rilevabile; ;iC2;; 
+38-1;38;Milano;1;iC2;ARCHITET, PATRIMON, CONSERV, FRUIZ; 
+38-2;38;Non rilevabile; ;iC2;; 
+39-1;39;Altra provincia italiana;Non applicabile;iC2;AM_ALTRO, PARTECIP, PROMOZ; 
+40-1;40;Milano;1;iC2;ARCHITET, PATRIMON, FRUIZ, PROMOZ; 
+40-2;40;Non rilevabile; ;iC2;; 
+41-1;41;Milano;2;iC2;ARCH_BIB, PATRIMON, PARTECIP; 
+41-2;41;Non rilevabile; ;iC2;; 
+41-3;41;Non rilevabile; ;iC2;; 
+42-1;42;Pavia;Non applicabile;iC2;ARCH_BIB, PATRIMON, EDUCAZ, FRUIZ;No Profit
+43-1;43;Milano;2;iC2;ARCHITET, SPETTAC, FRUIZ, PARTECIP; 
+43-2;43;Non rilevabile; ;iC2;; 
+43-3;43;Non rilevabile; ;iC2;; 
+44-1;44;Milano;4;iC2;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ; 
+44-2;44;Non rilevabile; ;iC2;; 
+44-3;44;Non rilevabile; ;iC2;; 
+44-4;44;Non rilevabile; ;iC2;; 
+44-5;44;Non rilevabile; ;iC2;; 
+45-1;45;Altra provincia italiana;5;iC2;ARTI_VIS, SPETTAC, DIST_COM, PRODUZ; 
+45-2;45;Non rilevabile; ;iC2;; 
+45-3;45;Non rilevabile; ;iC2;; 
+45-4;45;Non rilevabile; ;iC2;; 
+45-5;45;Non rilevabile; ;iC2;; 
+45-6;45;Non rilevabile; ;iC2;; 
+46-1;46;Milano;Non applicabile;iC2;AM_ALTRO, EDUCAZ, FRUIZ;No Profit
+47-1;47;Monza e della Brianza;Non applicabile;iC2;ARTI_VIS, AUDIOVIS, FRUIZ, RIC_FORM; 
+48-1;48;Milano;Non applicabile;iC2;PATRIMON, EDUCAZ, PROMOZ;No Profit
+49-1;49;Milano;2;iC2;PATRIMON, SPETTAC, PROMOZ; 
+49-2;49;Non rilevabile; ;iC2;; 
+49-3;49;Non rilevabile; ;iC2;; 
+50-1;50;Lecco;3;iC2;SPETTAC, EDUCAZ; 
+50-2;50;Non rilevabile; ;iC2;; 
+50-3;50;Non rilevabile; ;iC2;; 
+50-4;50;Non rilevabile; ;iC2;; 
+51-1;51;Milano;2;iC2;DESIGN, AM_ALTRO, DIST_COM, PROMOZ; 
+51-2;51;Non rilevabile; ;iC2;; 
+51-3;51;Non rilevabile; ;iC2;; 
+52-1;52;Milano;Non applicabile;iC2;ARTI_VIS, SPETTAC, PRODUZ, PROMOZ; 
+53-1;53;Milano;2;iC2;PATRIMON, SPETTAC, PARTECIP, PRODUZ; 
+53-2;53;Non rilevabile; ;iC2;; 
+53-3;53;Non rilevabile; ;iC2;; 
+54-1;54;Bergamo;Non applicabile;iC2;PATRIMON, AM_ALTRO, PARTECIP, PROMOZ;No Profit
+55-1;55;Milano;3;iC2;EDITORIA, SPETTAC, EDUCAZ, FRUIZ; 
+55-2;55;Non rilevabile; ;iC2;; 
+55-3;55;Non rilevabile; ;iC2;; 
+55-4;55;Non rilevabile; ;iC2;; 
+56-1;56;Milano;Non applicabile;iC2;ARTI_VIS, SPETTAC, PARTECIP, PROMOZ; 
+57-1;57;Altra provincia italiana;Non applicabile;iC2;SPETTAC, AM_ALTRO, EDUCAZ, PARTECIP;No Profit
+58-1;58;Monza e della Brianza;1;iC2;ARTIGIAN, DESIGN, PRODUZ, RIC_FORM; 
+58-2;58;Non rilevabile; ;iC2;; 
+59-1;59;Milano;1;iC2;PATRIMON, AM_ALTRO, PARTECIP, PROMOZ; 
+59-2;59;Non rilevabile; ;iC2;; 
+60-1;60;Milano;Non applicabile;iC2;SPETTAC, FRUIZ, PROMOZ;No Profit
+61-1;61;Monza e della Brianza;1;iC2;ARTI_VIS, PATRIMON, EDUCAZ, PARTECIP; 
+61-2;61;Non rilevabile; ;iC2;; 
+62-1;62;Milano;Non applicabile;iC2;PATRIMON, DIST_COM;No Profit
+63-1;63;Brescia;1;iC2;EDITORIA, PATRIMON, EDUCAZ, PROMOZ; 
+63-2;63;Non rilevabile; ;iC2;; 
+64-1;64;Milano;Non applicabile;iC2;PATRIMON, SPETTAC, PARTECIP, PROMOZ;No Profit
+65-1;65;Milano;Non applicabile;iC2;ARCHITET, PATRIMON, CONSERV, PROMOZ; 
+66-1;66;Brescia;Non applicabile;iC2;ARTI_VIS, ARTIGIAN, EDUCAZ, FRUIZ; 
+67-1;67;Milano;2;iC2;AM_ALTRO, EDUCAZ, RIC_FORM; 
+67-2;67;Non rilevabile; ;iC2;; 
+67-3;67;Non rilevabile; ;iC2;; 
+68-1;68;Milano;Non applicabile;iC2;ARTIGIAN, DESIGN, EDUCAZ, PRODUZ; 
+69-1;69;Brescia;2;iC2;PATRIMON, PROMOZ; 
+69-2;69;Non rilevabile; ;iC2;; 
+69-3;69;Non rilevabile; ;iC2;; 
+70-1;70;Milano;1;iC2;EDITORIA, PATRIMON, EDUCAZ, FRUIZ; 
+70-2;70;Non rilevabile; ;iC2;; 
+71-1;71;Altra provincia lombarda;3;iC2;PATRIMON, SPETTAC, PROMOZ; 
+71-2;71;Non rilevabile; ;iC2;; 
+71-3;71;Non rilevabile; ;iC2;; 
+71-4;71;Non rilevabile; ;iC2;; 
+72-1;72;Altra provincia italiana;Non applicabile;iC2;EDITORIA, SPETTAC; 
+73-1;73;Milano;1;iC2;ARTIGIAN, EDITORIA, EDUCAZ; 
+73-2;73;Non rilevabile; ;iC2;; 
+74-1;74;Monza e della Brianza;2;iC2;ARTI_VIS, PATRIMON, PROMOZ; 
+74-2;74;Non rilevabile; ;iC2;; 
+74-3;74;Non rilevabile; ;iC2;; 
+75-1;75;Monza e della Brianza;1;iC2;PATRIMON, FRUIZ, PARTECIP; 
+75-2;75;Non rilevabile; ;iC2;; 
+76-1;76;Milano;Non applicabile;iC2;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ; 
+77-1;77;Varese;2;iC2;ARTI_VIS, PATRIMON, EDUCAZ, FRUIZ; 
+77-2;77;Non rilevabile; ;iC2;; 
+77-3;77;Non rilevabile; ;iC2;; 
+78-1;78;Monza e della Brianza;Non applicabile;iC2;PATRIMON, SPETTAC, FRUIZ, PRODUZ;No Profit
+79-1;79;Como;Non applicabile;iC2;PATRIMON, AM_ALTRO, DIST_COM, FRUIZ; 
+80-1;80;Pavia;4;iC2;ARTIGIAN, SPETTAC, PARTECIP, PROMOZ; 
+80-2;80;Non rilevabile; ;iC2;; 
+80-3;80;Non rilevabile; ;iC2;; 
+80-4;80;Non rilevabile; ;iC2;; 
+80-5;80;Non rilevabile; ;iC2;; 
+81-1;81;Milano;2;iC2;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ; 
+81-2;81;Non rilevabile; ;iC2;; 
+81-3;81;Non rilevabile; ;iC2;; 
+82-1;82;Brescia;1;iC2;ARCHITET, PATRIMON, EDUCAZ, FRUIZ; 
+82-2;82;Non rilevabile; ;iC2;; 
+83-1;83;Milano;2;iC2;ARTI_VIS, DESIGN, PARTECIP, PROMOZ; 
+83-2;83;Non rilevabile; ;iC2;; 
+83-3;83;Non rilevabile; ;iC2;; 
+84-1;84;Milano;Non applicabile;iC2;AUDIOVIS, SPETTAC, EDUCAZ, PRODUZ; 
+85-1;85;Milano;2;iC2;ARTI_VIS, PATRIMON, EDUCAZ, PROMOZ; 
+85-2;85;Non rilevabile; ;iC2;; 
+85-3;85;Non rilevabile; ;iC2;; 
+86-1;86;Milano;4;iC2;AUDIOVIS, SPETTAC, EDUCAZ, PARTECIP; 
+86-2;86;Non rilevabile; ;iC2;; 
+86-3;86;Non rilevabile; ;iC2;; 
+86-4;86;Non rilevabile; ;iC2;; 
+86-5;86;Non rilevabile; ;iC2;; 
+87-1;87;Milano;Non applicabile;iC2;AUDIOVIS, SPETTAC, EDUCAZ, FRUIZ; 
+88-1;88;Bergamo;Non applicabile;iC2;ARTI_VIS, SPETTAC, DIST_COM, FRUIZ;No Profit
+89-1;89;Milano;1;iC2;ARTI_VIS, PATRIMON, DIST_COM, FRUIZ; 
+89-2;89;Non rilevabile; ;iC2;; 
+90-1;90;Milano;1;iC2;ARTI_VIS, SPETTAC, FRUIZ, PRODUZ; 
+90-2;90;Non rilevabile; ;iC2;; 
+91-1;91;Altra provincia italiana;1;iC2;ARTIGIAN, DESIGN, PRODUZ, PROMOZ; 
+91-2;91;Non rilevabile; ;iC2;; 
+92-1;92;Pavia;Non applicabile;iC2;ARTIGIAN, AM_ALTRO, CONSERV, PARTECIP;No Profit
+93-1;93;Milano;2;iC2;ARTI_VIS, PATRIMON, FRUIZ, PARTECIP; 
+93-2;93;Non rilevabile; ;iC2;; 
+93-3;93;Non rilevabile; ;iC2;; 
+94-1;94;Milano;Non applicabile;iC2;AUDIOVIS, PATRIMON, DIST_COM, PROMOZ; 
+95-1;95;Milano;2;iC2;PATRIMON, AM_ALTRO, FRUIZ, PROMOZ; 
+95-2;95;Non rilevabile; ;iC2;; 
+95-3;95;Non rilevabile; ;iC2;; 
+96-1;96;Milano;1;iC2;AUDIOVIS, PATRIMON, FRUIZ, PROMOZ; 
+96-2;96;Non rilevabile; ;iC2;; 
+97-1;97;Milano;Non applicabile;iC2;AUDIOVIS, SPETTAC, FRUIZ, PROMOZ; 
+98-1;98;Altra provincia italiana;3;iC2;ARCHITET, PATRIMON, FRUIZ, PROMOZ; 
+98-2;98;Non rilevabile; ;iC2;; 
+98-3;98;Non rilevabile; ;iC2;; 
+98-4;98;Non rilevabile; ;iC2;; 
+99-1;99;Pavia;Non applicabile;iC2;ARTI_VIS, AUDIOVIS, FRUIZ, PROMOZ;No Profit
+100-1;100;Milano;Non applicabile;iC2;AUDIOVIS, EDITORIA, FRUIZ, PROMOZ;For Profit
+101-1;101;Milano;Non applicabile;iC2;ARTI_VIS, DESIGN, PARTECIP, PROMOZ;No Profit
+102-1;102;Milano;3;iC2;PATRIMON, AM_ALTRO, EDUCAZ, PARTECIP; 
+102-2;102;Non rilevabile; ;iC2;; 
+102-3;102;Non rilevabile; ;iC2;; 
+102-4;102;Non rilevabile; ;iC2;; 
+103-1;103;Milano;Non applicabile;iC2;ARTIGIAN, DESIGN, DIST_COM, PRODUZ;No Profit
+104-1;104;Milano;Non applicabile;iC2;AM_ALTRO, EDUCAZ, FUNDRAIS;For Profit
+105-1;105;Milano;2;iC2;AM_ALTRO, FRUIZ, PROMOZ; 
+105-2;105;Non rilevabile; ;iC2;; 
+105-3;105;Non rilevabile; ;iC2;; 
+106-1;106;Varese;Non applicabile;iC2;ARTI_VIS, PATRIMON, FRUIZ, RIC_FORM;For Profit
+107-1;107;Milano;Non applicabile;iC2;SPETTAC, DIST_COM, PARTECIP;No Profit
+108-1;108;Brescia;3;iC2;ARTI_VIS, ARTIGIAN, FRUIZ, PROMOZ; 
+108-2;108;Non rilevabile; ;iC2;; 
+108-3;108;Non rilevabile; ;iC2;; 
+108-4;108;Non rilevabile; ;iC2;; 
+109-1;109;Monza e della Brianza;3;iC2;AM_ALTRO, FUNDRAIS, PROMOZ; 
+109-2;109;Non rilevabile; ;iC2;; 
+109-3;109;Non rilevabile; ;iC2;; 
+109-4;109;Non rilevabile; ;iC2;; 
+110-1;110;Altra provincia italiana;4;iC2;AM_ALTRO, EDUCAZ, RIC_FORM; 
+110-2;110;Non rilevabile; ;iC2;; 
+110-3;110;Non rilevabile; ;iC2;; 
+110-4;110;Non rilevabile; ;iC2;; 
+110-5;110;Non rilevabile; ;iC2;; 
+111-1;111;Altra provincia italiana;3;iC2;AUDIOVIS, DESIGN, EDUCAZ, PRODUZ; 
+111-2;111;Non rilevabile; ;iC2;; 
+111-3;111;Non rilevabile; ;iC2;; 
+111-4;111;Non rilevabile; ;iC2;; 
+112-1;112;Brescia;1;iC2;AM_ALTRO, FRUIZ, FUNDRAIS; 
+112-2;112;Non rilevabile; ;iC2;; 
+113-1;113;Brescia;Non applicabile;iC2;AM_ALTRO, FUNDRAIS, PROMOZ; 
+114-1;114;Milano;2;iC2;EDITORIA, DIST_COM, PRODUZ; 
+114-2;114;Non rilevabile; ;iC2;; 
+114-3;114;Non rilevabile; ;iC2;; 
+115-1;115;Milano;4;iC2;ARTI_VIS, SPETTAC, PARTECIP, PROMOZ; 
+115-2;115;Non rilevabile; ;iC2;; 
+115-3;115;Non rilevabile; ;iC2;; 
+115-4;115;Non rilevabile; ;iC2;; 
+115-5;115;Non rilevabile; ;iC2;; 
+116-1;116;Varese;Non applicabile;iC2;PATRIMON, SPETTAC, FUNDRAIS, PRODUZ;No Profit
+117-1;117;Milano;2;iC2;PATRIMON, SPETTAC, FRUIZ, PARTECIP; 
+117-2;117;Non rilevabile; ;iC2;; 
+117-3;117;Non rilevabile; ;iC2;; 
+118-1;118;Milano;Non applicabile;iC2;ARTI_VIS, PATRIMON, FUNDRAIS, PRODUZ; 
+119-1;119;Cremona;1;iC2;SPETTAC, AM_ALTRO, PROMOZ, RIC_FORM; 
+119-2;119;Non rilevabile; ;iC2;; 
+120-1;120;Brescia;7;iC2;EDITORIA, PATRIMON, EDUCAZ, FRUIZ; 
+120-2;120;Non rilevabile; ;iC2;; 
+120-3;120;Non rilevabile; ;iC2;; 
+120-4;120;Non rilevabile; ;iC2;; 
+120-5;120;Non rilevabile; ;iC2;; 
+120-6;120;Non rilevabile; ;iC2;; 
+120-7;120;Non rilevabile; ;iC2;; 
+120-8;120;Non rilevabile; ;iC2;; 
+121-1;121;Milano;3;iC2;ARTI_VIS, PATRIMON, FRUIZ; 
+121-2;121;Non rilevabile; ;iC2;; 
+121-3;121;Non rilevabile; ;iC2;; 
+121-4;121;Non rilevabile; ;iC2;; 
+122-1;122;Milano;Non applicabile;iC2;ARTI_VIS, PATRIMON, EDUCAZ, PARTECIP;No Profit
+123-1;123;Milano;4;iC2;ARTI_VIS, AM_ALTRO, PARTECIP, PRODUZ; 
+123-2;123;Non rilevabile; ;iC2;; 
+123-3;123;Non rilevabile; ;iC2;; 
+123-4;123;Non rilevabile; ;iC2;; 
+123-5;123;Non rilevabile; ;iC2;; 
+124-1;124;Brescia;Non applicabile;iC2;ARTI_VIS, PATRIMON, PARTECIP, PROMOZ; 
+125-1;125;Milano;Non applicabile;iC2;AUDIOVIS, SPETTAC, PARTECIP, PRODUZ; 
+126-1;126;Brescia;1;iC2;AM_ALTRO, DIST_COM; 
+126-2;126;Non rilevabile; ;iC2;; 
+127-1;127;Brescia;Non applicabile;iC2;PATRIMON, SPETTAC, PROMOZ, RIC_FORM;No Profit
+128-1;128;Milano;3;iC2;ARTIGIAN, EDITORIA, PRODUZ, RIC_FORM; 
+128-2;128;Non rilevabile; ;iC2;; 
+128-3;128;Non rilevabile; ;iC2;; 
+128-4;128;Non rilevabile; ;iC2;; 
+129-1;129;Milano;5;iC2;ARTI_VIS, PATRIMON, FRUIZ, PARTECIP; 
+129-2;129;Non rilevabile; ;iC2;; 
+129-3;129;Non rilevabile; ;iC2;; 
+129-4;129;Non rilevabile; ;iC2;; 
+129-5;129;Non rilevabile; ;iC2;; 
+129-6;129;Non rilevabile; ;iC2;; 
+130-1;130;Bergamo;3;iC2;SPETTAC, DIST_COM, FRUIZ; 
+130-2;130;Non rilevabile; ;iC2;; 
+130-3;130;Non rilevabile; ;iC2;; 
+130-4;130;Non rilevabile; ;iC2;; 
+131-1;131;Milano;1;iC2;ARTI_VIS, AM_ALTRO, PROMOZ; 
+131-2;131;Non rilevabile; ;iC2;; 
+132-1;132;Altra provincia italiana;3;iC2;ARTI_VIS, EDITORIA, EDUCAZ, RIC_FORM; 
+132-2;132;Non rilevabile; ;iC2;; 
+132-3;132;Non rilevabile; ;iC2;; 
+132-4;132;Non rilevabile; ;iC2;; 
+133-1;133;Milano;Non applicabile;iC2;EDITORIA, AM_ALTRO, EDUCAZ; 
+134-1;134;Milano;5;iC2;PATRIMON, SPETTAC, FRUIZ, PROMOZ; 
+134-2;134;Non rilevabile; ;iC2;; 
+134-3;134;Non rilevabile; ;iC2;; 
+134-4;134;Non rilevabile; ;iC2;; 
+134-5;134;Non rilevabile; ;iC2;; 
+134-6;134;Non rilevabile; ;iC2;; 
+135-1;135;Milano;Non applicabile;iC2;ARCHITET, PATRIMON, EDUCAZ, FRUIZ; 
+136-1;136;Altra provincia italiana;Non applicabile;iC2;ARTI_VIS, PATRIMON, CONSERV, FRUIZ; 
+137-1;137;Brescia;1;iC2;ARTI_VIS, SPETTAC, DIST_COM, FRUIZ; 
+137-2;137;Non rilevabile; ;iC2;; 
+138-1;138;Milano;2;iC2;SPETTAC, PROMOZ; 
+138-2;138;Non rilevabile; ;iC2;; 
+138-3;138;Non rilevabile; ;iC2;; 
+139-1;139;Como;4;iC2;PATRIMON, AM_ALTRO, PRODUZ, PROMOZ; 
+139-2;139;Non rilevabile; ;iC2;; 
+139-3;139;Non rilevabile; ;iC2;; 
+139-4;139;Non rilevabile; ;iC2;; 
+139-5;139;Non rilevabile; ;iC2;; 
+140-1;140;Altra provincia lombarda;2;iC2;ARCHITET, PATRIMON, FRUIZ, PARTECIP; 
+140-2;140;Non rilevabile; ;iC2;; 
+140-3;140;Non rilevabile; ;iC2;; 
+141-1;141;Como;2;iC2;AUDIOVIS, FRUIZ, PROMOZ; 
+141-2;141;Non rilevabile; ;iC2;; 
+141-3;141;Non rilevabile; ;iC2;; 
+142-1;142;Milano;Non applicabile;iC2;ARTI_VIS, DESIGN, PROMOZ, RIC_FORM;No Profit
+143-1;143;Milano;4;iC2;AUDIOVIS, EDITORIA, DIST_COM, PARTECIP; 
+143-2;143;Non rilevabile; ;iC2;; 
+143-3;143;Non rilevabile; ;iC2;; 
+143-4;143;Non rilevabile; ;iC2;; 
+143-5;143;Non rilevabile; ;iC2;; 
+144-1;144;Altra provincia italiana;Non applicabile;iC2;PATRIMON, FRUIZ;No Profit
+145-1;145;Milano;Non applicabile;iC2;ARTIGIAN, PATRIMON, FRUIZ, PROMOZ; 
+146-1;146;Varese;3;iC2;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ; 
+146-2;146;Non rilevabile; ;iC2;; 
+146-3;146;Non rilevabile; ;iC2;; 
+146-4;146;Non rilevabile; ;iC2;; 
+147-1;147;Milano;5;iC2;AUDIOVIS, PATRIMON, EDUCAZ, FRUIZ; 
+147-2;147;Non rilevabile; ;iC2;; 
+147-3;147;Non rilevabile; ;iC2;; 
+147-4;147;Non rilevabile; ;iC2;; 
+147-5;147;Non rilevabile; ;iC2;; 
+147-6;147;Non rilevabile; ;iC2;; 
+148-1;148;Milano;3;iC2;ARTI_VIS, ARTIGIAN, EDUCAZ, PRODUZ; 
+148-2;148;Non rilevabile; ;iC2;; 
+148-3;148;Non rilevabile; ;iC2;; 
+148-4;148;Non rilevabile; ;iC2;; 
+149-1;149;Monza e della Brianza;Non applicabile;iC2;ARTI_VIS, DESIGN, PARTECIP, PROMOZ; 
+150-1;150;Milano;Non applicabile;iC2;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ;For Profit
+151-1;151;Milano;2;iC2;PATRIMON, SPETTAC, FRUIZ; 
+151-2;151;Non rilevabile; ;iC2;; 
+151-3;151;Non rilevabile; ;iC2;; 
+152-1;152;Milano;3;iC2;ARTI_VIS, ARTIGIAN, FRUIZ, PARTECIP; 
+152-2;152;Non rilevabile; ;iC2;; 
+152-3;152;Non rilevabile; ;iC2;; 
+152-4;152;Non rilevabile; ;iC2;; 
+153-1;153;Milano;4;iC2;AUDIOVIS, EDUCAZ, PARTECIP; 
+153-2;153;Non rilevabile; ;iC2;; 
+153-3;153;Non rilevabile; ;iC2;; 
+153-4;153;Non rilevabile; ;iC2;; 
+153-5;153;Non rilevabile; ;iC2;; 
+154-1;154;Milano;Non applicabile;iC2;EDITORIA, DIST_COM;For Profit
+155-1;155;Milano;Non applicabile;iC2;ARTI_VIS, AUDIOVIS, DIST_COM, PRODUZ;For Profit
+156-1;156;Milano;Non applicabile;iC2;ARTI_VIS, AUDIOVIS, FRUIZ, PRODUZ; 
+157-1;157;Milano;Non applicabile;iC2;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ;For Profit
+158-1;158;Milano;Non applicabile;iC2;ARTI_VIS, DESIGN, PARTECIP, PROMOZ; 
+159-1;159;Altra provincia italiana;Non applicabile;iC2;EDITORIA, PROMOZ;For Profit
+160-1;160;Altra provincia italiana;3;iC2;PATRIMON, SPETTAC, FRUIZ, PARTECIP; 
+160-2;160;Non rilevabile; ;iC2;; 
+160-3;160;Non rilevabile; ;iC2;; 
+160-4;160;Non rilevabile; ;iC2;; 
+161-1;161;Milano;Non applicabile;iC2;EDITORIA, AM_ALTRO, PRODUZ, RIC_FORM;No Profit
+162-1;162;Varese;Non applicabile;iC2;PATRIMON, AM_ALTRO, CONSERV, RIC_FORM; 
+163-1;163;Milano;Non applicabile;iC2;ARTIGIAN, PATRIMON, DIST_COM, PARTECIP;No Profit
+164-1;164;Altra provincia italiana;Non applicabile;iC2;ARTI_VIS, PATRIMON, CONSERV; 
+165-1;165;Milano;3;iC2;DESIGN, PATRIMON, EDUCAZ, PARTECIP; 
+165-2;165;Non rilevabile; ;iC2;; 
+165-3;165;Non rilevabile; ;iC2;; 
+165-4;165;Non rilevabile; ;iC2;; 
+166-1;166;Lecco;5;iC2;PATRIMON, AM_ALTRO, FRUIZ, PARTECIP; 
+166-2;166;Non rilevabile; ;iC2;; 
+166-3;166;Non rilevabile; ;iC2;; 
+166-4;166;Non rilevabile; ;iC2;; 
+166-5;166;Non rilevabile; ;iC2;; 
+166-6;166;Non rilevabile; ;iC2;; 
+167-1;167;Altra provincia italiana;3;iC2;PATRIMON, SPETTAC, PARTECIP, PROMOZ; 
+167-2;167;Non rilevabile; ;iC2;; 
+167-3;167;Non rilevabile; ;iC2;; 
+167-4;167;Non rilevabile; ;iC2;; 
+168-1;168;Milano;Non applicabile;iC2;ARTI_VIS, FUNDRAIS, PROMOZ;For Profit
+169-1;169;Varese;Non applicabile;iC2;ARTI_VIS, EDITORIA, PROMOZ, RIC_FORM;No Profit
+170-1;170;Milano;Non applicabile;iC2;ARTI_VIS, DIST_COM, PROMOZ; 
+171-1;171;Milano;5;iC2;SPETTAC, FRUIZ, PRODUZ; 
+171-2;171;Non rilevabile; ;iC2;; 
+171-3;171;Non rilevabile; ;iC2;; 
+171-4;171;Non rilevabile; ;iC2;; 
+171-5;171;Non rilevabile; ;iC2;; 
+171-6;171;Non rilevabile; ;iC2;; 
+172-1;172;Altra provincia italiana;2;iC2;ARTIGIAN, AM_ALTRO, PRODUZ, RIC_FORM; 
+172-2;172;Non rilevabile; ;iC2;; 
+172-3;172;Non rilevabile; ;iC2;; 
+173-1;173;Milano;Non applicabile;iC2;ARTI_VIS, AM_ALTRO, FRUIZ;No Profit
+174-1;174;Milano;2;iC2;ARCH_BIB, PATRIMON, PARTECIP, PROMOZ; 
+174-2;174;Non rilevabile; ;iC2;; 
+174-3;174;Non rilevabile; ;iC2;; 
+175-1;175;Milano;2;iC2;ARCHITET, DESIGN, PROMOZ, RIC_FORM; 
+175-2;175;Non rilevabile; ;iC2;; 
+175-3;175;Non rilevabile; ;iC2;; 
+176-1;176;Como;Non applicabile;iC2;ARCH_BIB, DESIGN, DIST_COM, EDUCAZ;No Profit
+177-1;177;Milano;3;iC2;PATRIMON, FRUIZ, PROMOZ; 
+177-2;177;Non rilevabile; ;iC2;; 
+177-3;177;Non rilevabile; ;iC2;; 
+177-4;177;Non rilevabile; ;iC2;; 
+178-1;178;Milano;Non applicabile;iC2;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ;For Profit
+179-1;179;Milano;Non applicabile;iC2;AUDIOVIS, DESIGN, PROMOZ;For Profit
+180-1;180;Mantova;Non applicabile;iC2;PATRIMON, AM_ALTRO, PROMOZ; 
+181-1;181;Monza e della Brianza;5;iC2;ARTI_VIS, DESIGN, EDUCAZ, PRODUZ; 
+181-2;181;Non rilevabile; ;iC2;; 
+181-3;181;Non rilevabile; ;iC2;; 
+181-4;181;Non rilevabile; ;iC2;; 
+181-5;181;Non rilevabile; ;iC2;; 
+181-6;181;Non rilevabile; ;iC2;; 
+182-1;182;Milano;2;iC2;AUDIOVIS, SPETTAC, EDUCAZ, PARTECIP; 
+182-2;182;Non rilevabile; ;iC2;; 
+182-3;182;Non rilevabile; ;iC2;; 
+183-1;183;Milano;2;iC2;PATRIMON, SPETTAC, DIST_COM, PROMOZ; 
+183-2;183;Non rilevabile; ;iC2;; 
+183-3;183;Non rilevabile; ;iC2;; 
+184-1;184;Milano;2;iC2;PATRIMON, AM_ALTRO, PROMOZ; 
+184-2;184;Non rilevabile; ;iC2;; 
+184-3;184;Non rilevabile; ;iC2;; 
+185-1;185;Milano;1;iC2;ARCH_BIB, PATRIMON, EDUCAZ, PROMOZ; 
+185-2;185;Non rilevabile; ;iC2;; 
+186-1;186;Mantova;2;iC2;SPETTAC, AM_ALTRO, EDUCAZ, FUNDRAIS; 
+186-2;186;Non rilevabile; ;iC2;; 
+186-3;186;Non rilevabile; ;iC2;; 
+187-1;187;Monza e della Brianza;4;iC2;ARTIGIAN, DESIGN, EDUCAZ, PARTECIP; 
+187-2;187;Non rilevabile; ;iC2;; 
+187-3;187;Non rilevabile; ;iC2;; 
+187-4;187;Non rilevabile; ;iC2;; 
+187-5;187;Non rilevabile; ;iC2;; 
+188-1;188;Milano;Non applicabile;iC2;ARTI_VIS, ARTIGIAN, FRUIZ, PROMOZ;No Profit
+189-1;189;Milano;Non applicabile;iC2;ARTI_VIS, DESIGN, FUNDRAIS, PRODUZ;No Profit
+190-1;190;Brescia;Non applicabile;iC2;ARTI_VIS, SPETTAC, FRUIZ, PROMOZ;For Profit
+191-1;191;Milano;Non applicabile;iC2;PATRIMON, SPETTAC, PRODUZ, RIC_FORM;No Profit
+192-1;192;Pavia;1;iC2;AUDIOVIS, EDITORIA, EDUCAZ, FRUIZ; 
+192-2;192;Non rilevabile; ;iC2;; 
+193-1;193;Bergamo;Non applicabile;iC2;PATRIMON, AM_ALTRO, EDUCAZ, FRUIZ; 
+194-1;194;Milano;2;iC2;AUDIOVIS, EDITORIA, EDUCAZ; 
+194-2;194;Non rilevabile; ;iC2;; 
+194-3;194;Non rilevabile; ;iC2;; 
+195-1;195;Milano;1;iC2;ARCH_BIB, EDITORIA, FRUIZ; 
+195-2;195;Non rilevabile; ;iC2;; 
+196-1;196;Brescia;2;iC2;ARTI_VIS, SPETTAC, PARTECIP, PROMOZ; 
+196-2;196;Non rilevabile; ;iC2;; 
+196-3;196;Non rilevabile; ;iC2;; 
+197-1;197;Altra provincia italiana;Non applicabile;iC2;AUDIOVIS, PATRIMON, PRODUZ, PROMOZ;For Profit
+198-1;198;Milano;Non applicabile;iC2;DESIGN, AM_ALTRO, PARTECIP, PRODUZ; 
+199-1;199;Milano;Non applicabile;iC2;AM_ALTRO, EDUCAZ, RIC_FORM;For Profit
+200-1;200;Altra provincia italiana;Non applicabile;iC2;ARCHITET, ARTI_VIS, EDUCAZ, PROMOZ;No Profit
+201-1;201;Milano;5;iC2;PATRIMON, SPETTAC, FRUIZ, PROMOZ; 
+201-2;201;Non rilevabile; ;iC2;; 
+201-3;201;Non rilevabile; ;iC2;; 
+201-4;201;Non rilevabile; ;iC2;; 
+201-5;201;Non rilevabile; ;iC2;; 
+201-6;201;Non rilevabile; ;iC2;; 
+202-1;202;Lecco;2;iC2;EDITORIA, AM_ALTRO, EDUCAZ, RIC_FORM; 
+202-2;202;Non rilevabile; ;iC2;; 
+202-3;202;Non rilevabile; ;iC2;; 
+203-1;203;Lecco;4;iC2;AUDIOVIS, SPETTAC, EDUCAZ; 
+203-2;203;Non rilevabile; ;iC2;; 
+203-3;203;Non rilevabile; ;iC2;; 
+203-4;203;Non rilevabile; ;iC2;; 
+203-5;203;Non rilevabile; ;iC2;; 
+204-1;204;Monza e della Brianza;1;iC2;AM_ALTRO, EDUCAZ; 
+204-2;204;Non rilevabile; ;iC2;; 
+205-1;205;Como;1;iC2;ARTI_VIS, PATRIMON, EDUCAZ, FRUIZ; 
+205-2;205;Non rilevabile; ;iC2;; 
+206-1;206;Varese;Non applicabile;iC2;ARTI_VIS, AUDIOVIS, EDUCAZ; 
+207-1;207;Como;1;iC2;ARTI_VIS, SPETTAC, FUNDRAIS, PRODUZ; 
+207-2;207;Non rilevabile; ;iC2;; 
+208-1;208;Altra provincia italiana;Non applicabile;iC2;ARCHITET, AM_ALTRO, EDUCAZ, FRUIZ; 
+209-1;209;Milano;Non applicabile;iC2;PATRIMON, AM_ALTRO, FRUIZ, PARTECIP;For Profit
+210-1;210;Brescia;2;iC2;AM_ALTRO, EDUCAZ, RIC_FORM; 
+210-2;210;Non rilevabile; ;iC2;; 
+210-3;210;Non rilevabile; ;iC2;; 
+211-1;211;Milano;2;iC2;AUDIOVIS, PATRIMON, EDUCAZ, PARTECIP; 
+211-2;211;Non rilevabile; ;iC2;; 
+211-3;211;Non rilevabile; ;iC2;; 
+212-1;212;Milano;1;iC2;SPETTAC, FUNDRAIS, PRODUZ; 
+212-2;212;Non rilevabile; ;iC2;; 
+213-1;213;Como;Non applicabile;iC2;PATRIMON, SPETTAC, FRUIZ, PARTECIP;No Profit
+214-1;214;Milano;2;iC2;EDITORIA, PATRIMON, FRUIZ, PROMOZ; 
+214-2;214;Non rilevabile; ;iC2;; 
+214-3;214;Non rilevabile; ;iC2;; 
+215-1;215;Milano;3;iC2;PATRIMON, AM_ALTRO, FRUIZ, PROMOZ; 
+215-2;215;Non rilevabile; ;iC2;; 
+215-3;215;Non rilevabile; ;iC2;; 
+215-4;215;Non rilevabile; ;iC2;; 
+216-1;216;Varese;Non applicabile;iC2;ARTI_VIS, PATRIMON, PARTECIP, PRODUZ; 
+217-1;217;Milano;Non applicabile;iC2;ARCH_BIB, AM_ALTRO, FRUIZ, PROMOZ;No Profit
+218-1;218;Milano;Non applicabile;iC2;ARTI_VIS, EDITORIA, FRUIZ, PROMOZ;For Profit
+219-1;219;Milano;1;iC2;ARTI_VIS, SPETTAC, FRUIZ, PARTECIP; 
+219-2;219;Non rilevabile; ;iC2;; 
+220-1;220;Monza e della Brianza;Non applicabile;iC2;SPETTAC, AM_ALTRO, EDUCAZ, PARTECIP; 
+221-1;221;Milano;2;iC2;ARCHITET, PATRIMON, FRUIZ, PARTECIP; 
+221-2;221;Non rilevabile; ;iC2;; 
+221-3;221;Non rilevabile; ;iC2;; 
+222-1;222;Monza e della Brianza;Non applicabile;iC2;ARTI_VIS, AUDIOVIS, PRODUZ, RIC_FORM;No Profit
+223-1;223;Milano;Non applicabile;iC2;ARTI_VIS, PATRIMON, FUNDRAIS, PARTECIP; 
+224-1;224;Cremona;5;iC2;AUDIOVIS, SPETTAC, PARTECIP, RIC_FORM; 
+224-2;224;Non rilevabile; ;iC2;; 
+224-3;224;Non rilevabile; ;iC2;; 
+224-4;224;Non rilevabile; ;iC2;; 
+224-5;224;Non rilevabile; ;iC2;; 
+224-6;224;Non rilevabile; ;iC2;; 
+225-1;225;Milano;2;iC2;PATRIMON, AM_ALTRO, EDUCAZ, FRUIZ; 
+225-2;225;Non rilevabile; ;iC2;; 
+225-3;225;Non rilevabile; ;iC2;; 
+226-1;226;Monza e della Brianza;5;iC2;PATRIMON, SPETTAC, PARTECIP, PROMOZ; 
+226-2;226;Non rilevabile; ;iC2;; 
+226-3;226;Non rilevabile; ;iC2;; 
+226-4;226;Non rilevabile; ;iC2;; 
+226-5;226;Non rilevabile; ;iC2;; 
+226-6;226;Non rilevabile; ;iC2;; 
+227-1;227;Monza e della Brianza;Non applicabile;iC2;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ;For Profit
+228-1;228;Altra provincia italiana;Non applicabile;iC2;PATRIMON, AM_ALTRO, FRUIZ, PROMOZ; 
+229-1;229;Pavia;4;iC2;ARTI_VIS, EDITORIA, DIST_COM, PARTECIP; 
+229-2;229;Non rilevabile; ;iC2;; 
+229-3;229;Non rilevabile; ;iC2;; 
+229-4;229;Non rilevabile; ;iC2;; 
+229-5;229;Non rilevabile; ;iC2;; 
+230-1;230;Varese;1;iC2;ARTI_VIS, PATRIMON, EDUCAZ, FRUIZ; 
+230-2;230;Non rilevabile; ;iC2;; 
+231-1;231;Milano;3;iC2;ARTI_VIS, SPETTAC, FRUIZ, PROMOZ; 
+231-2;231;Non rilevabile; ;iC2;; 
+231-3;231;Non rilevabile; ;iC2;; 
+231-4;231;Non rilevabile; ;iC2;; 
+232-1;232;Lecco;Non applicabile;iC2;PATRIMON, DIST_COM;For Profit
+233-1;233;Altra provincia italiana;2;iC2;EDITORIA, FUNDRAIS, PRODUZ; 
+233-2;233;Non rilevabile; ;iC2;; 
+233-3;233;Non rilevabile; ;iC2;; 
+234-1;234;Lecco;Non applicabile;iC2;ARTIGIAN, AM_ALTRO, EDUCAZ, PARTECIP; 
+235-1;235;Bergamo;Non applicabile;iC2;ARTI_VIS, PATRIMON, PARTECIP, RIC_FORM;No Profit
+236-1;236;Bergamo;2;iC2;ARTI_VIS, PATRIMON, PARTECIP, PROMOZ; 
+236-2;236;Non rilevabile; ;iC2;; 
+236-3;236;Non rilevabile; ;iC2;; 
+237-1;237;Milano;1;iC2;AUDIOVIS, FUNDRAIS, PRODUZ; 
+237-2;237;Non rilevabile; ;iC2;; 
+238-1;238;Bergamo;Non applicabile;iC2;EDITORIA, SPETTAC, EDUCAZ, PARTECIP; 
+239-1;239;Milano;Non applicabile;iC2;ARTI_VIS, PATRIMON, PROMOZ;No Profit
+240-1;240;Milano;2;iC2;AUDIOVIS, SPETTAC, FUNDRAIS, PRODUZ; 
+240-2;240;Non rilevabile; ;iC2;; 
+240-3;240;Non rilevabile; ;iC2;; 
+241-1;241;Milano;Non applicabile;iC2;EDITORIA, AM_ALTRO, EDUCAZ, RIC_FORM;No Profit
+242-1;242;Milano;Non applicabile;iC2;ARCH_BIB, SPETTAC, FRUIZ; 
+243-1;243;Milano;2;iC2;AUDIOVIS, PATRIMON, FRUIZ, PROMOZ; 
+243-2;243;Non rilevabile; ;iC2;; 
+243-3;243;Non rilevabile; ;iC2;; 
+244-1;244;Milano;Non applicabile;iC2;EDITORIA, SPETTAC, FRUIZ, RIC_FORM;No Profit
+245-1;245;Milano;2;iC2;ARTI_VIS, PATRIMON, FRUIZ; 
+245-2;245;Non rilevabile; ;iC2;; 
+245-3;245;Non rilevabile; ;iC2;; 
+246-1;246;Brescia;4;iC2;AUDIOVIS, PATRIMON, FRUIZ, PROMOZ; 
+246-2;246;Non rilevabile; ;iC2;; 
+246-3;246;Non rilevabile; ;iC2;; 
+246-4;246;Non rilevabile; ;iC2;; 
+246-5;246;Non rilevabile; ;iC2;; 
+247-1;247;Brescia;Non applicabile;iC2;EDITORIA, PATRIMON, EDUCAZ, PROMOZ; 
+248-1;248;Milano;2;iC2;PATRIMON, AM_ALTRO, FRUIZ, PARTECIP; 
+248-2;248;Non rilevabile; ;iC2;; 
+248-3;248;Non rilevabile; ;iC2;; 
+249-1;249;Altra provincia lombarda;Non applicabile;iC2;ARTI_VIS, PATRIMON, CONSERV, FRUIZ; 
+250-1;250;Milano;2;iC2;AM_ALTRO, EDUCAZ, PARTECIP; 
+250-2;250;Non rilevabile; ;iC2;; 
+250-3;250;Non rilevabile; ;iC2;; 
+251-1;251;Como;Non applicabile;iC2;AM_ALTRO, EDUCAZ, PROMOZ; 
+252-1;252;Milano;2;iC2;ARTI_VIS, PATRIMON, FRUIZ, PARTECIP; 
+252-2;252;Non rilevabile; ;iC2;; 
+252-3;252;Non rilevabile; ;iC2;; 
+253-1;253;Milano;3;iC2;ARCH_BIB, PATRIMON, FUNDRAIS, PROMOZ; 
+253-2;253;Non rilevabile; ;iC2;; 
+253-3;253;Non rilevabile; ;iC2;; 
+253-4;253;Non rilevabile; ;iC2;; 
+254-1;254;Milano;Non applicabile;iC2;PATRIMON, FRUIZ, PROMOZ;For Profit
+255-1;255;Milano;Non applicabile;iC2;AM_ALTRO, FUNDRAIS, PRODUZ;No Profit
+256-1;256;Altra provincia italiana;2;iC2;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ; 
+256-2;256;Non rilevabile; ;iC2;; 
+256-3;256;Non rilevabile; ;iC2;; 
+257-1;257;Milano;Non applicabile;iC2;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ;For Profit
+258-1;258;Milano;Non applicabile;iC2;PATRIMON, AM_ALTRO, FRUIZ, PARTECIP;No Profit
+1-1;1;Brescia;4;iC3;ARCHITET, PATRIMON, FRUIZ, PARTECIP; 
+1-2;1;Non rilevabile; ;iC3;; 
+1-3;1;Non rilevabile; ;iC3;; 
+1-4;1;Non rilevabile; ;iC3;; 
+1-5;1;Non rilevabile; ;iC3;; 
+2-1;2;Milano;2;iC3;DESIGN, PATRIMON, PARTECIP, PRODUZ; 
+2-2;2;Non rilevabile; ;iC3;; 
+2-3;2;Non rilevabile; ;iC3;; 
+3-1;3;Monza e della Brianza;1;iC3;ARTIGIAN, PATRIMON, FRUIZ, PROMOZ; 
+3-2;3;Non rilevabile; ;iC3;; 
+4-1;4;Milano;3;iC3;PATRIMON, FRUIZ, PARTECIP; 
+4-2;4;Non rilevabile; ;iC3;; 
+4-3;4;Non rilevabile; ;iC3;; 
+4-4;4;Non rilevabile; ;iC3;; 
+5-1;5;Milano;1;iC3;ARTI_VIS, PATRIMON, FRUIZ; 
+5-2;5;Non rilevabile; ;iC3;; 
+6-1;6;Monza e della Brianza;3;iC3;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ; 
+6-2;6;Non rilevabile; ;iC3;; 
+6-3;6;Non rilevabile; ;iC3;; 
+6-4;6;Non rilevabile; ;iC3;; 
+7-1;7;Bergamo;1;iC3;ARTI_VIS, SPETTAC, DIST_COM, FRUIZ; 
+7-2;7;Non rilevabile; ;iC3;; 
+8-1;8;Milano;1;iC3;ARTIGIAN, FRUIZ, PRODUZ; 
+8-2;8;Non rilevabile; ;iC3;; 
+9-1;9;Milano;2;iC3;ARTI_VIS, PATRIMON, PARTECIP; 
+9-2;9;Non rilevabile; ;iC3;; 
+9-3;9;Non rilevabile; ;iC3;; 
+10-1;10;Milano;1;iC3;SPETTAC, AM_ALTRO, EDUCAZ, PROMOZ; 
+10-2;10;Non rilevabile; ;iC3;; 
+11-1;11;Milano;2;iC3;PATRIMON, FRUIZ, PROMOZ; 
+11-2;11;Non rilevabile; ;iC3;; 
+11-3;11;Non rilevabile; ;iC3;; 
+12-1;12;Bergamo;1;iC3;AM_ALTRO, EDUCAZ, RIC_FORM; 
+12-2;12;Non rilevabile; ;iC3;; 
+13-1;13;Milano;2;iC3;ARTI_VIS, PATRIMON, FRUIZ, PRODUZ; 
+13-2;13;Non rilevabile; ;iC3;; 
+13-3;13;Non rilevabile; ;iC3;; 
+14-1;14;Altra provincia italiana;1;iC3;ARTI_VIS, PATRIMON, FRUIZ, PARTECIP; 
+14-2;14;Non rilevabile; ;iC3;; 
+15-1;15;Bergamo;3;iC3;EDITORIA, PATRIMON, EDUCAZ, FRUIZ; 
+15-2;15;Non rilevabile; ;iC3;; 
+15-3;15;Non rilevabile; ;iC3;; 
+15-4;15;Non rilevabile; ;iC3;; 
+16-1;16;Milano;4;iC3;AUDIOVIS, AM_ALTRO, DIST_COM, FRUIZ; 
+16-2;16;Non rilevabile; ;iC3;; 
+16-3;16;Non rilevabile; ;iC3;; 
+16-4;16;Non rilevabile; ;iC3;; 
+16-5;16;Non rilevabile; ;iC3;; 
+17-1;17;Milano;5;iC3;AUDIOVIS, FRUIZ, PROMOZ; 
+17-2;17;Non rilevabile; ;iC3;; 
+17-3;17;Non rilevabile; ;iC3;; 
+17-4;17;Non rilevabile; ;iC3;; 
+17-5;17;Non rilevabile; ;iC3;; 
+17-6;17;Non rilevabile; ;iC3;; 
+18-1;18;Milano;4;iC3;ARTI_VIS, EDITORIA, DIST_COM, EDUCAZ; 
+18-2;18;Non rilevabile; ;iC3;; 
+18-3;18;Non rilevabile; ;iC3;; 
+18-4;18;Non rilevabile; ;iC3;; 
+18-5;18;Non rilevabile; ;iC3;; 
+19-1;19;Milano;1;iC3;ARCH_BIB, EDITORIA, FRUIZ, PROMOZ; 
+19-2;19;Non rilevabile; ;iC3;; 
+20-1;20;Milano;1;iC3;ARCHITET, PATRIMON, FRUIZ, PROMOZ; 
+20-2;20;Non rilevabile; ;iC3;; 
+21-1;21;Milano;3;iC3;AUDIOVIS, PATRIMON, PRODUZ; 
+21-2;21;Non rilevabile; ;iC3;; 
+21-3;21;Non rilevabile; ;iC3;; 
+21-4;21;Non rilevabile; ;iC3;; 
+22-1;22;Monza e della Brianza;1;iC3;AUDIOVIS, PATRIMON, FRUIZ, PARTECIP; 
+22-2;22;Non rilevabile; ;iC3;; 
+23-1;23;Altra provincia italiana;1;iC3;ARTIGIAN, PATRIMON, FRUIZ, PROMOZ; 
+23-2;23;Non rilevabile; ;iC3;; 
+24-1;24;Milano;1;iC3;ARCHITET, ARTI_VIS, FRUIZ, PROMOZ; 
+24-2;24;Non rilevabile; ;iC3;; 
+25-1;25;Brescia;2;iC3;ARTI_VIS, ARTIGIAN; 
+25-2;25;Non rilevabile; ;iC3;; 
+25-3;25;Non rilevabile; ;iC3;; 
+26-1;26;Milano;1;iC3;AUDIOVIS, EDITORIA, FRUIZ, PRODUZ; 
+26-2;26;Non rilevabile; ;iC3;; 
+27-1;27;Milano;2;iC3;ARCH_BIB, EDITORIA, FRUIZ, PARTECIP; 
+27-2;27;Non rilevabile; ;iC3;; 
+27-3;27;Non rilevabile; ;iC3;; 
+28-1;28;Altra provincia italiana;2;iC3;ARTI_VIS, SPETTAC, EDUCAZ, PARTECIP; 
+28-2;28;Non rilevabile; ;iC3;; 
+28-3;28;Non rilevabile; ;iC3;; 
+29-1;29;Altra provincia italiana;1;iC3;ARTI_VIS, DESIGN, FUNDRAIS, PRODUZ; 
+29-2;29;Non rilevabile; ;iC3;; 
+30-1;30;Altra provincia italiana;2;iC3;AUDIOVIS, PATRIMON, PARTECIP, PROMOZ; 
+30-2;30;Non rilevabile; ;iC3;; 
+30-3;30;Non rilevabile; ;iC3;; 
+31-1;31;Brescia;2;iC3;AM_ALTRO, PROMOZ, RIC_FORM; 
+31-2;31;Non rilevabile; ;iC3;; 
+31-3;31;Non rilevabile; ;iC3;; 
+32-1;32;Pavia;3;iC3;ARTI_VIS, AM_ALTRO, EDUCAZ, FRUIZ; 
+32-2;32;Non rilevabile; ;iC3;; 
+32-3;32;Non rilevabile; ;iC3;; 
+32-4;32;Non rilevabile; ;iC3;; 
+33-1;33;Altra provincia italiana;1;iC3;ARCHITET, ARTI_VIS, FRUIZ, PARTECIP; 
+33-2;33;Non rilevabile; ;iC3;; 
+34-1;34;Altra provincia italiana;1;iC3;ARTI_VIS, AUDIOVIS, RIC_FORM; 
+34-2;34;Non rilevabile; ;iC3;; 
+35-1;35;Altra provincia italiana;1;iC3;EDITORIA, PATRIMON, EDUCAZ, RIC_FORM; 
+35-2;35;Non rilevabile; ;iC3;; 
+36-1;36;Altra provincia italiana;3;iC3;ARTI_VIS, PATRIMON, FRUIZ, PARTECIP; 
+36-2;36;Non rilevabile; ;iC3;; 
+36-3;36;Non rilevabile; ;iC3;; 
+36-4;36;Non rilevabile; ;iC3;; 
+37-1;37;Milano;3;iC3;ARTI_VIS, ARTIGIAN, FRUIZ; 
+37-2;37;Non rilevabile; ;iC3;; 
+37-3;37;Non rilevabile; ;iC3;; 
+37-4;37;Non rilevabile; ;iC3;; 
+38-1;38;Como;2;iC3;PATRIMON, AM_ALTRO, FRUIZ, PROMOZ; 
+38-2;38;Non rilevabile; ;iC3;; 
+38-3;38;Non rilevabile; ;iC3;; 
+39-1;39;Milano;3;iC3;AM_ALTRO, PROMOZ; 
+39-2;39;Non rilevabile; ;iC3;; 
+39-3;39;Non rilevabile; ;iC3;; 
+39-4;39;Non rilevabile; ;iC3;; 
+40-1;40;Altra provincia italiana;2;iC3;EDITORIA, PATRIMON, EDUCAZ, FRUIZ; 
+40-2;40;Non rilevabile; ;iC3;; 
+40-3;40;Non rilevabile; ;iC3;; 
+41-1;41;Brescia;1;iC3;ARTI_VIS, PATRIMON, PROMOZ; 
+41-2;41;Non rilevabile; ;iC3;; 
+42-1;42;Milano;3;iC3;ARTI_VIS, PATRIMON, DIST_COM, PARTECIP; 
+42-2;42;Non rilevabile; ;iC3;; 
+42-3;42;Non rilevabile; ;iC3;; 
+42-4;42;Non rilevabile; ;iC3;; 
+43-1;43;Altra provincia italiana;1;iC3;EDITORIA, PATRIMON, FRUIZ, PROMOZ; 
+43-2;43;Non rilevabile; ;iC3;; 
+44-1;44;Milano;1;iC3;SPETTAC, FUNDRAIS, PROMOZ; 
+44-2;44;Non rilevabile; ;iC3;; 
+45-1;45;Altra provincia italiana;4;iC3;AM_ALTRO, PROMOZ, RIC_FORM; 
+45-2;45;Non rilevabile; ;iC3;; 
+45-3;45;Non rilevabile; ;iC3;; 
+45-4;45;Non rilevabile; ;iC3;; 
+45-5;45;Non rilevabile; ;iC3;; 
+46-1;46;Monza e della Brianza;1;iC3;EDITORIA, DIST_COM, PROMOZ; 
+46-2;46;Non rilevabile; ;iC3;; 
+47-1;47;Altra provincia italiana;4;iC3;ARTIGIAN, AUDIOVIS, DIST_COM, PARTECIP; 
+47-2;47;Non rilevabile; ;iC3;; 
+47-3;47;Non rilevabile; ;iC3;; 
+47-4;47;Non rilevabile; ;iC3;; 
+47-5;47;Non rilevabile; ;iC3;; 
+48-1;48;Milano;4;iC3;PATRIMON, SPETTAC, FRUIZ, PROMOZ; 
+48-2;48;Non rilevabile; ;iC3;; 
+48-3;48;Non rilevabile; ;iC3;; 
+48-4;48;Non rilevabile; ;iC3;; 
+48-5;48;Non rilevabile; ;iC3;; 
+49-1;49;Milano;3;iC3;ARTI_VIS, ARTIGIAN, EDUCAZ; 
+49-2;49;Non rilevabile; ;iC3;; 
+49-3;49;Non rilevabile; ;iC3;; 
+49-4;49;Non rilevabile; ;iC3;; 
+50-1;50;Milano;4;iC3;PATRIMON, SPETTAC, PARTECIP, PROMOZ; 
+50-2;50;Non rilevabile; ;iC3;; 
+50-3;50;Non rilevabile; ;iC3;; 
+50-4;50;Non rilevabile; ;iC3;; 
+50-5;50;Non rilevabile; ;iC3;; 
+51-1;51;Cremona;4;iC3;ARCH_BIB, SPETTAC, CONSERV, PARTECIP; 
+51-2;51;Non rilevabile; ;iC3;; 
+51-3;51;Non rilevabile; ;iC3;; 
+51-4;51;Non rilevabile; ;iC3;; 
+51-5;51;Non rilevabile; ;iC3;; 
+52-1;52;Altra provincia italiana;4;iC3;ARTI_VIS, PATRIMON, PRODUZ, PROMOZ; 
+52-2;52;Non rilevabile; ;iC3;; 
+52-3;52;Non rilevabile; ;iC3;; 
+52-4;52;Non rilevabile; ;iC3;; 
+52-5;52;Non rilevabile; ;iC3;; 
+53-1;53;Milano;3;iC3;ARTI_VIS, ARTIGIAN, EDUCAZ, FRUIZ; 
+53-2;53;Non rilevabile; ;iC3;; 
+53-3;53;Non rilevabile; ;iC3;; 
+53-4;53;Non rilevabile; ;iC3;; 
+54-1;54;Milano;4;iC3;ARTI_VIS, PATRIMON, PARTECIP, RIC_FORM; 
+54-2;54;Non rilevabile; ;iC3;; 
+54-3;54;Non rilevabile; ;iC3;; 
+54-4;54;Non rilevabile; ;iC3;; 
+54-5;54;Non rilevabile; ;iC3;; 
+55-1;55;Altra provincia italiana;1;iC3;PATRIMON, SPETTAC, FRUIZ, PROMOZ; 
+55-2;55;Non rilevabile; ;iC3;; 
+56-1;56;Altra provincia italiana;4;iC3;AUDIOVIS, AM_ALTRO, EDUCAZ, PARTECIP; 
+56-2;56;Non rilevabile; ;iC3;; 
+56-3;56;Non rilevabile; ;iC3;; 
+56-4;56;Non rilevabile; ;iC3;; 
+56-5;56;Non rilevabile; ;iC3;; 
+57-1;57;Altra provincia italiana;3;iC3;PATRIMON, PARTECIP, PROMOZ; 
+57-2;57;Non rilevabile; ;iC3;; 
+57-3;57;Non rilevabile; ;iC3;; 
+57-4;57;Non rilevabile; ;iC3;; 
+58-1;58;Altra provincia italiana;1;iC3;ARTI_VIS, SPETTAC, FRUIZ, PARTECIP; 
+58-2;58;Non rilevabile; ;iC3;; 
+59-1;59;Milano;1;iC3;EDITORIA, PATRIMON, FRUIZ, PROMOZ; 
+59-2;59;Non rilevabile; ;iC3;; 
+60-1;60;Pavia;3;iC3;ARTI_VIS, DESIGN, DIST_COM, PARTECIP; 
+60-2;60;Non rilevabile; ;iC3;; 
+60-3;60;Non rilevabile; ;iC3;; 
+60-4;60;Non rilevabile; ;iC3;; 
+61-1;61;Milano;1;iC3;AUDIOVIS, EDITORIA, EDUCAZ, PROMOZ; 
+61-2;61;Non rilevabile; ;iC3;; 
+62-1;62;Como;3;iC3;AUDIOVIS, SPETTAC, FRUIZ, PRODUZ; 
+62-2;62;Non rilevabile; ;iC3;; 
+62-3;62;Non rilevabile; ;iC3;; 
+62-4;62;Non rilevabile; ;iC3;; 
+63-1;63;Altra provincia italiana;5;iC3;ARTIGIAN, PATRIMON, DIST_COM, FRUIZ; 
+63-2;63;Non rilevabile; ;iC3;; 
+63-3;63;Non rilevabile; ;iC3;; 
+63-4;63;Non rilevabile; ;iC3;; 
+63-5;63;Non rilevabile; ;iC3;; 
+63-6;63;Non rilevabile; ;iC3;; 
+64-1;64;Milano;1;iC3;ARTI_VIS, DIST_COM, FUNDRAIS; 
+64-2;64;Non rilevabile; ;iC3;; 
+65-1;65;Altra provincia italiana;1;iC3;EDITORIA, SPETTAC, EDUCAZ, PROMOZ; 
+65-2;65;Non rilevabile; ;iC3;; 
+66-1;66;Altra provincia italiana;3;iC3;PATRIMON, FRUIZ, PRODUZ; 
+66-2;66;Non rilevabile; ;iC3;; 
+66-3;66;Non rilevabile; ;iC3;; 
+66-4;66;Non rilevabile; ;iC3;; 
+67-1;67;Altra provincia italiana;4;iC3;DESIGN, EDITORIA, PRODUZ, PROMOZ; 
+67-2;67;Non rilevabile; ;iC3;; 
+67-3;67;Non rilevabile; ;iC3;; 
+67-4;67;Non rilevabile; ;iC3;; 
+67-5;67;Non rilevabile; ;iC3;; 
+68-1;68;Milano;2;iC3;ARTI_VIS, ARTIGIAN, PROMOZ, RIC_FORM; 
+68-2;68;Non rilevabile; ;iC3;; 
+68-3;68;Non rilevabile; ;iC3;; 
+69-1;69;Altra provincia italiana;5;iC3;EDITORIA, SPETTAC, PRODUZ, RIC_FORM; 
+69-2;69;Non rilevabile; ;iC3;; 
+69-3;69;Non rilevabile; ;iC3;; 
+69-4;69;Non rilevabile; ;iC3;; 
+69-5;69;Non rilevabile; ;iC3;; 
+69-6;69;Non rilevabile; ;iC3;; 
+70-1;70;Altra provincia italiana;4;iC3;AUDIOVIS, AM_ALTRO, PRODUZ, RIC_FORM; 
+70-2;70;Non rilevabile; ;iC3;; 
+70-3;70;Non rilevabile; ;iC3;; 
+70-4;70;Non rilevabile; ;iC3;; 
+70-5;70;Non rilevabile; ;iC3;; 
+71-1;71;Brescia;3;iC3;ARTIGIAN, DESIGN, CONSERV, RIC_FORM; 
+71-2;71;Non rilevabile; ;iC3;; 
+71-3;71;Non rilevabile; ;iC3;; 
+71-4;71;Non rilevabile; ;iC3;; 
+72-1;72;Altra provincia lombarda;3;iC3;ARTI_VIS, PATRIMON, FRUIZ; 
+72-2;72;Non rilevabile; ;iC3;; 
+72-3;72;Non rilevabile; ;iC3;; 
+72-4;72;Non rilevabile; ;iC3;; 
+73-1;73;Altra provincia italiana;2;iC3;AUDIOVIS, EDITORIA, FRUIZ, PARTECIP; 
+73-2;73;Non rilevabile; ;iC3;; 
+73-3;73;Non rilevabile; ;iC3;; 
+74-1;74;Mantova;2;iC3;AM_ALTRO, FRUIZ, RIC_FORM; 
+74-2;74;Non rilevabile; ;iC3;; 
+74-3;74;Non rilevabile; ;iC3;; 
+75-1;75;Altra provincia italiana;2;iC3;ARTI_VIS, SPETTAC, PARTECIP, PRODUZ; 
+75-2;75;Non rilevabile; ;iC3;; 
+75-3;75;Non rilevabile; ;iC3;; 
+76-1;76;Altra provincia italiana;4;iC3;ARTI_VIS, AUDIOVIS, FUNDRAIS, PRODUZ; 
+76-2;76;Non rilevabile; ;iC3;; 
+76-3;76;Non rilevabile; ;iC3;; 
+76-4;76;Non rilevabile; ;iC3;; 
+76-5;76;Non rilevabile; ;iC3;; 
+77-1;77;Altra provincia italiana;2;iC3;AUDIOVIS, SPETTAC, DIST_COM, EDUCAZ; 
+77-2;77;Non rilevabile; ;iC3;; 
+77-3;77;Non rilevabile; ;iC3;; 
+78-1;78;Altra provincia italiana;1;iC3;AUDIOVIS, PATRIMON, EDUCAZ, FRUIZ; 
+78-2;78;Non rilevabile; ;iC3;; 
+79-1;79;Altra provincia italiana;2;iC3;AM_ALTRO, PRODUZ; 
+79-2;79;Non rilevabile; ;iC3;; 
+79-3;79;Non rilevabile; ;iC3;; 
+80-1;80;Milano;2;iC3;ARTI_VIS, DESIGN, PARTECIP, PRODUZ; 
+80-2;80;Non rilevabile; ;iC3;; 
+80-3;80;Non rilevabile; ;iC3;; 
+81-1;81;Milano;3;iC3;PATRIMON, SPETTAC, PROMOZ, RIC_FORM; 
+81-2;81;Non rilevabile; ;iC3;; 
+81-3;81;Non rilevabile; ;iC3;; 
+81-4;81;Non rilevabile; ;iC3;; 
+82-1;82;Altra provincia italiana;1;iC3;ARCH_BIB, PATRIMON, PARTECIP, PROMOZ; 
+82-2;82;Non rilevabile; ;iC3;; 
+83-1;83;Milano;3;iC3;ARTI_VIS, AM_ALTRO, FRUIZ, PROMOZ; 
+83-2;83;Non rilevabile; ;iC3;; 
+83-3;83;Non rilevabile; ;iC3;; 
+83-4;83;Non rilevabile; ;iC3;; 
+84-1;84;Milano;2;iC3;AM_ALTRO, EDUCAZ, RIC_FORM; 
+84-2;84;Non rilevabile; ;iC3;; 
+84-3;84;Non rilevabile; ;iC3;; 
+85-1;85;Milano;5;iC3;ARTI_VIS, SPETTAC, EDUCAZ, PRODUZ; 
+85-2;85;Non rilevabile; ;iC3;; 
+85-3;85;Non rilevabile; ;iC3;; 
+85-4;85;Non rilevabile; ;iC3;; 
+85-5;85;Non rilevabile; ;iC3;; 
+85-6;85;Non rilevabile; ;iC3;; 
+86-1;86;Altra provincia italiana;2;iC3;ARTIGIAN, DESIGN, DIST_COM, PROMOZ; 
+86-2;86;Non rilevabile; ;iC3;; 
+86-3;86;Non rilevabile; ;iC3;; 
+87-1;87;Varese;3;iC3;ARTI_VIS, AM_ALTRO, PROMOZ; 
+87-2;87;Non rilevabile; ;iC3;; 
+87-3;87;Non rilevabile; ;iC3;; 
+87-4;87;Non rilevabile; ;iC3;; 
+88-1;88;Altra provincia italiana;2;iC3;ARTI_VIS, AUDIOVIS, FUNDRAIS, PRODUZ; 
+88-2;88;Non rilevabile; ;iC3;; 
+88-3;88;Non rilevabile; ;iC3;; 
+89-1;89;Altra provincia italiana;1;iC3;PATRIMON, SPETTAC, FRUIZ, PROMOZ; 
+89-2;89;Non rilevabile; ;iC3;; 
+90-1;90;Altra provincia italiana;3;iC3;ARTIGIAN, PATRIMON, CONSERV, PARTECIP; 
+90-2;90;Non rilevabile; ;iC3;; 
+90-3;90;Non rilevabile; ;iC3;; 
+90-4;90;Non rilevabile; ;iC3;; 
+91-1;91;Altra provincia italiana;4;iC3;ARTI_VIS, EDITORIA, FRUIZ, PARTECIP; 
+91-2;91;Non rilevabile; ;iC3;; 
+91-3;91;Non rilevabile; ;iC3;; 
+91-4;91;Non rilevabile; ;iC3;; 
+91-5;91;Non rilevabile; ;iC3;; 
+92-1;92;Milano;2;iC3;ARTI_VIS, DESIGN, EDUCAZ, FRUIZ; 
+92-2;92;Non rilevabile; ;iC3;; 
+92-3;92;Non rilevabile; ;iC3;; 
+93-1;93;Altra provincia italiana;3;iC3;ARTI_VIS, PATRIMON, PARTECIP, PROMOZ; 
+93-2;93;Non rilevabile; ;iC3;; 
+93-3;93;Non rilevabile; ;iC3;; 
+93-4;93;Non rilevabile; ;iC3;; 
+94-1;94;Altra provincia italiana;3;iC3;ARCHITET, PATRIMON, CONSERV, FRUIZ; 
+94-2;94;Non rilevabile; ;iC3;; 
+94-3;94;Non rilevabile; ;iC3;; 
+94-4;94;Non rilevabile; ;iC3;; 
+95-1;95;Milano;4;iC3;PATRIMON, AM_ALTRO, FRUIZ, PARTECIP; 
+95-2;95;Non rilevabile; ;iC3;; 
+95-3;95;Non rilevabile; ;iC3;; 
+95-4;95;Non rilevabile; ;iC3;; 
+95-5;95;Non rilevabile; ;iC3;; 
+96-1;96;Altra provincia italiana;2;iC3;ARCHITET, AUDIOVIS, EDUCAZ, PROMOZ; 
+96-2;96;Non rilevabile; ;iC3;; 
+96-3;96;Non rilevabile; ;iC3;; 
+97-1;97;Altra provincia italiana;1;iC3;PATRIMON, SPETTAC, EDUCAZ, FRUIZ; 
+97-2;97;Non rilevabile; ;iC3;; 
+98-1;98;Altra provincia italiana;5;iC3;AUDIOVIS, PATRIMON, FRUIZ, PARTECIP; 
+98-2;98;Non rilevabile; ;iC3;; 
+98-3;98;Non rilevabile; ;iC3;; 
+98-4;98;Non rilevabile; ;iC3;; 
+98-5;98;Non rilevabile; ;iC3;; 
+98-6;98;Non rilevabile; ;iC3;; 
+99-1;99;Varese;1;iC3;ARTI_VIS, AUDIOVIS, CONSERV, FRUIZ; 
+99-2;99;Non rilevabile; ;iC3;; 
+100-1;100;Bergamo;5;iC3;AUDIOVIS, EDITORIA, PARTECIP, PROMOZ; 
+100-2;100;Non rilevabile; ;iC3;; 
+100-3;100;Non rilevabile; ;iC3;; 
+100-4;100;Non rilevabile; ;iC3;; 
+100-5;100;Non rilevabile; ;iC3;; 
+100-6;100;Non rilevabile; ;iC3;; 
+101-1;101;Altra provincia italiana;1;iC3;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ; 
+101-2;101;Non rilevabile; ;iC3;; 
+102-1;102;Altra provincia italiana;2;iC3;AUDIOVIS, PATRIMON, FRUIZ, PROMOZ; 
+102-2;102;Non rilevabile; ;iC3;; 
+102-3;102;Non rilevabile; ;iC3;; 
+103-1;103;Bergamo;5;iC3;ARCH_BIB, AM_ALTRO, FRUIZ, RIC_FORM; 
+103-2;103;Non rilevabile; ;iC3;; 
+103-3;103;Non rilevabile; ;iC3;; 
+103-4;103;Non rilevabile; ;iC3;; 
+103-5;103;Non rilevabile; ;iC3;; 
+103-6;103;Non rilevabile; ;iC3;; 
+104-1;104;Milano;1;iC3;ARTI_VIS, PATRIMON, PARTECIP, PROMOZ; 
+104-2;104;Non rilevabile; ;iC3;; 
+105-1;105;Milano;2;iC3;ARTI_VIS, AUDIOVIS, DIST_COM, PARTECIP; 
+105-2;105;Non rilevabile; ;iC3;; 
+105-3;105;Non rilevabile; ;iC3;; 
+106-1;106;Milano;2;iC3;EDITORIA, PATRIMON, PRODUZ, PROMOZ; 
+106-2;106;Non rilevabile; ;iC3;; 
+106-3;106;Non rilevabile; ;iC3;; 
+107-1;107;Milano;5;iC3;SPETTAC, AM_ALTRO, FUNDRAIS, PARTECIP; 
+107-2;107;Non rilevabile; ;iC3;; 
+107-3;107;Non rilevabile; ;iC3;; 
+107-4;107;Non rilevabile; ;iC3;; 
+107-5;107;Non rilevabile; ;iC3;; 
+107-6;107;Non rilevabile; ;iC3;; 
+108-1;108;Altra provincia italiana;3;iC3;ARCH_BIB, AM_ALTRO, FRUIZ, PARTECIP; 
+108-2;108;Non rilevabile; ;iC3;; 
+108-3;108;Non rilevabile; ;iC3;; 
+108-4;108;Non rilevabile; ;iC3;; 
+109-1;109;Como;3;iC3;ARCHITET, AM_ALTRO, FRUIZ, PRODUZ; 
+109-2;109;Non rilevabile; ;iC3;; 
+109-3;109;Non rilevabile; ;iC3;; 
+109-4;109;Non rilevabile; ;iC3;; 
+110-1;110;Milano;1;iC3;PATRIMON, AM_ALTRO, FRUIZ, PARTECIP; 
+110-2;110;Non rilevabile; ;iC3;; 
+111-1;111;Altra provincia italiana;1;iC3;AUDIOVIS, SPETTAC, DIST_COM, PROMOZ; 
+111-2;111;Non rilevabile; ;iC3;; 
+112-1;112;Varese;5;iC3;ARTI_VIS, PATRIMON, CONSERV, PARTECIP; 
+112-2;112;Non rilevabile; ;iC3;; 
+112-3;112;Non rilevabile; ;iC3;; 
+112-4;112;Non rilevabile; ;iC3;; 
+112-5;112;Non rilevabile; ;iC3;; 
+112-6;112;Non rilevabile; ;iC3;; 
+113-1;113;Milano;1;iC3;PATRIMON, SPETTAC, DIST_COM, PARTECIP; 
+113-2;113;Non rilevabile; ;iC3;; 
+114-1;114;Milano;1;iC3;SPETTAC, EDUCAZ, PARTECIP; 
+114-2;114;Non rilevabile; ;iC3;; 
+115-1;115;Altra provincia italiana;2;iC3;EDITORIA, AM_ALTRO, PROMOZ, RIC_FORM; 
+115-2;115;Non rilevabile; ;iC3;; 
+115-3;115;Non rilevabile; ;iC3;; 
+116-1;116;Altra provincia italiana;1;iC3;AM_ALTRO, EDUCAZ, RIC_FORM; 
+116-2;116;Non rilevabile; ;iC3;; 
+117-1;117;Milano;1;iC3;ARTI_VIS, PATRIMON, PROMOZ; 
+117-2;117;Non rilevabile; ;iC3;; 
+118-1;118;Milano;1;iC3;EDITORIA, PATRIMON, PARTECIP; 
+118-2;118;Non rilevabile; ;iC3;; 
+119-1;119;Altra provincia italiana;2;iC3;PATRIMON, SPETTAC, PARTECIP, RIC_FORM; 
+119-2;119;Non rilevabile; ;iC3;; 
+119-3;119;Non rilevabile; ;iC3;; 
+120-1;120;Milano;1;iC3;PATRIMON, SPETTAC, FRUIZ, PRODUZ; 
+120-2;120;Non rilevabile; ;iC3;; 
+121-1;121;Altra provincia italiana;1;iC3;ARTI_VIS, ARTIGIAN, DIST_COM, PROMOZ; 
+121-2;121;Non rilevabile; ;iC3;; 
+122-1;122;Altra provincia italiana;3;iC3;PATRIMON, SPETTAC, FRUIZ, PROMOZ; 
+122-2;122;Non rilevabile; ;iC3;; 
+122-3;122;Non rilevabile; ;iC3;; 
+122-4;122;Non rilevabile; ;iC3;; 
+123-1;123;Milano;4;iC3;ARTI_VIS, PATRIMON, FRUIZ, RIC_FORM; 
+123-2;123;Non rilevabile; ;iC3;; 
+123-3;123;Non rilevabile; ;iC3;; 
+123-4;123;Non rilevabile; ;iC3;; 
+123-5;123;Non rilevabile; ;iC3;; 
+124-1;124;Milano;1;iC3;ARCHITET, ARTI_VIS, FRUIZ, PARTECIP; 
+124-2;124;Non rilevabile; ;iC3;; 
+125-1;125;Milano;4;iC3;SPETTAC, EDUCAZ, PROMOZ; 
+125-2;125;Non rilevabile; ;iC3;; 
+125-3;125;Non rilevabile; ;iC3;; 
+125-4;125;Non rilevabile; ;iC3;; 
+125-5;125;Non rilevabile; ;iC3;; 
+126-1;126;Altra provincia italiana;1;iC3;SPETTAC, PRODUZ; 
+126-2;126;Non rilevabile; ;iC3;; 
+127-1;127;Milano;1;iC3;ARCH_BIB, EDITORIA, FRUIZ, PROMOZ; 
+127-2;127;Non rilevabile; ;iC3;; 
+128-1;128;Bergamo;3;iC3;ARTI_VIS, SPETTAC, PROMOZ; 
+128-2;128;Non rilevabile; ;iC3;; 
+128-3;128;Non rilevabile; ;iC3;; 
+128-4;128;Non rilevabile; ;iC3;; 
+129-1;129;Altra provincia italiana;5;iC3;AUDIOVIS, SPETTAC, PARTECIP, PRODUZ; 
+129-2;129;Non rilevabile; ;iC3;; 
+129-3;129;Non rilevabile; ;iC3;; 
+129-4;129;Non rilevabile; ;iC3;; 
+129-5;129;Non rilevabile; ;iC3;; 
+129-6;129;Non rilevabile; ;iC3;; 
+130-1;130;Altra provincia italiana;3;iC3;ARCHITET, PATRIMON, PARTECIP; 
+130-2;130;Non rilevabile; ;iC3;; 
+130-3;130;Non rilevabile; ;iC3;; 
+130-4;130;Non rilevabile; ;iC3;; 
+131-1;131;Milano;1;iC3;SPETTAC, AM_ALTRO, EDUCAZ, PARTECIP; 
+131-2;131;Non rilevabile; ;iC3;; 
+132-1;132;Milano;2;iC3;PATRIMON, SPETTAC, PARTECIP, PROMOZ; 
+132-2;132;Non rilevabile; ;iC3;; 
+132-3;132;Non rilevabile; ;iC3;; 
+133-1;133;Altra provincia italiana;4;iC3;SPETTAC, FUNDRAIS, PROMOZ; 
+133-2;133;Non rilevabile; ;iC3;; 
+133-3;133;Non rilevabile; ;iC3;; 
+133-4;133;Non rilevabile; ;iC3;; 
+133-5;133;Non rilevabile; ;iC3;; 
+134-1;134;Altra provincia italiana;3;iC3;PATRIMON, AM_ALTRO, FRUIZ, PROMOZ; 
+134-2;134;Non rilevabile; ;iC3;; 
+134-3;134;Non rilevabile; ;iC3;; 
+134-4;134;Non rilevabile; ;iC3;; 
+135-1;135;Mantova;2;iC3;ARTI_VIS, PATRIMON, PARTECIP, PRODUZ; 
+135-2;135;Non rilevabile; ;iC3;; 
+135-3;135;Non rilevabile; ;iC3;; 
+136-1;136;Altra provincia italiana;5;iC3;ARTI_VIS, SPETTAC, PARTECIP; 
+136-2;136;Non rilevabile; ;iC3;; 
+136-3;136;Non rilevabile; ;iC3;; 
+136-4;136;Non rilevabile; ;iC3;; 
+136-5;136;Non rilevabile; ;iC3;; 
+136-6;136;Non rilevabile; ;iC3;; 
+137-1;137;Altra provincia italiana;2;iC3;ARCH_BIB, FRUIZ; 
+137-2;137;Non rilevabile; ;iC3;; 
+137-3;137;Non rilevabile; ;iC3;; 
+138-1;138;Altra provincia italiana;1;iC3;ARTI_VIS, ARTIGIAN, CONSERV, PROMOZ; 
+138-2;138;Non rilevabile; ;iC3;; 
+139-1;139;Brescia;1;iC3;PATRIMON, FRUIZ, PROMOZ; 
+139-2;139;Non rilevabile; ;iC3;; 
+140-1;140;Milano;3;iC3;AUDIOVIS, SPETTAC, EDUCAZ, PRODUZ; 
+140-2;140;Non rilevabile; ;iC3;; 
+140-3;140;Non rilevabile; ;iC3;; 
+140-4;140;Non rilevabile; ;iC3;; 
+141-1;141;Altra provincia italiana;2;iC3;SPETTAC, AM_ALTRO, EDUCAZ, PRODUZ; 
+141-2;141;Non rilevabile; ;iC3;; 
+141-3;141;Non rilevabile; ;iC3;; 
+142-1;142;Altra provincia italiana;4;iC3;ARCH_BIB, AUDIOVIS, DIST_COM, PROMOZ; 
+142-2;142;Non rilevabile; ;iC3;; 
+142-3;142;Non rilevabile; ;iC3;; 
+142-4;142;Non rilevabile; ;iC3;; 
+142-5;142;Non rilevabile; ;iC3;; 
+143-1;143;Milano;2;iC3;SPETTAC, AM_ALTRO, FRUIZ, PROMOZ; 
+143-2;143;Non rilevabile; ;iC3;; 
+143-3;143;Non rilevabile; ;iC3;; 
+144-1;144;Altra provincia italiana;5;iC3;EDITORIA, SPETTAC, EDUCAZ, PARTECIP; 
+144-2;144;Non rilevabile; ;iC3;; 
+144-3;144;Non rilevabile; ;iC3;; 
+144-4;144;Non rilevabile; ;iC3;; 
+144-5;144;Non rilevabile; ;iC3;; 
+144-6;144;Non rilevabile; ;iC3;; 
+145-1;145;Como;5;iC3;PATRIMON, PARTECIP, PROMOZ; 
+145-2;145;Non rilevabile; ;iC3;; 
+145-3;145;Non rilevabile; ;iC3;; 
+145-4;145;Non rilevabile; ;iC3;; 
+145-5;145;Non rilevabile; ;iC3;; 
+145-6;145;Non rilevabile; ;iC3;; 
+146-1;146;Pavia;2;iC3;ARTI_VIS, DESIGN, PARTECIP, PROMOZ; 
+146-2;146;Non rilevabile; ;iC3;; 
+146-3;146;Non rilevabile; ;iC3;; 
+147-1;147;Altra provincia italiana;2;iC3;ARCHITET, PATRIMON, PROMOZ, RIC_FORM; 
+147-2;147;Non rilevabile; ;iC3;; 
+147-3;147;Non rilevabile; ;iC3;; 
+148-1;148;Monza e della Brianza;2;iC3;PATRIMON, AM_ALTRO, DIST_COM, PROMOZ; 
+148-2;148;Non rilevabile; ;iC3;; 
+148-3;148;Non rilevabile; ;iC3;; 
+149-1;149;Altra provincia italiana;1;iC3;PATRIMON, AM_ALTRO, PROMOZ, RIC_FORM; 
+149-2;149;Non rilevabile; ;iC3;; 
+150-1;150;Altra provincia italiana;1;iC3;ARTI_VIS, PROMOZ, RIC_FORM; 
+150-2;150;Non rilevabile; ;iC3;; 
+151-1;151;Altra provincia italiana;5;iC3;ARCHITET, PATRIMON, FRUIZ; 
+151-2;151;Non rilevabile; ;iC3;; 
+151-3;151;Non rilevabile; ;iC3;; 
+151-4;151;Non rilevabile; ;iC3;; 
+151-5;151;Non rilevabile; ;iC3;; 
+151-6;151;Non rilevabile; ;iC3;; 
+152-1;152;Altra provincia italiana;5;iC3;EDITORIA, PATRIMON, PRODUZ, RIC_FORM; 
+152-2;152;Non rilevabile; ;iC3;; 
+152-3;152;Non rilevabile; ;iC3;; 
+152-4;152;Non rilevabile; ;iC3;; 
+152-5;152;Non rilevabile; ;iC3;; 
+152-6;152;Non rilevabile; ;iC3;; 
+153-1;153;Altra provincia italiana;5;iC3;PATRIMON, SPETTAC, FRUIZ, PARTECIP; 
+153-2;153;Non rilevabile; ;iC3;; 
+153-3;153;Non rilevabile; ;iC3;; 
+153-4;153;Non rilevabile; ;iC3;; 
+153-5;153;Non rilevabile; ;iC3;; 
+153-6;153;Non rilevabile; ;iC3;; 
+154-1;154;Monza e della Brianza;1;iC3;ARTI_VIS, PATRIMON, PARTECIP, PROMOZ; 
+154-2;154;Non rilevabile; ;iC3;; 
+155-1;155;Altra provincia italiana;1;iC3;ARTI_VIS, DESIGN, EDUCAZ; 
+155-2;155;Non rilevabile; ;iC3;; 
+156-1;156;Milano;4;iC3;SPETTAC, FRUIZ, PROMOZ; 
+156-2;156;Non rilevabile; ;iC3;; 
+156-3;156;Non rilevabile; ;iC3;; 
+156-4;156;Non rilevabile; ;iC3;; 
+156-5;156;Non rilevabile; ;iC3;; 
+157-1;157;Brescia;2;iC3;ARTIGIAN, PATRIMON, EDUCAZ, PROMOZ; 
+157-2;157;Non rilevabile; ;iC3;; 
+157-3;157;Non rilevabile; ;iC3;; 
+158-1;158;Milano;2;iC3;PATRIMON, SPETTAC, PARTECIP, PROMOZ; 
+158-2;158;Non rilevabile; ;iC3;; 
+158-3;158;Non rilevabile; ;iC3;; 
+159-1;159;Milano;3;iC3;AUDIOVIS, SPETTAC, PARTECIP, PROMOZ; 
+159-2;159;Non rilevabile; ;iC3;; 
+159-3;159;Non rilevabile; ;iC3;; 
+159-4;159;Non rilevabile; ;iC3;; 
+160-1;160;Altra provincia italiana;2;iC3;AUDIOVIS, SPETTAC, DIST_COM, PROMOZ; 
+160-2;160;Non rilevabile; ;iC3;; 
+160-3;160;Non rilevabile; ;iC3;; 
+161-1;161;Altra provincia italiana;1;iC3;ARTI_VIS, AM_ALTRO, EDUCAZ, PROMOZ; 
+161-2;161;Non rilevabile; ;iC3;; 
+162-1;162;Altra provincia italiana;1;iC3;PATRIMON, SPETTAC, FRUIZ, PROMOZ; 
+162-2;162;Non rilevabile; ;iC3;; 
+163-1;163;Altra provincia italiana;1;iC3;ARCHITET, PATRIMON, FRUIZ, PROMOZ; 
+163-2;163;Non rilevabile; ;iC3;; 
+164-1;164;Varese;2;iC3;ARTIGIAN, PATRIMON, EDUCAZ, PARTECIP; 
+164-2;164;Non rilevabile; ;iC3;; 
+164-3;164;Non rilevabile; ;iC3;; 
+165-1;165;Altra provincia italiana;3;iC3;AUDIOVIS, SPETTAC, DIST_COM; 
+165-2;165;Non rilevabile; ;iC3;; 
+165-3;165;Non rilevabile; ;iC3;; 
+165-4;165;Non rilevabile; ;iC3;; 
+166-1;166;Altra provincia italiana;2;iC3;ARCHITET, PATRIMON, EDUCAZ, FRUIZ; 
+166-2;166;Non rilevabile; ;iC3;; 
+166-3;166;Non rilevabile; ;iC3;; 
+167-1;167;Altra provincia italiana;2;iC3;PATRIMON, EDUCAZ, FRUIZ; 
+167-2;167;Non rilevabile; ;iC3;; 
+167-3;167;Non rilevabile; ;iC3;; 
+168-1;168;Altra provincia italiana;2;iC3;EDITORIA, DIST_COM, EDUCAZ; 
+168-2;168;Non rilevabile; ;iC3;; 
+168-3;168;Non rilevabile; ;iC3;; 
+169-1;169;Milano;1;iC3;ARCH_BIB, PATRIMON, CONSERV, PROMOZ; 
+169-2;169;Non rilevabile; ;iC3;; 
+170-1;170;Altra provincia italiana;2;iC3;ARCHITET, PATRIMON, FRUIZ; 
+170-2;170;Non rilevabile; ;iC3;; 
+170-3;170;Non rilevabile; ;iC3;; 
+171-1;171;Varese;2;iC3;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ; 
+171-2;171;Non rilevabile; ;iC3;; 
+171-3;171;Non rilevabile; ;iC3;; 
+172-1;172;Milano;2;iC3;ARTI_VIS, DESIGN, FUNDRAIS, PROMOZ; 
+172-2;172;Non rilevabile; ;iC3;; 
+172-3;172;Non rilevabile; ;iC3;; 
+173-1;173;Monza e della Brianza;1;iC3;ARTI_VIS, PATRIMON, FRUIZ, PRODUZ; 
+173-2;173;Non rilevabile; ;iC3;; 
+174-1;174;Altra provincia italiana;1;iC3;PATRIMON, FRUIZ, PROMOZ; 
+174-2;174;Non rilevabile; ;iC3;; 
+175-1;175;Altra provincia italiana;2;iC3;AUDIOVIS, SPETTAC, FUNDRAIS, PRODUZ; 
+175-2;175;Non rilevabile; ;iC3;; 
+175-3;175;Non rilevabile; ;iC3;; 
+176-1;176;Altra provincia italiana;1;iC3;ARTI_VIS, PATRIMON, EDUCAZ, FRUIZ; 
+176-2;176;Non rilevabile; ;iC3;; 
+177-1;177;Milano;1;iC3;AM_ALTRO, EDUCAZ, PARTECIP; 
+177-2;177;Non rilevabile; ;iC3;; 
+178-1;178;Varese;3;iC3;PATRIMON, AM_ALTRO, FRUIZ, PROMOZ; 
+178-2;178;Non rilevabile; ;iC3;; 
+178-3;178;Non rilevabile; ;iC3;; 
+178-4;178;Non rilevabile; ;iC3;; 
+179-1;179;Milano;1;iC3;EDITORIA, SPETTAC, FRUIZ, PROMOZ; 
+179-2;179;Non rilevabile; ;iC3;; 
+180-1;180;Cremona;3;iC3;ARCHITET, SPETTAC, FRUIZ, RIC_FORM; 
+180-2;180;Non rilevabile; ;iC3;; 
+180-3;180;Non rilevabile; ;iC3;; 
+180-4;180;Non rilevabile; ;iC3;; 
+181-1;181;Milano;3;iC3;EDITORIA, DIST_COM, FRUIZ; 
+181-2;181;Non rilevabile; ;iC3;; 
+181-3;181;Non rilevabile; ;iC3;; 
+181-4;181;Non rilevabile; ;iC3;; 
+182-1;182;Milano;2;iC3;ARCH_BIB, AUDIOVIS, FRUIZ, PROMOZ; 
+182-2;182;Non rilevabile; ;iC3;; 
+182-3;182;Non rilevabile; ;iC3;; 
+183-1;183;Varese;1;iC3;AUDIOVIS, SPETTAC, DIST_COM, PRODUZ; 
+183-2;183;Non rilevabile; ;iC3;; 
+184-1;184;Altra provincia italiana;4;iC3;ARTI_VIS, PATRIMON, PARTECIP, PROMOZ; 
+184-2;184;Non rilevabile; ;iC3;; 
+184-3;184;Non rilevabile; ;iC3;; 
+184-4;184;Non rilevabile; ;iC3;; 
+184-5;184;Non rilevabile; ;iC3;; 
+185-1;185;Altra provincia italiana;4;iC3;AUDIOVIS, SPETTAC, EDUCAZ, PARTECIP; 
+185-2;185;Non rilevabile; ;iC3;; 
+185-3;185;Non rilevabile; ;iC3;; 
+185-4;185;Non rilevabile; ;iC3;; 
+185-5;185;Non rilevabile; ;iC3;; 
+186-1;186;Altra provincia italiana;2;iC3;ARTI_VIS, SPETTAC, FRUIZ, PROMOZ; 
+186-2;186;Non rilevabile; ;iC3;; 
+186-3;186;Non rilevabile; ;iC3;; 
+187-1;187;Altra provincia italiana;2;iC3;ARTI_VIS, PATRIMON, PARTECIP, PRODUZ; 
+187-2;187;Non rilevabile; ;iC3;; 
+187-3;187;Non rilevabile; ;iC3;; 
+188-1;188;Milano;5;iC3;ARCH_BIB, EDITORIA, FRUIZ, PROMOZ; 
+188-2;188;Non rilevabile; ;iC3;; 
+188-3;188;Non rilevabile; ;iC3;; 
+188-4;188;Non rilevabile; ;iC3;; 
+188-5;188;Non rilevabile; ;iC3;; 
+188-6;188;Non rilevabile; ;iC3;; 
+189-1;189;Milano;1;iC3;AUDIOVIS, AM_ALTRO, EDUCAZ, PRODUZ; 
+189-2;189;Non rilevabile; ;iC3;; 
+190-1;190;Brescia;5;iC3;EDITORIA, SPETTAC, EDUCAZ, PARTECIP; 
+190-2;190;Non rilevabile; ;iC3;; 
+190-3;190;Non rilevabile; ;iC3;; 
+190-4;190;Non rilevabile; ;iC3;; 
+190-5;190;Non rilevabile; ;iC3;; 
+190-6;190;Non rilevabile; ;iC3;; 
+191-1;191;Milano;4;iC3;PATRIMON, AM_ALTRO, EDUCAZ, FRUIZ; 
+191-2;191;Non rilevabile; ;iC3;; 
+191-3;191;Non rilevabile; ;iC3;; 
+191-4;191;Non rilevabile; ;iC3;; 
+191-5;191;Non rilevabile; ;iC3;; 
+192-1;192;Milano;1;iC3;ARTIGIAN, SPETTAC, EDUCAZ, PARTECIP; 
+192-2;192;Non rilevabile; ;iC3;; 
+193-1;193;Monza e della Brianza;2;iC3;AUDIOVIS, SPETTAC, EDUCAZ, RIC_FORM; 
+193-2;193;Non rilevabile; ;iC3;; 
+193-3;193;Non rilevabile; ;iC3;; 
+194-1;194;Altra provincia italiana;1;iC3;PATRIMON, AM_ALTRO, FRUIZ, PROMOZ; 
+194-2;194;Non rilevabile; ;iC3;; 
+195-1;195;Altra provincia italiana;1;iC3;PATRIMON, AM_ALTRO, CONSERV, EDUCAZ; 
+195-2;195;Non rilevabile; ;iC3;; 
+196-1;196;Como;1;iC3;AUDIOVIS, EDITORIA, EDUCAZ, FRUIZ; 
+196-2;196;Non rilevabile; ;iC3;; 
+197-1;197;Altra provincia italiana;3;iC3;ARTIGIAN, DESIGN, FRUIZ, PROMOZ; 
+197-2;197;Non rilevabile; ;iC3;; 
+197-3;197;Non rilevabile; ;iC3;; 
+197-4;197;Non rilevabile; ;iC3;; 
+198-1;198;Altra provincia italiana;2;iC3;ARCHITET, PATRIMON, FRUIZ, PROMOZ; 
+198-2;198;Non rilevabile; ;iC3;; 
+198-3;198;Non rilevabile; ;iC3;; 
+199-1;199;Pavia;3;iC3;ARTIGIAN, DESIGN, PARTECIP, PROMOZ; 
+199-2;199;Non rilevabile; ;iC3;; 
+199-3;199;Non rilevabile; ;iC3;; 
+199-4;199;Non rilevabile; ;iC3;; 
+200-1;200;Milano;1;iC3;DESIGN, SPETTAC, EDUCAZ, PARTECIP; 
+200-2;200;Non rilevabile; ;iC3;; 
+201-1;201;Monza e della Brianza;4;iC3;ARTI_VIS, AUDIOVIS, PROMOZ, RIC_FORM; 
+201-2;201;Non rilevabile; ;iC3;; 
+201-3;201;Non rilevabile; ;iC3;; 
+201-4;201;Non rilevabile; ;iC3;; 
+201-5;201;Non rilevabile; ;iC3;; 
+202-1;202;Milano;2;iC3;ARTI_VIS, EDITORIA, DIST_COM, PROMOZ; 
+202-2;202;Non rilevabile; ;iC3;; 
+202-3;202;Non rilevabile; ;iC3;; 
+203-1;203;Altra provincia italiana;2;iC3;AUDIOVIS, SPETTAC, EDUCAZ, RIC_FORM; 
+203-2;203;Non rilevabile; ;iC3;; 
+203-3;203;Non rilevabile; ;iC3;; 
+204-1;204;Monza e della Brianza;5;iC3;SPETTAC, AM_ALTRO, FRUIZ; 
+204-2;204;Non rilevabile; ;iC3;; 
+204-3;204;Non rilevabile; ;iC3;; 
+204-4;204;Non rilevabile; ;iC3;; 
+204-5;204;Non rilevabile; ;iC3;; 
+204-6;204;Non rilevabile; ;iC3;; 
+205-1;205;Milano;2;iC3;ARTI_VIS, PATRIMON, EDUCAZ, RIC_FORM; 
+205-2;205;Non rilevabile; ;iC3;; 
+205-3;205;Non rilevabile; ;iC3;; 
+206-1;206;Bergamo;3;iC3;ARTIGIAN, DESIGN, PARTECIP, PRODUZ; 
+206-2;206;Non rilevabile; ;iC3;; 
+206-3;206;Non rilevabile; ;iC3;; 
+206-4;206;Non rilevabile; ;iC3;; 
+207-1;207;Altra provincia italiana;2;iC3;ARTI_VIS, EDITORIA, FRUIZ, PROMOZ; 
+207-2;207;Non rilevabile; ;iC3;; 
+207-3;207;Non rilevabile; ;iC3;; 
+208-1;208;Altra provincia italiana;1;iC3;AUDIOVIS, EDITORIA, FRUIZ, PARTECIP; 
+208-2;208;Non rilevabile; ;iC3;; 
+209-1;209;Altra provincia italiana;2;iC3;SPETTAC, PARTECIP, PROMOZ; 
+209-2;209;Non rilevabile; ;iC3;; 
+209-3;209;Non rilevabile; ;iC3;; 
+210-1;210;Altra provincia italiana;1;iC3;EDITORIA, PRODUZ, PROMOZ; 
+210-2;210;Non rilevabile; ;iC3;; 
+211-1;211;Milano;1;iC3;ARTI_VIS, SPETTAC, FRUIZ, PROMOZ; 
+211-2;211;Non rilevabile; ;iC3;; 
+212-1;212;Brescia;3;iC3;ARCH_BIB, AUDIOVIS, EDUCAZ, RIC_FORM; 
+212-2;212;Non rilevabile; ;iC3;; 
+212-3;212;Non rilevabile; ;iC3;; 
+212-4;212;Non rilevabile; ;iC3;; 
+213-1;213;Milano;3;iC3;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ; 
+213-2;213;Non rilevabile; ;iC3;; 
+213-3;213;Non rilevabile; ;iC3;; 
+213-4;213;Non rilevabile; ;iC3;; 
+214-1;214;Altra provincia italiana;3;iC3;ARCH_BIB, PATRIMON, CONSERV, FRUIZ; 
+214-2;214;Non rilevabile; ;iC3;; 
+214-3;214;Non rilevabile; ;iC3;; 
+214-4;214;Non rilevabile; ;iC3;; 
+215-1;215;Altra provincia italiana;1;iC3;ARCH_BIB, EDUCAZ, PARTECIP; 
+215-2;215;Non rilevabile; ;iC3;; 
+216-1;216;Varese;5;iC3;ARTI_VIS, SPETTAC, PARTECIP, PROMOZ; 
+216-2;216;Non rilevabile; ;iC3;; 
+216-3;216;Non rilevabile; ;iC3;; 
+216-4;216;Non rilevabile; ;iC3;; 
+216-5;216;Non rilevabile; ;iC3;; 
+216-6;216;Non rilevabile; ;iC3;; 
+217-1;217;Milano;2;iC3;AM_ALTRO, PROMOZ; 
+217-2;217;Non rilevabile; ;iC3;; 
+217-3;217;Non rilevabile; ;iC3;; 
+218-1;218;Pavia;4;iC3;AUDIOVIS, SPETTAC, FRUIZ, PROMOZ; 
+218-2;218;Non rilevabile; ;iC3;; 
+218-3;218;Non rilevabile; ;iC3;; 
+218-4;218;Non rilevabile; ;iC3;; 
+218-5;218;Non rilevabile; ;iC3;; 
+219-1;219;Altra provincia italiana;1;iC3;ARCHITET, ARTI_VIS, FRUIZ, PROMOZ; 
+219-2;219;Non rilevabile; ;iC3;; 
+220-1;220;Cremona;2;iC3;PATRIMON, AM_ALTRO, EDUCAZ, FRUIZ; 
+220-2;220;Non rilevabile; ;iC3;; 
+220-3;220;Non rilevabile; ;iC3;; 
+221-1;221;Altra provincia italiana;4;iC3;EDITORIA, PATRIMON, FRUIZ, PROMOZ; 
+221-2;221;Non rilevabile; ;iC3;; 
+221-3;221;Non rilevabile; ;iC3;; 
+221-4;221;Non rilevabile; ;iC3;; 
+221-5;221;Non rilevabile; ;iC3;; 
+222-1;222;Milano;4;iC3;ARTIGIAN, PATRIMON, FRUIZ, PARTECIP; 
+222-2;222;Non rilevabile; ;iC3;; 
+222-3;222;Non rilevabile; ;iC3;; 
+222-4;222;Non rilevabile; ;iC3;; 
+222-5;222;Non rilevabile; ;iC3;; 
+223-1;223;Milano;1;iC3;AUDIOVIS, SPETTAC, PARTECIP, PRODUZ; 
+223-2;223;Non rilevabile; ;iC3;; 
+224-1;224;Altra provincia italiana;1;iC3;ARCH_BIB, EDITORIA, FRUIZ, RIC_FORM; 
+224-2;224;Non rilevabile; ;iC3;; 
+225-1;225;Altra provincia italiana;5;iC3;ARTI_VIS, DESIGN, EDUCAZ, RIC_FORM; 
+225-2;225;Non rilevabile; ;iC3;; 
+225-3;225;Non rilevabile; ;iC3;; 
+225-4;225;Non rilevabile; ;iC3;; 
+225-5;225;Non rilevabile; ;iC3;; 
+225-6;225;Non rilevabile; ;iC3;; 
+226-1;226;Altra provincia italiana;3;iC3;PATRIMON, SPETTAC, DIST_COM, PROMOZ; 
+226-2;226;Non rilevabile; ;iC3;; 
+226-3;226;Non rilevabile; ;iC3;; 
+226-4;226;Non rilevabile; ;iC3;; 
+227-1;227;Altra provincia italiana;2;iC3;ARCH_BIB, DESIGN, EDUCAZ, PARTECIP; 
+227-2;227;Non rilevabile; ;iC3;; 
+227-3;227;Non rilevabile; ;iC3;; 
+228-1;228;Altra provincia italiana;2;iC3;PATRIMON, SPETTAC, PARTECIP, PROMOZ; 
+228-2;228;Non rilevabile; ;iC3;; 
+228-3;228;Non rilevabile; ;iC3;; 
+229-1;229;Altra provincia italiana;1;iC3;EDITORIA, PATRIMON, EDUCAZ, PARTECIP; 
+229-2;229;Non rilevabile; ;iC3;; 
+230-1;230;Altra provincia italiana;1;iC3;ARTI_VIS, DIST_COM, PRODUZ; 
+230-2;230;Non rilevabile; ;iC3;; 
+231-1;231;Milano;1;iC3;SPETTAC, AM_ALTRO, FRUIZ, PARTECIP; 
+231-2;231;Non rilevabile; ;iC3;; 
+232-1;232;Milano;5;iC3;AUDIOVIS, SPETTAC, EDUCAZ, PROMOZ; 
+232-2;232;Non rilevabile; ;iC3;; 
+232-3;232;Non rilevabile; ;iC3;; 
+232-4;232;Non rilevabile; ;iC3;; 
+232-5;232;Non rilevabile; ;iC3;; 
+232-6;232;Non rilevabile; ;iC3;; 
+233-1;233;Cremona;1;iC3;PATRIMON, AM_ALTRO, DIST_COM, FRUIZ; 
+233-2;233;Non rilevabile; ;iC3;; 
+234-1;234;Milano;2;iC3;ARTI_VIS, EDUCAZ; 
+234-2;234;Non rilevabile; ;iC3;; 
+234-3;234;Non rilevabile; ;iC3;; 
+235-1;235;Milano;3;iC3;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ; 
+235-2;235;Non rilevabile; ;iC3;; 
+235-3;235;Non rilevabile; ;iC3;; 
+235-4;235;Non rilevabile; ;iC3;; 
+236-1;236;Altra provincia italiana;1;iC3;ARTI_VIS, PATRIMON, FRUIZ, PROMOZ; 
+236-2;236;Non rilevabile; ;iC3;; 
+237-1;237;Varese;4;iC3;ARTIGIAN, DESIGN, PARTECIP; 
+237-2;237;Non rilevabile; ;iC3;; 
+237-3;237;Non rilevabile; ;iC3;; 
+237-4;237;Non rilevabile; ;iC3;; 
+237-5;237;Non rilevabile; ;iC3;; 
+238-1;238;Milano;1;iC3;DESIGN, EDITORIA, EDUCAZ, RIC_FORM; 
+238-2;238;Non rilevabile; ;iC3;; 
+239-1;239;Altra provincia italiana;1;iC3;PATRIMON, AM_ALTRO, FRUIZ, PROMOZ; 
+239-2;239;Non rilevabile; ;iC3;; 
+240-1;240;Monza e della Brianza;1;iC3;ARCHITET, PATRIMON, FRUIZ, PROMOZ; 
+240-2;240;Non rilevabile; ;iC3;; 
+241-1;241;Altra provincia italiana;5;iC3;ARTI_VIS, SPETTAC, PARTECIP, RIC_FORM; 
+241-2;241;Non rilevabile; ;iC3;; 
+241-3;241;Non rilevabile; ;iC3;; 
+241-4;241;Non rilevabile; ;iC3;; 
+241-5;241;Non rilevabile; ;iC3;; 
+241-6;241;Non rilevabile; ;iC3;; 
+242-1;242;Milano;1;iC3;AM_ALTRO, FRUIZ, PARTECIP; 
+242-2;242;Non rilevabile; ;iC3;; 
+243-1;243;Milano;2;iC3;AUDIOVIS, EDITORIA, EDUCAZ, PARTECIP; 
+243-2;243;Non rilevabile; ;iC3;; 
+243-3;243;Non rilevabile; ;iC3;; 
+244-1;244;Altra provincia italiana;3;iC3;ARTIGIAN, PATRIMON, EDUCAZ, RIC_FORM; 
+244-2;244;Non rilevabile; ;iC3;; 
+244-3;244;Non rilevabile; ;iC3;; 
+244-4;244;Non rilevabile; ;iC3;; 
+245-1;245;Milano;4;iC3;ARTIGIAN, PATRIMON, DIST_COM, PARTECIP; 
+245-2;245;Non rilevabile; ;iC3;; 
+245-3;245;Non rilevabile; ;iC3;; 
+245-4;245;Non rilevabile; ;iC3;; 
+245-5;245;Non rilevabile; ;iC3;; 
+246-1;246;Altra provincia italiana;4;iC3;AUDIOVIS, AM_ALTRO, PARTECIP, PROMOZ; 
+246-2;246;Non rilevabile; ;iC3;; 
+246-3;246;Non rilevabile; ;iC3;; 
+246-4;246;Non rilevabile; ;iC3;; 
+246-5;246;Non rilevabile; ;iC3;; 
+247-1;247;Milano;1;iC3;AUDIOVIS, SPETTAC, EDUCAZ, PROMOZ; 
+247-2;247;Non rilevabile; ;iC3;; 
+248-1;248;Milano;4;iC3;AUDIOVIS, PATRIMON, EDUCAZ, PROMOZ; 
+248-2;248;Non rilevabile; ;iC3;; 
+248-3;248;Non rilevabile; ;iC3;; 
+248-4;248;Non rilevabile; ;iC3;; 
+248-5;248;Non rilevabile; ;iC3;; 
+249-1;249;Milano;2;iC3;ARTI_VIS, PATRIMON, EDUCAZ, PROMOZ; 
+249-2;249;Non rilevabile; ;iC3;; 
+249-3;249;Non rilevabile; ;iC3;; 
+250-1;250;Milano;1;iC3;AM_ALTRO, EDUCAZ, RIC_FORM; 
+250-2;250;Non rilevabile; ;iC3;; 
+251-1;251;Altra provincia italiana;3;iC3;AUDIOVIS, SPETTAC, PARTECIP, PRODUZ; 
+251-2;251;Non rilevabile; ;iC3;; 
+251-3;251;Non rilevabile; ;iC3;; 
+251-4;251;Non rilevabile; ;iC3;; 
+252-1;252;Milano;1;iC3;SPETTAC, AM_ALTRO, PRODUZ, RIC_FORM; 
+252-2;252;Non rilevabile; ;iC3;; 
+253-1;253;Altra provincia italiana;2;iC3;ARTI_VIS, EDITORIA, FRUIZ, PROMOZ; 
+253-2;253;Non rilevabile; ;iC3;; 
+253-3;253;Non rilevabile; ;iC3;; 
+254-1;254;Milano;2;iC3;ARTI_VIS, EDITORIA, FRUIZ, PROMOZ; 
+254-2;254;Non rilevabile; ;iC3;; 
+254-3;254;Non rilevabile; ;iC3;; 
