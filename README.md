@@ -15,3 +15,6 @@ Il database a grafo [Neo4j](www.neo4j.com) è stata una scelta naturale per rapp
 
 ## Pulizia e Formattazione dei Dati
 Al fine di procedere con l'elaborazione dei dati, questi ultimi sono stati opportunamenti "puliti" e formattati in un formato leggibile in fase di importazione nel database **Neo4j**, in formato *.csv*. Tutta la fase di lettura, pulizia e formattazione è riproducibile attraverso lo script Python *CleanExportData.py*.
+
+## Importazione dati in Neo4j
+I file di output dello scripy Python possono essere importati in Neo4j attraverso la procedura LOAD CSV, contenuta nello script Cypher *LOADCSV.cypher*.
