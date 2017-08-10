@@ -69,7 +69,7 @@ oo['T'] = oo[['T_GIOVAN',
 'T_ALTRO']].eq('Presente').apply(lambda x: tuple(x.index.values[x]), axis=1).apply(list)
 
 # Salva il file per Neo4j
-oo[['ID_UNI','PROV','BANDO','FORMA_GIU','Ambito','T']].to_csv('oo_neo4j.csv', index=False, sep=';')
+oo[['ID_UNI','PROV','BANDO','FORMA_GIU','Ambito','T']].to_csv('OpenOral_neo4j.csv', index=False, sep=';')
 
 #############
 # iC
@@ -106,7 +106,7 @@ ic['Ambito'] = ic[['ARCHITET',
  'RIC_FORM']].eq('Presente').apply(lambda x: tuple(x.index.values[x]), axis=1).apply(list)
 
 # Salva il file per Neo4j
-ic[['ID','ID_PROG','PROV','TEAM','EDIZIONE','Ambito','AGIURID']].to_csv('ic_neo4j.csv', index=False, sep=';')
+ic[['ID','ID_PROG','PROV','TEAM','EDIZIONE','Ambito','AGIURID']].to_csv('iC_neo4j.csv', index=False, sep=';')
 
 #############
 # CheFare
@@ -172,4 +172,4 @@ cf['Ambito'] = cf[['AGRICOLT',
  'ALTRO']].eq('Presente').apply(lambda x: tuple(x.index.values[x]), axis=1).apply(list)
 
 # Salva il file per Neo4j
-cf[['ID_UNI','REGIONE','EDIZIONE','TIPO_ORG','Ambito']].to_csv('cf_neo4j.csv', index=False, sep=';')
+cf[['ID_UNI','REGIONE','EDIZIONE','TIPO_ORG','Ambito']].to_csv('CheFare_neo4j.csv', index=False, sep=';')
