@@ -28,4 +28,4 @@ I file di output dello script Python possono essere importati in Neo4j attravers
 Il database completo è stato quindi esportato in [Gephi](https://gephi.org) per visualizzare e clusterizzare opportunamenti i dati. Per l'esportazione da Neo4j è necessario scaricare il file *.jar* delle procedure [APOC](https://neo4j-contrib.github.io/neo4j-apoc-procedures/). Lo script di esportazione del grafo in streaming a Gephi è disponibile in *src/ExportGephi.cypher*, completo delle istruzioni per il corretto settaggio delle comunicazioni. Il file risultante dallo streaming dei dati è disponibile in *src/OpenDataCultura.gephi* e manipolabile per ulteriori visualizzazioni e/o ricerca di informazioni.
 
 ## Ringraziamenti
-Grazie al team @larusba per il costante supporto nella ricerca e nell'analisi dati con database a grafo.
+Grazie al team [LARUS](http://www.larus-ba.it) per il costante supporto nella ricerca e nell'analisi dati con database a grafo.
